@@ -1,39 +1,28 @@
 ---
 type: Concept
 title: NAHB Housing Market Index
-description: Monatlicher Frühindikator für den US-Immobilien- und Bausektor basierend auf Bauunternehmer-Umfragen.
-sources: [raw/nahb_housing_market_index.md]
-timestamp: 2026-09-07T11:20:00Z
+description: Monatlicher Stimmungstest unter US-Bauunternehmern erhoben von NAHB und Wells Fargo.
+sources: [/raw/nahb_housing_market_index.md]
+timestamp: 2026-09-10T04:30:00Z
 ---
 
 # NAHB Housing Market Index
 
-Der **NAHB Housing Market Index** ist ein viel beachteter, monatlicher Frühindikator für die Verfassung des US-Immobilien- und Bausektors. Er wird gemeinschaftlich von der National Association of Home Builders (NAHB) und der Bank Wells Fargo erhoben.
+Der **NAHB Housing Market Index** ist ein monatlicher Frühindikator für den US-Wohnungsbau, erhoben von der National Association of Home Builders (NAHB) und Wells Fargo.
 
-## Funktionsweise
+## Skala und Interpretation
+* **Index > 50:** Mehrheit der Bauunternehmer schätzt die Lage als positiv / "gut" ein.
+* **Index < 50:** Mehrheitlich pessimistische Stimmung / Kontraktion des Marktes.
 
-Der Index basiert auf einer monatlichen Umfrage unter Hunderten von US-Bauunternehmern. Er misst deren subjektive Einschätzung bezüglich des Marktes für den Bau und Verkauf von neuen Einfamilienhäusern anhand von:
-* Der gegenwärtigen Lage.
-* Den Verkaufserwartungen für die nächsten sechs Monate.
-* Der Anzahl potenzieller Käufer (Besichtigungen).
+## Komponenten der Umfrage
+1. Gegenwärtige Geschäftslage beim Verkauf von Einfamilienhäusern.
+2. Verkaufserwartungen für die nächsten 6 Monate.
+3. Kundenstrom (Interessentenbesichtigungen).
 
-### Interpretation der Werte
-* **> 50:** Mehrheit der Bauunternehmer sieht die Bedingungen als positiv an.
-* **< 50:** Mehrheit der Bauunternehmer ist pessimistisch (Kontraktion des Marktes).
-
-## Einfluss auf die Börse
-
-Da die Bauwirtschaft hochgradig zinsabhängig ist, hat der Index direkten Einfluss auf die Finanzmärkte:
-
-| Szenario | Signal | Auswirkungen |
-| :--- | :--- | :--- |
-| **Höher als erwartet** | Starke Dynamik | **Positiv:** Treibt Aktien von Bauunternehmen (Homebuilders), Baumärkten und Banken. <br> **Risiko:** Kann Zinssorgen schüren (Inflationsgefahr). |
-| **Niedriger als erwartet** | Abkühlung | **Negativ:** Belastet Branchenaktien des Bausektors. <br> **Positiv:** Stärkt die Hoffnung auf Zinssenkungen durch die Fed. |
+## Einfluss auf Märkte
+* **Höher als erwartet:** Positiv für Aktien von Homebuildern, Baumärkten und Banken. Bei sehr hohen Werten Risiko von Inflations- und Zinssorgen.
+* **Niedriger als erwartet:** Belastet Branchenaktien, nährt aber Spekulationen auf taubenhafte [[concepts/fomc-decision|Fed-Geldpolitik]].
 
 ## Verknüpfte Konzepte
-* [Empire State Manufacturing Index](/concepts/empire-state-manufacturing-index.md)
-* [Philadelphia Fed Manufacturing Index](/concepts/philadelphia-fed-manufacturing-index.md)
-* [Fed Dual Mandate](/concepts/fed-dual-mandate.md)
-
-## timeline
-* [kind: decision] [2026-09-07T11:20:00Z] Neues Konzept basierend auf bereitgestellten Informationen erstellt.
+* [[concepts/housing-market-indicators|US-Immobilienmarktindikatoren]]
+* [[concepts/mba-mortgage-applications|MBA Mortgage Applications]]
