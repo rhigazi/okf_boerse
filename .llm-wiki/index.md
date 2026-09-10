@@ -3,7 +3,7 @@ type: Index
 title: Wiki Index
 description: Hauptverzeichnis des Makro-Wissens-Wikis.
 sources: []
-timestamp: 2026-09-10T04:30:00Z
+timestamp: 2026-09-10T07:15:00Z
 ---
 
 # Wiki Index
@@ -15,6 +15,7 @@ timestamp: 2026-09-10T04:30:00Z
 * [/concepts/empire-state-manufacturing-index.md](/concepts/empire-state-manufacturing-index.md)
 * [/concepts/existing-home-sales.md](/concepts/existing-home-sales.md)
 * [/concepts/fed-dual-mandate.md](/concepts/fed-dual-mandate.md)
+* [/concepts/finanzbildungsstrategie.md](/concepts/finanzbildungsstrategie.md)
 * [/concepts/fomc-decision.md](/concepts/fomc-decision.md)
 * [/concepts/forward-guidance.md](/concepts/forward-guidance.md)
 * [/concepts/housing-market-indicators.md](/concepts/housing-market-indicators.md)
@@ -29,6 +30,7 @@ timestamp: 2026-09-10T04:30:00Z
 * [/concepts/real-wages-fed-policy.md](/concepts/real-wages-fed-policy.md)
 * [/concepts/retail-sales.md](/concepts/retail-sales.md)
 * [/concepts/us-dollar-index-dxy.md](/concepts/us-dollar-index-dxy.md)
+* [/concepts/vae-deutschland-investitionen.md](/concepts/vae-deutschland-investitionen.md)
 * [/concepts/vergleich-regional-indizes.md](/concepts/vergleich-regional-indizes.md)
 * [/concepts/wage-price-spiral.md](/concepts/wage-price-spiral.md)
 * [/concepts/wholesale-inventories.md](/concepts/wholesale-inventories.md)
@@ -36,8 +38,10 @@ timestamp: 2026-09-10T04:30:00Z
 
 ## Entitäten (Entities)
 * [/entities/apple-inc.md](/entities/apple-inc.md)
+* [/entities/inditex-sa.md](/entities/inditex-sa.md)
 * [/entities/meta-platforms-inc.md](/entities/meta-platforms-inc.md)
 * [/entities/nike-inc.md](/entities/nike-inc.md)
+* [/entities/richemont.md](/entities/richemont.md)
 
 ## Notizen (Notes)
 * [/notes/trading-risk-calendar-sept-2026.md](/notes/trading-risk-calendar-sept-2026.md)
