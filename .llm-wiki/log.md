@@ -1,5 +1,7 @@
 # Log
 
+- 2026-09-10T07:15:00Z — ingest: apple-event-roundup (raw/apple_event_roundup_10_sept_2026.md) - Erstellung/Update von apple-inc.md, inditex-sa.md, richemont.md.
+
 - 2026-09-10T06:30:00Z — ingest: pressespiegel-10-sept-2026 (raw/pressespiegel_10_sept_2026.md) - Erstellung von finanzbildungsstrategie.md & vae-deutschland-investitionen.md.
 
 - 2026-09-10T04:30:00Z — Ingest & update: Processed all raw files in .llm-wiki/raw/ into canonical concepts and updated index.
