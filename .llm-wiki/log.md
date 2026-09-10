@@ -1,5 +1,15 @@
 # Log
 
+- 2026-09-10T09:15:00Z — ingest: maerkte-asien (raw/maerkte_asien_10_sept_2026.md) - Erstellung von tsmc.md und nvidia-corp.md.
+
+- 2026-09-10T07:45:00Z — ingest: morning-briefing-10-sept-2026 (raw/morning_briefing_10_sept_2026.md) - Erstellung von geopolitische-risiken.md und update meta-platforms-inc.md.
+
+- 2026-09-10T07:15:00Z — ingest: apple-event-roundup (raw/apple_event_roundup_10_sept_2026.md) - Erstellung/Update von apple-inc.md, inditex-sa.md, richemont.md.
+
+- 2026-09-10T06:30:00Z — ingest: pressespiegel-10-sept-2026 (raw/pressespiegel_10_sept_2026.md) - Erstellung von finanzbildungsstrategie.md & vae-deutschland-investitionen.md.
+
+- 2026-09-10T04:30:00Z — Ingest & update: Processed all raw files in .llm-wiki/raw/ into canonical concepts and updated index.
+
 - 2026-09-06T05:26:37Z — ingest: wirtschaftsindikatoren-sept-2026 (raw/source_to_ingest.md)
 
 - 2026-09-06T05:12:09Z — Filled in the source page with analysis of real income, consumer spending, and central bank signals.
