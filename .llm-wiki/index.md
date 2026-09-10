@@ -3,7 +3,7 @@ type: Index
 title: Wiki Index
 description: Hauptverzeichnis des Makro-Wissens-Wikis.
 sources: []
-timestamp: 2026-09-10T07:15:00Z
+timestamp: 2026-09-10T07:45:00Z
 ---
 
 # Wiki Index
@@ -18,6 +18,7 @@ timestamp: 2026-09-10T07:15:00Z
 * [/concepts/finanzbildungsstrategie.md](/concepts/finanzbildungsstrategie.md)
 * [/concepts/fomc-decision.md](/concepts/fomc-decision.md)
 * [/concepts/forward-guidance.md](/concepts/forward-guidance.md)
+* [/concepts/geopolitische-risiken.md](/concepts/geopolitische-risiken.md)
 * [/concepts/housing-market-indicators.md](/concepts/housing-market-indicators.md)
 * [/concepts/import-export-price-index.md](/concepts/import-export-price-index.md)
 * [/concepts/initial-jobless-claims.md](/concepts/initial-jobless-claims.md)
