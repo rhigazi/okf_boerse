@@ -1,0 +1,20 @@
+Das Realeinkommen (Real Income) beschreibt das Einkommen von Verbrauchern oder Haushalten nach Abzug der Inflation. Während das Nominaleinkommen lediglich den reinen Geldbetrag auf dem Gehaltszettel angibt, drückt das Realeinkommen die tatsächliche Kaufkraft aus – also wie viele Waren und Dienstleistungen man sich für dieses Geld tatsächlich kaufen kann.
+
+Die grundlegende Berechnung lautet:
+[Realeinkommen] = [Nominaleinkommen] - [Inflationsrate (CPI)]
+
+Auswirkung auf die Aktienmärkte:
+Da der private Konsum in modernen Volkswirtschaften (wie den USA) rund 70 % des Bruttoinlandsprodukts (BIP) ausmacht, ist die Kaufkraft der Verbraucher ein fundamentaler Treiber für die Börse. Das Realeinkommen beeinflusst die Aktienmärkte über folgende Kanäle:
+
+1. Steigendes Realeinkommen (Wachsender Wohlstand)
+Wenn die Löhne schneller steigen als die Inflation, haben die Menschen mehr Geld zur freien Verfügung.
+- Positive Auswirkung auf Aktien: Verbraucher geben mehr Geld für nicht-lebensnotwendige Güter aus (z. B. Elektronik, Reisen, Autos, Restaurantbesuche). Dies kurbelt die Umsätze und Gewinne von Unternehmen im zyklischen Konsumgütersektor an. Branchen-ETFs wie der Consumer Discretionary Sector SPDR Fund (NYSEARCA:XLY) oder der breite S&P 500 (INDEXSP:.INX) profitieren in diesem Szenario meist deutlich.
+
+2. Sinkendes Realeinkommen (Kaufkraftverlust)
+Steigen die Preise (Inflation) schneller als die Löhne, kommt es zu einem realen Einkommensverlust. Die Verbraucher müssen den Gürtel enger schnallen.
+- Negative Auswirkung auf zyklische Aktien: Große Anschaffungen werden aufgeschoben. Unternehmen spüren eine sinkende Nachfrage, was zu Umsatz- und Gewinnwarnungen führt. Dies belastet den Aktienmarkt und drückt die Kurse.
+- Flucht in defensive Sektoren: In Phasen sinkender Realeinkommen schichten Investoren ihr Kapital oft in defensive Sektoren um, die lebensnotwendige Güter anbieten (z. B. Basiskonsumgüter wie Nahrungsmittel oder Versorger), da diese Ausgaben von Verbrauchern nicht einfach gestrichen werden können.
+
+3. Signal für die Zentralbanken (Geldpolitik)
+Die US-Notenbank (Federal Reserve) beobachtet die Entwicklung der Reallöhne sehr genau.
+- Wenn die Reallöhne zu stark und zu schnell steigen, droht eine Lohn-Preis-Spirale, da Unternehmen die höheren Arbeitskosten über Preiserhöhungen an die Kunden weitergeben. Die Fed reagiert darauf meist mit höheren Zinsen, um die Wirtschaft abzukühlen, was Aktien tendenziell belastet.

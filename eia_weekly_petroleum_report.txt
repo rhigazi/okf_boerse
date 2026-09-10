@@ -1,0 +1,17 @@
+Der EIA Weekly Petroleum Status Report (oft einfach EIA-Ölbericht genannt) ist einer der einflussreichsten wöchentlichen Berichte für die Energiemärkte. Er wird jeden Mittwoch um 10:30 Uhr EDT (16:30 Uhr deutscher Zeit) von der U.S. Energy Information Administration (EIA), einer Behörde des US-Energieministeriums, veröffentlicht.
+Der Bericht liefert exakte Daten über die Rohöl- und Treibstoffvorräte der USA sowie über die heimische Ölproduktion, die Raffinerieauslastung und die Import-/Exportmengen der vergangenen Woche.
+
+Zentrale Kennzahlen des Berichts:
+- Rohöllagerbestände (Crude Inventories): Die Veränderung der gelagerten Rohölmenge in Barrel.
+- Benzin- und Destillatbestände (Gasoline & Distillates Inventories): Die Vorräte an raffinierten Produkten (wie Benzin und Diesel), die als direkter Gradmesser für die Verbrauchernachfrage gelten.
+- Cushing-Lagerbestände: Das Niveau im strategisch wichtigen Ölknotenpunkt Cushing (Oklahoma), dem offiziellen Lieferort für US-Rohöl (WTI).
+
+Einfluss auf die Börse:
+1. Einfluss auf den Ölpreis (WTI & Brent):
+- Höherer Aufbau der Lagerbestände als erwartet: Signalisiert Überangebot oder schwache Nachfrage -> Ölpreis fällt.
+- Stärkerer Abbau der Lagerbestände als erwartet: Deutet auf hohe Nachfrage oder knappes Angebot hin -> Ölpreis steigt.
+
+2. Einfluss auf den Aktienmarkt (S&P 500 & Sektor-ETFs):
+- Energieaktien: Kurse von Ölkonsernen (z.B. ExxonMobil, Chevron) und ETFs wie XLE bewegen sich meist parallel zum Ölpreis. Ein starker Bestandsabbau lässt diese Aktien steigen.
+- Verbraucher- und Transportaktien: Steigende Ölpreise belasten Fluggesellschaften, Logistikunternehmen und Consumer Discretionary (XLY), da die Treibstoffkosten steigen.
+- Gesamtmarkt (S&P 500): Extreme Sprünge beim Ölpreis können Inflationssorgen schüren und die Fed zu einer strafferen Zinspolitik bewegen, was den Gesamtmarkt belasten kann.

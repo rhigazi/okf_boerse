@@ -1,0 +1,18 @@
+Die Reaktion des US-Dollars auf deutliche Veränderungen des Ölpreises hat sich historisch stark gewandelt. Da die USA mittlerweile der weltweit größte Rohölproduzent sind, zeigt sich heute oft eine positive (gleichgerichtete) Korrelation, obwohl im kurzfristigen Handel auch die traditionelle inverse (gegensätzliche) Beziehung eine Rolle spielt.
+
+Die Marktreaktionen teilen sich im Wesentlichen in zwei Dynamiken auf:
+
+1. Die moderne Dynamik: Die USA als Ölexporteur (Positive Korrelation)
+Da die USA durch den Schieferöl-Boom massiv Öl exportieren, profitiert die US-Wirtschaft direkt von hohen Energiepreisen.
+- Steigender Ölpreis: Führt zu höheren Einnahmen und Investitionen im US-Energiesektor. Dies stärkt das Wirtschaftswachstum der USA im Vergleich zu Ländern, die reine Ölimporteure sind (wie Japan oder die Eurozone). In der Folge wertet der US-Dollar tendenziell auf.
+- Sinkender Ölpreis: Belastet die US-Fracking-Industrie und bremst dort Investitionen, was den US-Dollar schwächen kann.
+
+2. Die traditionelle Handelsdynamik: Goldene Regel des Devisenmarktes (Inverse Beziehung)
+Unabhängig von der Wirtschaftsleistung reagiert der Dollar im kurzfristigen Devisenhandel (Forex) oft gegensätzlich, da Rohöl weltweit in US-Dollar abgerechnet wird.
+- Ein schwacher US-Dollar macht Öl für Käufer außerhalb des Dollarraums günstiger. Die Nachfrage zieht an, was den Ölpreis steigen lässt.
+- Ein starker US-Dollar verteuert Rohöl international, was die weltweite Nachfrage drosselt und den Ölpreis drückt.
+
+Sonderfall: Reaktion von "Petrowährungen"
+Verändert sich der Ölpreis drastisch, reagiert der US-Dollar im Vergleich zu bestimmten Währungen besonders deutlich:
+- Bei steigenden Ölpreisen wertet der US-Dollar gegenüber Währungen von Netto-Ölimporteuren (wie dem Euro oder dem Japanischen Yen) auf.
+- Gleichzeitig verliert der Dollar in diesem Szenario jedoch meist an Wert gegenüber sogenannten Petrowährungen – also den Währungen großer Ölexporteure wie dem Kanadischen Dollar (CAD) oder der Norwegischen Krone (NOK).

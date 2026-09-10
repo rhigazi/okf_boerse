@@ -1,0 +1,44 @@
+# Wirtschaftsindikatoren und Marktauswirkungen - September 2026
+
+## Import-/Exportpreisindex (U.S. Import and Export Price Indexes)
+Monatlicher Wirtschaftsindikator des Bureau of Labor Statistics (BLS). Misst Preisveränderungen von Importen und Exporten der USA.
+
+### Bedeutung für die Wirtschaft:
+- **Frühindikator für Inflation**: Importpreise zeigen "importierte Inflation". Steigende Preise für ausländische Vorprodukte erhöhen den Druck auf PPI und CPI.
+- **Wechselkurse**: Spiegelt die Stärke des USD wider (starker USD = billigere Importe, teurere Exporte).
+- **Handelsbilanz**: Verhältnis zwischen Export- und Importpreisen (Terms of Trade).
+
+### Einfluss auf die Börse:
+- **Höher als erwartet**: Inflationsdruck -> Sorge vor restriktiver Fed-Politik -> Belastung S&P 500, Anstieg USD und Anleiherenditen.
+- **Niedriger als erwartet**: Abkühlung der Preise -> Entlastung Rentenmärkte -> Erleichterungsrallye am Aktienmarkt.
+
+---
+
+## FOMC Meeting / Zinsentscheidung (Federal Reserve Decision)
+Einflussreichstes Ereignis der globalen Finanzmärkte. Die Fed entscheidet über den Leitzins (Federal Funds Rate) zur Erfüllung des Doppelmandats (Preisstabilität & Beschäftigung).
+
+### Details zum September 2026 Meeting:
+- **Termin**: 15.-16. September 2026.
+- **Bekanntgabe**: Mittwoch, 16. September 2026, 14:00 Uhr EDT.
+- **Besonderheiten**: Veröffentlichung wirtschaftlicher Prognosen und des "Dot Plot".
+
+### Auswirkungen auf die Aktienmärkte:
+- **Zinssenkung / Dovish**: Rallye bei Aktien (besonders Tech), USD sinkt, Anleihekurse steigen.
+- **Zinserhöhung / Hawkish**: Aktien fallen, USD wertet auf, Anleihen werden attraktiver als Aktien.
+
+---
+
+## US-Immobilienmarktindikatoren
+Wichtiger Katalysator für die US-Konjunktur, stark zinsabhängig.
+
+### 1. Building Starts & Permits (Baubeginne & Genehmigungen)
+- **Building Permits**: Frühindikator für zukünftige Aktivität.
+- **Housing Starts**: Tatsächlicher Baubeginn.
+
+### 2. Home Sales (Immobilienverkäufe)
+- **Existing Home Sales**: Verkäufe bestehender Häuser (~85-90% des Marktes).
+- **New Home Sales**: Neubauverkäufe (dynamischerer Frühindikator).
+
+### Einfluss auf die Börse:
+- **Starker Markt (> Erwartung)**: Umsatzschub für zyklische Konsumgüter (z.B. NYSEARCA:XLY). Risiko: Inflationssorgen könnten straffere Zinspolitik forcieren.
+- **Schwacher Markt (< Erwartung)**: Rezessionsängste, belastet zyklische Aktien. Hoffnung auf baldige Zinssenkungen kann Anleiherenditen drücken.

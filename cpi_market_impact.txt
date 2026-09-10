@@ -1,0 +1,18 @@
+Der Verbraucherpreisindex (engl. Consumer Price Index, kurz CPI) ist der weltweit wichtigste Indikator zur Messung der Inflation. Er spiegelt die durchschnittliche Preisveränderung aller Waren und Dienstleistungen wider, die von privaten Haushalten für Konsumzwecke gekauft werden (der sogenannte „statistische Warenkorb“). Dazu gehören Ausgaben für Lebensmittel, Wohnungsmieten, Energie, Kleidung, Transport und medizinische Versorgung.
+
+Beim CPI wird zwischen zwei Kennzahlen unterschieden:
+- Gesamt-CPI (Headline CPI): Enthält alle Preise des Warenkorbs, inklusive der stark schwankenden Preise für Energie und Nahrungsmittel.
+- Kern-CPI (Core CPI): Rechnet Energie- und Nahrungsmittelpreise heraus. Da diese oft von saisonalen Faktoren oder Geopolitik beeinflusst werden, gilt der Kern-CPI als verlässlicherer Indikator für den langfristigen Inflationstrend.
+
+Welche Auswirkung hat der CPI auf die Aktienmärkte?
+Der CPI-Bericht gehört zu den einflussreichsten Wirtschaftsdaten überhaupt und führt an den Börsen (wie dem S&P 500 INDEXSP:.INX) regelmäßig zu erheblichen Kursschwankungen. Die Marktreaktion basiert fast ausschließlich auf der Frage, was die Zahlen für die Zinspolitik der Zentralbank (Federal Reserve) bedeuten:
+
+1. Der CPI fällt HÖHER aus als erwartet (Negative Marktreaktion)
+Die Auswirkung: Aktienkurse – insbesondere im Technologie- und Wachstumssektor (wie im NASDAQ Composite INDEXNASDAQ:.IXIC) – geraten oft stark unter Druck.
+Der Hintergrund: Eine hohe Inflation signalisiert der Fed, dass sie die Leitzinsen anheben oder länger auf einem restriktiven Niveau belassen muss, um die Wirtschaft abzukühlen. Höhere Zinsen verteuern Kredite für Unternehmen, bremsen das Wirtschaftswachstum und verringern den Barwert zukünftiger Unternehmensgewinne, was Aktien weniger attraktiv macht. Gleichzeitig steigen Anleiherenditen und der US-Dollar wertet auf.
+
+2. Der CPI fällt NIEDRIGER aus als erwartet (Positive Marktreaktion)
+Die Auswirkung: Die Aktienmärkte reagieren meist mit einer spürbaren Erleichterungsrallye und steigenden Kursen.
+Der Hintergrund: Eine sinkende oder stagnierende Inflation signalisiert, dass die geldpolitischen Maßnahmen der Notenbank Wirkung zeigen. Der Markt schöpft die Hoffnung, dass die Fed die Zinsen bald senken oder zumindest nicht weiter anheben wird. Niedrigere Zinsen stimulieren die Wirtschaft, verbilligen Investitionen und treiben die Bewertungen an den Aktienmärkten an.
+
+Ausnahme: Sinkt die Inflation zu drastisch, kann dies am Markt auch Ängste vor einer schweren Rezession oder einer Deflation schüren, was wiederum negativ für Aktien wäre.

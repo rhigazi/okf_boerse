@@ -1,0 +1,21 @@
+Der US-Dollar-Index (DXY) hat einen erheblichen Einfluss auf den globalen Aktienmarkt. Da der US-Dollar die unangefochtene Weltleitwährung ist, bewegt sich der DXY historisch gesehen meist invers (gegensätzlich) zu den weltweiten Aktienmärkten.
+
+Hier sind die zentralen Kanäle, wie der DXY die globalen Börsen beeinflusst:
+
+1. Gradmesser für Risikoaversion („Safe Haven“-Effekt)
+In Zeiten geopolitischer Krisen, wirtschaftlicher Unsicherheit oder Marktpanik flüchten Investoren weltweit in den US-Dollar, da er als der sicherste liquide Hafen gilt.
+- DXY steigt: Dies signalisiert oft, dass Anleger Kapital aus risikoreicheren Anlagen wie Aktien abziehen und Bargeld oder US-Staatsanleihen bevorzugen. Die globalen Aktienmärkte geraten dann meist unter Druck.
+- DXY fällt: Dies deutet auf eine hohe Risikobereitschaft („Risk-on“-Stimmung) hin. Investoren leihen oder tauschen Dollar, um in renditestärkere Assets wie internationale Aktien zu investieren.
+
+2. Belastung für US-amerikanische Multi-Konzerne
+Für die großen, exportorientierten US-Unternehmen im S&P 500 (INDEXSP:.INX) ist ein starker Dollar ein zweifacher Nachteil:
+- Preiseffekt: US-Produkte werden im Ausland (z. B. in Europa oder Asien) teurer, was die Wettbewerbsfähigkeit und den Absatz schmälert.
+- Wechselkurseffekt: Wenn diese Konzerne ihre Auslandseinnahmen in Euro, Yen oder Yuan erzielen, sind diese bei der Rückrechnung in einen starken US-Dollar für die Quartalsbilanz weniger wert. Ein stark steigender DXY dämpft daher oft die Gewinnprognosen der Wall Street.
+
+3. Massiver Druck auf Schwellenländer (Emerging Markets)
+Schwellenländer reagieren besonders empfindlich auf den DXY:
+- Viele Unternehmen und Regierungen in Schwellenländern verschulden sich in US-Dollar, erwirtschaften ihre Einnahmen jedoch in ihrer lokalen Währung.
+- Steigt der DXY, wertet die heimische Währung ab. Die Rückzahlung und Verzinsung der Dollar-Schulden wird schlagartig teurer, was das Risiko von Insolvenzen erhöht und die Aktienmärkte dieser Regionen massiv belastet. Zudem fließt bei einem starken Dollar massiv internationales Kapital aus den Schwellenländern zurück in den US-Raum.
+
+4. Kopplung an die Rohstoffmärkte
+Da Rohstoffe wie Öl, Kupfer und Gold global in Dollar abgerechnet werden, führt ein steigender DXY meist zu sinkenden Rohstoffpreisen. Dies belastet direkt die Aktien von Rohstoffproduzenten, Minengesellschaften und Energiekonzernen weltweit.

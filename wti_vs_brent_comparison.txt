@@ -1,0 +1,18 @@
+Der Hauptunterschied zwischen WTI (West Texas Intermediate) und Brent Crude liegt in ihrer geografischen Herkunft, ihren chemischen Eigenschaften und den jeweiligen Handelsplätzen. Beide dienen als die weltweit wichtigsten Referenzpreise (Benchmarks) für Rohöl.
+
+Hier sind die wichtigsten Unterschiede im Detail:
+
+1. Herkunft und Förderort
+- Brent Crude: Stammt aus der Nordsee (Europa), vorwiegend aus Feldern zwischen Großbritannien und Norwegen. Da es im Meer gefördert wird, lässt es sich per Öltanker direkt und kostengünstig weltweit verschiffen.
+- WTI: Wird in den USA gefördert (hauptsächlich in Texas, Louisiana und North Dakota). Es ist ein reines Festland-Öl, dessen Transport über Pipelines zu zentralen Knotenpunkten erfolgt.
+
+2. Chemische Zusammensetzung (Qualität)
+Beide Ölsorten gelten als qualitativ hochwertig, da sie „leicht“ (geringe Dichte) und „süß“ (niedriger Schwefelgehalt) sind. Dadurch lassen sie sich relativ leicht zu Benzin und Diesel raffinieren.
+WTI ist noch etwas leichter und süßer als Brent, weshalb es chemisch gesehen die leicht höherwertige Qualität aufweist.
+
+3. Handelsplatz und Lieferort
+- Brent: Wird an der Börse ICE Futures Europe in London gehandelt. Es gilt als Preismaßstab für etwa zwei Drittel des weltweit gehandelten Rohöls (vor allem in Europa, Afrika und dem Nahen Osten).
+- WTI: Wird an der New York Mercantile Exchange (NYMEX) gehandelt. Der physische Hauptlieferort und Herzknotenpunkt ist das Lagerstättenzentrum Cushing in Oklahoma.
+
+4. Preisunterschied (Der Spread)
+Obwohl WTI qualitativ leicht besser ist, wird Brent in der Regel teurer gehandelt als WTI. Dieser Preisunterschied (Brent-WTI-Spread) liegt vor allem an den Transportbedingungen: WTI ist stark an die Infrastruktur und Pipeline-Kapazitäten in den USA (Cushing) gebunden. Gibt es dort einen Rückstau oder ein Überangebot, drückt das den WTI-Preis. Brent hingegen kann flexibel per Schiff dorthin transportiert werden, wo die globale Nachfrage gerade am höchsten ist.

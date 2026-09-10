@@ -1,0 +1,12 @@
+{
+  "name": "okf-boerse-wiki",
+  "version": "1.0.0",
+  "description": "Börsen-Wissensbaum mit Bibliothekar-Agent",
+  "main": ".llm-wiki/index.md",
+  "scripts": {
+    "build": "npx pi-llm-wiki build"
+  },
+  "dependencies": {
+    "pi-llm-wiki": "latest"
+  }
+}

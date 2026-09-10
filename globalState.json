@@ -1,0 +1,62 @@
+{
+  "workspaceRoots": [
+    {
+      "path": "/app",
+      "name": "app",
+      "vcs": "none"
+    }
+  ],
+  "primaryRootIndex": 0,
+  "actModeApiProvider": "openai",
+  "planModeApiProvider": "openai",
+  "actModeOpenAiModelId": "ogemma-4-26b-a4b-it",
+  "planModeOpenAiModelId": "gemma-4-26b-a4b-it",
+  "openAiBaseUrl": "http://host.docker.internal:1234/v1",
+  "globalWorkflowToggles": {},
+  "globalDiracRulesToggles": {},
+  "openAiCompatibleProfiles": [
+    {
+      "name": "host.docker.internal:1234 · gemma-4-26b-a4b-it",
+      "baseUrl": "http://host.docker.internal:1234/v1",
+      "apiKey": "lm-studioLocal",
+      "modelId": "gemma-4-26b-a4b-it",
+      "modelInfo": {
+        "maxTokens": -1,
+        "contextWindow": 60000,
+        "supportsImages": true,
+        "supportsPromptCache": false,
+        "supportsTools": true,
+        "supportsReasoning": true,
+        "supportsStrictTools": false,
+        "isR1FormatRequired": true,
+        "inputPrice": 0,
+        "outputPrice": 0,
+        "temperature": 0
+      },
+      "headers": {}
+    }
+  ],
+  "actModeOpenAiProfileName": "host.docker.internal:1234 · gemma-4-26b-a4b-it",
+  "modelProviderPresets": [
+    {
+      "id": "openai:host.docker.internal%3A1234%20%C2%B7%20gemma-4-26b-a4b-it:gemma-4-26b-a4b-it",
+      "provider": "openai",
+      "modelId": "gemma-4-26b-a4b-it",
+      "modelInfo": {
+        "maxTokens": -1,
+        "contextWindow": 256000,
+        "supportsImages": true,
+        "supportsPromptCache": false,
+        "supportsTools": true,
+        "supportsReasoning": true,
+        "supportsStrictTools": false,
+        "isR1FormatRequired": true,
+        "inputPrice": 0,
+        "outputPrice": 0,
+        "temperature": 0
+      },
+      "openAiProfileName": "host.docker.internal:1234 · gemma-4-26b-a4b-it",
+      "lastUsedAt": 1786157525090
+    }
+  ]
+}

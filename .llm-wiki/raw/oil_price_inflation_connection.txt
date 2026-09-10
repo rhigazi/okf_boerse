@@ -1,0 +1,12 @@
+Steigende Ölpreise haben einen direkten und signifikanten Einfluss auf die Inflation, da Rohöl die Basis für Treibstoffe, Energie und unzählige Vorprodukte bildet. Volkswirte unterscheiden dabei zwischen zwei wesentlichen Übertragungswegen:
+
+1. Direkte Effekte (Erste Welle)
+Ein Anstieg der Rohölpreise schlägt sich fast unmittelbar an den Tankstellen und bei den Heizkosten der Verbraucher nieder. Da Benzin, Diesel und Heizöl feste Bestandteile des statistischen Warenkorbs sind, steigt die gemessene Gesamtinflation (Headline Inflation) sofort an.
+
+2. Indirekte Effekte und Zweitrundeneffekte (Zweite Welle)
+Diese Auswirkungen erreichen die Wirtschaft mit einer gewissen Verzögerung, sind jedoch oft hartnäckiger:
+- Steigende Transport- und Produktionskosten: Höhere Treibstoffpreise verteuern den Transport aller Güter (z. B. Lebensmittel im Supermarkt). Zudem benötigt die Industrie (insbesondere Chemie, Logistik und verarbeitendes Gewerbe) Öl und Energie für die Produktion. Die Unternehmen geben diese Mehrkosten über kurz oder lang in Form von höheren Endpreisen an die Verbraucher weiter (Angebotsinflation).
+- Lohn-Preis-Spirale: Verharren die Energiepreise länger auf hohem Niveau, fordern Arbeitnehmer höhere Löhne, um den Kaufkraftverlust auszugleichen. Ziehen die Löhne flächendeckend nach, erhöht das wiederum die Kosten der Unternehmen, was zu weiteren Preissteigerungen führen kann.
+
+Die Reaktion der Notenbanken
+Um eine dauerhaft hohe Inflation zu verhindern, fokussieren sich Zentralbanken wie die US-Notenbank (Federal Reserve) meist auf die Kerninflationsrate (Core Inflation), bei der die schwankungsanfälligen Energie- und Nahrungsmittelpreise herausgerechnet werden. Steigen jedoch die indirekten Effekte (Kernrate zieht an), reagieren Notenbanken in der Regel mit Zinserhöhungen, um die Wirtschaft abzukühlen und die Inflation einzudämmen.
