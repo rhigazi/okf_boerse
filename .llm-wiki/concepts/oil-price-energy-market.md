@@ -1,26 +1,33 @@
 ---
 type: Concept
-title: Ölpreis & Energie-Markt (Brent/WTI)
-description: Dynamik der Rohölpreise und deren Einfluss auf die globale Inflation und die US-Wirtschaft.
-sources: [raw/oil_news_sept_2026.md]
-timestamp: 2026-09-10T16:30:00Z
+title: Ölpreis & Energie-Markt (Brent / WTI & Inflation)
+description: Dynamik der Rohölpreise (Brent vs. WTI), Verknüpfung zur Inflation, US-Dollar und die Rolle des EIA-Ölberichts.
+sources: [/raw/eia_weekly_petroleum_report.txt, /raw/oil_price_inflation_connection.txt, /raw/usd_oil_correlation.txt, /raw/wti_vs_brent_comparison.txt]
+timestamp: 2026-09-10T04:30:00Z
 ---
 
-# Ölpreis & Energie-Markt (Brent/WTI)
+# Ölpreis & Energie-Markt (Brent / WTI & Inflation)
 
-Die Ölpreise sind ein kritischer makroökonomischer Faktor, da sie sowohl die Produktionskosten als auch die Inflationserwartungen direkt beeinflussen.
+Die Rohölpreise sind ein fundamentaler Treiber der weltweiten Konjunktur und der [[concepts/consumer-price-index|Inflation]].
 
-## Aktuelle Marktdynamik (September 2026)
+## WTI vs. Brent Crude
+* **Brent Crude:** Nordsee-Öl (Europa/ICE Futures London). Referenzpreis für ~2/3 des weltweiten Ölhandels. Per Öltanker flexibel verschiffbar.
+* **WTI (West Texas Intermediate):** US-Festland-Öl (NYMEX). Chemisch etwas leichter und süßer (höhere Qualität). Logistisch an Pipelines und den Lagerknotenpunkt **Cushing (Oklahoma)** gebunden.
+* **Brent-WTI Spread:** Brent wird meist mit einem Aufschlag gehandelt, da WTI stärker an regionale Kapazitätsengpässe in den USA gebunden ist.
 
-### Eskalation im Nahen Osten (09. Sept. 2026)
-Die geopolitische Lage hat die Ölpreise massiv nach oben getrieben:
-* **Preissprung:** Brent-Rohöl stieg erstmals seit Juli wieder über die Marke von **100 USD pro Fass**.
-* **Ursache:** Die Eskalation des Konflikts zwischen den USA und dem Iran um die Kontrolle der **Straße von Hormus**.
-* **Marktreaktion:** 
-    * **Energieaktien:** Unternehmen wie **Chevron** und **ExxonMobil** profitierten von diesem Anstieg (Zuwächse bis zu 2,2 %).
-    * **Standardwerte (Dow Jones):** Die steigenden Ölpreise belasteten die breiten Märkte und verstärkten die Sorgen vor einer anhaltenden Inflation.
+## Übertragung auf Inflation & Geldpolitik
+1. **Direkte Effekte (Erste Welle):** Schlägt sich sofort in Tankstellen- und Heizkosten nieder $\rightarrow$ Anstieg der Gesamtinflation (Headline CPI).
+2. **Indirekte Effekte & Zweitrunden-Effekte (Zweite Welle):** Höhere Transport- und Produktionskosten verteuern alle Endprodukte (Angebotsinflation). Hält dieser Zustand an, droht eine [[concepts/wage-price-spiral|Lohn-Preis-Spirale]].
+3. **Zentralbank-Reaktion:** Die [[concepts/fed-dual-mandate|Federal Reserve]] blickt primär auf die Kernrate (Core CPI), greift jedoch bei anhaltenden Zweitrundeneffekten mit Zinserhöhungen ein.
+
+## Der EIA Weekly Petroleum Status Report
+Jeden Mittwoch um 10:30 Uhr EDT veröffentlicht:
+* Misst US-Rohöllagerbestände, Benzin-/Destillatbestände und Bestände in Cushing.
+* **Bestandsaufbau > Erwartung:** Überangebot/schwache Nachfrage $\rightarrow$ Ölpreis fällt.
+* **Bestandsabbau > Erwartung:** Hohe Nachfrage/knappes Angebot $\rightarrow$ Ölpreis steigt $\rightarrow$ Energieaktien steigen, Konsum/Transportaktien geraten unter Druck.
 
 ## Verknüpfte Konzepte
-* [Inflation & CPI](/concepts/consumer-price-index.md)
-* [Fed Dual Mandate](/concepts/fed-dual-mandate.md)
-* [Geopolitische Risiken](/concepts/geopolitical-risks.md)
+* [[concepts/consumer-price-index|Consumer Price Index (CPI)]]
+* [[concepts/us-dollar-index-dxy|US Dollar Index (DXY)]]
+* [[concepts/fed-dual-mandate|Fed Dual Mandate]]
+* [[concepts/wage-price-spiral|Lohn-Preis-Spirale]]

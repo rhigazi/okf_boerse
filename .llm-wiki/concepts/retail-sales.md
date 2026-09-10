@@ -1,40 +1,23 @@
 ---
 type: Concept
-title: Retail Sales
-description: Monatlicher Indikator über die Einnahmen von Unternehmen im US-Einzelhandel.
-sources: [raw/retail_sales.md]
-timestamp: 2026-09-07T11:05:00Z
+title: Retail Sales (Einzelhandelsumsätze)
+description: Monatlicher Indikator des U.S. Census Bureau zur Messung des privaten Konsums in den USA.
+sources: [/raw/retail_sales.md]
+timestamp: 2026-09-10T04:30:00Z
 ---
 
 # Retail Sales (Einzelhandelsumsätze)
 
-**Retail Sales** ist einer der wichtigsten monatlichen Wirtschaftsindikatoren in den USA, veröffentlicht vom U.S. Census Bureau. Er misst die gesamten Einnahmen von Unternehmen, die Waren direkt an Endverbraucher verkaufen.
+Die **Retail Sales (Einzelhandelsumsätze)** messen die Gesamteinnahmen der US-Einzelhändler und gelten als direkter Gradmesser für den privaten Konsum, der ca. 70 % des US-Bruttoinlandsprodukts (BIP) ausmacht.
 
-## Bedeutung für die US-Wirtschaft
+## Kern-Einzelhandelsumsätze (Core Retail Sales)
+Schließt schwankungsanfällige Komponenten wie Autoverkäufe und Tankstellenumsätze aus, um den zugrundeliegenden Konsumtrend abzubilden.
 
-* **Konsum als Wachstumsmotor:** Da der private Konsum etwa 70 % des US-Bruttoinlandsprodukts (BIP) ausmacht, ist dieser Bericht ein direkter Gradmesser für die wirtschaftliche Stärke der USA.
-* **Tatsächliches Verhalten vs. Stimmung:** Während Umfragen (wie die Michigan Consumer Sentiment) nur die Stimmung abfragen, dokumentieren Retail Sales das tatsächliche Ausgabeverhalten der Bürger.
-
-## Wichtige Kennzahl: Core Retail Sales
-
-Analysten legen besonderes Augenmerk auf die **Kern-Einzelhandelsumsätze** (*Core Retail Sales*). Hierbei werden volatile Sektoren herausgerechnet:
-* **Autoverkäufe** (oft preisgetrieben und schwankungsanfällig).
-* **Tankstellenumsätze** (stark abhängig vom volatilen Ölpreis).
-
-Die Kernrate liefert somit ein stabileres Bild des zugrunde liegenden Konsumtrends.
-
-## Marktreaktion (Börse)
-
-Die Veröffentlichung löst oft hohe Volatilität aus, da die Reaktion stark vom Kontext der Zinspolitik der Fed abhängt:
-
-| Szenario | Signal | Auswirkung auf Märkte |
-| :--- | :--- | :--- |
-| **Höher als erwartet** | Starkes Wachstum | **Positiv:** Stützt zyklische Konsumwerte (z. B. XLY) und den S&P 500. <br> **Risiko:** Bei Überhitzung Sorge vor Inflation $\rightarrow$ Zinsanstieg möglich. |
-| **Niedriger als erwartet** | Abkühlung | **Negativ:** Schürt Rezessionsängste. <br> **Positiv (bei hohen Zinsen):** Signalisiert nachlassende Inflation $\rightarrow$ Hoffnung auf Zinssenkungen. |
+## Einfluss auf die Börse
+* **Umsätze > Erwartung:** Signalisiert robustes Wirtschaftswachstum und gute Gewinne bei Konsumwerten. Risiko: Kann Sorgen vor Wirtschaftsüberhitzung und restriktiver [[concepts/fed-dual-mandate|Fed-Zinspolitik]] schüren.
+* **Umsätze < Erwartung:** Signalisiert Abkühlung des Konsums und Schürung von Rezessionsängsten. In Hochzinsphasen jedoch gelegentlich als positives Signal nachlassenden Inflationsdrucks gewertet.
 
 ## Verknüpfte Konzepte
-* [Fed Dual Mandate](/concepts/fed-dual-mandate.md)
-* [Consumer Sentiment](/concepts/michigan-consumer-sentiment.md)
-
-## timeline
-* [kind: decision] [2026-09-07T11:05:00Z] Neues Konzept basierend auf bereitgestellten Informationen erstellt.
+* [[concepts/real-wages-fed-policy|Reallöhne und Fed-Geldpolitik]]
+* [[concepts/consumer-credit|Consumer Credit (Konsumkredite)]]
+* [[concepts/consumer-price-index|Consumer Price Index (CPI)]]
