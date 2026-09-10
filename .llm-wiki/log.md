@@ -1,5 +1,9 @@
 # Log
 
+- 2026-09-10T06:30:00Z — ingest: pressespiegel-10-sept-2026 (raw/pressespiegel_10_sept_2026.md) - Erstellung von finanzbildungsstrategie.md & vae-deutschland-investitionen.md.
+
+- 2026-09-10T04:30:00Z — Ingest & update: Processed all raw files in .llm-wiki/raw/ into canonical concepts and updated index.
+
 - 2026-09-06T05:26:37Z — ingest: wirtschaftsindikatoren-sept-2026 (raw/source_to_ingest.md)
 
 - 2026-09-06T05:12:09Z — Filled in the source page with analysis of real income, consumer spending, and central bank signals.
