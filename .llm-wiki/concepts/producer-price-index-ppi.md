@@ -1,40 +1,24 @@
 ---
 type: Concept
 title: Producer Price Index (PPI)
-description: Misst die durchschnittliche Veränderung der Verkaufspreise, die inländische Produzenten für ihre Waren und Dienstleistungen erhalten. Er ist ein wichtiger Frühindikator für die Inflation.
-sources: []
-timestamp: 2026-09-06T04:55:25Z
+description: Monatlicher Indikator des U.S. Bureau of Labor Statistics für die Preisentwicklung auf Erzeugerebene (Großhandel/Industrie).
+sources: [/raw/economic-indicators-sept-2026.txt, /raw/us_schluss_oracle_adobe_10_sept_2026.md]
+timestamp: 2026-09-10T22:27:01Z
 ---
 
 # Producer Price Index (PPI)
 
-Der PPI zeigt die Inflation aus der Sicht der Hersteller und Unternehmen. Er ist ein entscheidender Indikator für die Preisentwicklung in der gesamten Wirtschaftskette.
+Der **Producer Price Index (PPI)** misst die durchschnittliche Veränderung der Verkaufspreise, die von inländischen Produzenten für ihre Produkte und Dienstleistungen erzielt werden. Er gilt als wichtiger Frühindikator für den [[concepts/consumer-price-index|Consumer Price Index (CPI)]].
 
-## Bedeutung für die Märkte
+## August 2026 Daten (Veröffentlicht 10. Sept. 2026)
+* **Gesamt-PPI (YoY):** Anstieg um **5,4 %** (Erwartung: 5,3 %; Vormonat Juli: 5,0 %). Angetrieben durch steigende Energie- und Transportkosten.
+* **PPI (MoM):** +0,4 % (im Rahmen der Erwartungen).
+* **Kern-PPI (ohne Nahrungsmittel & Energie):** +0,3 % MoM.
 
-1. **Frühindikator für den CPI:** Da der PPI die Preise auf der Herstellerebene misst, bevor sie den Endverbraucher erreichen, liefert er wertvolle Hinweise auf den kommenden Verbraucherpreisindex (CPI).
-2. **Signal für die Fed:** Ein hoher PPI signalisiert Inflationsdruck und erhöht die Wahrscheinlichkeit für restriktive Zinspolitik (Zinserhöhungen oder längere Hochzinsphasen).
-
-## Marktreaktionen
-
-Die Reaktion der Finanzmärkte lässt sich in zwei Hauptszenarien unterteilen:
-
-### 1. PPI fällt höher aus als erwartet (Ansteigender Inflationsdruck)
-* **Aktienmarkt:** Die Kurse geben in der Regel nach – besonders betroffen sind Wachstums- und Technologieaktien (wie im NASDAQ Composite). Höhere Erzeugerpreise können Gewinnmargen schmälern oder zu steigenden Endverbraucherpreisen führen.
-* **Zinspolitik & Anleihen:** Der Markt befürchtet, dass die Zentralbank (Fed) die Leitzinsen anheben oder länger auf einem hohen Niveau belassen muss. In der Folge steigen die Renditen von Staatsanleihen.
-* **Währungen & Rohstoffe:** Der US-Dollar wertet meist auf, während der Goldpreis tendenziell unter Druck gerät.
-
-### 2. PPI fällt niedriger aus als erwartet (Nachlassender Inflationsdruck)
-* **Aktienmarkt:** Die Kurse an den Aktienmärkten (z. B. im S&P 500) steigen häufig. Niedrigere Produktionskosten entlasten die Unternehmen und signalisieren eine Abschwächung der Inflation.
-* **Zinspolitik & Anleihen:** Sinkende Erzeugerpreise geben den Notenbanken mehr Spielraum für Zinssenkungen oder eine lockerere Geldpolitik. Dies lässt die Anleiherenditen sinken.
-* **Währungen & Rohstoffe:** Der US-Dollar tendiert oft schwächer, was wiederum Rohstoffen wie Gold Auftrieb verleihen kann.
+## Marktauswirkungen
+* **PPI höher als erwartet:** Befeuerte am Markt Sorgen vor hartnäckiger [[concepts/wage-price-spiral|Inflation]], was die Erwartungen für eine [[concepts/fomc-decision|Fed-Zinserhöhung]] im September auf 71 % ansteigen ließ und die Renditen 10-jähriger US-Anleihen auf 4,94 % trieb.
 
 ## Verknüpfte Konzepte
-* [Fed Dual Mandate](/concepts/fed-dual-mandate.md)
-* [Consumer Credit](/concepts/consumer-credit.md)
-* [Existing Home Sales](/concepts/existing-home-sales.md)
-
-## timeline
-* **kind: decision**
-  **summary:** Ergänzung der Marktreaktions-Szenarien basierend auf aktuellen Marktanalysen.
-
+* [[concepts/consumer-price-index|Consumer Price Index (CPI)]]
+* [[concepts/fomc-decision|FOMC Zinsentscheidung]]
+* [[concepts/import-export-price-index|Import- und Exportpreisindex]]

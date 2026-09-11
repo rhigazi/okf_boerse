@@ -1,22 +1,25 @@
 ---
 type: Concept
-title: Import-/Exportpreisindex (U.S. Import and Export Price Indexes)
-description: Monatlicher Wirtschaftsindikator zur Messung der Preisveränderungen von Importen und Exporten der USA.
+title: Import- und Exportpreisindex (U.S. Import & Export Price Indexes)
+description: Monatlicher Indikator des Bureau of Labor Statistics zur Messung preislicher Veränderungen im Außenhandel der USA.
 sources: [/raw/economic-indicators-sept-2026.txt]
-timestamp: 2026-09-06T05:39:48.855983Z
-status: active
+timestamp: 2026-09-10T04:30:00Z
 ---
 
-# Import-/Exportpreisindex
+# Import- und Exportpreisindex (U.S. Import & Export Price Indexes)
 
-Der Import-/Exportpreisindex misst die Preisveränderungen von Waren und Dienstleistungen, die in die USA importiert oder aus den USA exportiert werden.
+Der **Import- und Exportpreisindex** wird monatlich vom Bureau of Labor Statistics (BLS) veröffentlicht und misst Preisveränderungen im US-Außenhandel.
 
-## Wirtschaftliche Bedeutung
-- **Frühindikator für Inflation**: Zeigt "importierte Inflation" an (Druck auf PPI und CPI).
-- **Wechselkurse**: Spiegelt die USD-Stärke wider.
-- **Handelsbilanz**: Bestimmt die Terms of Trade.
+## Wirtschaftskanäle
+* **Frühindikator für Inflation:** Importpreise zeigen "importierte Inflation". Höhere Preise für ausländische Vorprodukte schlagen später auf den [[concepts/producer-price-index-ppi|PPI]] und [[concepts/consumer-price-index|CPI]] durch.
+* **Wechselkurse:** Eng verknüpft mit dem [[concepts/us-dollar-index-dxy|US Dollar Index (DXY)]] (starker USD macht Importe günstiger).
+* **Handelsbilanz (Terms of Trade):** Verhältnis zwischen Export- und Importpreisen.
 
 ## Marktauswirkungen
-- **Höher als erwartet**: Inflationssorgen $\rightarrow$ restriktive Fed-Politik $\rightarrow$ Belastung Aktien (S&P 500), Anstieg USD & Anleiherenditen.
-- **Niedriger als erwartet**: Preisabkühlung $\rightarrow$ Entlastung Anleihen $\rightarrow$ Erleichterungsrallye am Aktienmarkt.
+* **Höher als erwartet:** Inflationsdruck $\rightarrow$ Erwartung restriktiver Fed-Politik $\rightarrow$ Druck auf Aktien, Anstieg von USD und Renditen.
+* **Niedriger als erwartet:** Nachlassender Preisdruck $\rightarrow$ Erleichterung an den Märkten.
 
+## Verknüpfte Konzepte
+* [[concepts/consumer-price-index|Consumer Price Index (CPI)]]
+* [[concepts/producer-price-index-ppi|Producer Price Index (PPI)]]
+* [[concepts/us-dollar-index-dxy|US Dollar Index (DXY)]]
