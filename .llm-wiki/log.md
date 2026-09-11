@@ -1,5 +1,7 @@
 # Log
 
+- 2026-09-10T22:30:00Z — ingest: us-schluss-oracle-adobe (raw/us_schluss_oracle_adobe_10_sept_2026.md) - Erstellung von oracle-corp.md, adobe-inc.md & update producer-price-index-ppi.md.
+
 - 2026-09-10T09:15:00Z — ingest: maerkte-asien (raw/maerkte_asien_10_sept_2026.md) - Erstellung von tsmc.md und nvidia-corp.md.
 
 - 2026-09-10T07:45:00Z — ingest: morning-briefing-10-sept-2026 (raw/morning_briefing_10_sept_2026.md) - Erstellung von geopolitische-risiken.md und update meta-platforms-inc.md.

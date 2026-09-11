@@ -3,7 +3,7 @@ type: Index
 title: Wiki Index
 description: Hauptverzeichnis des Makro-Wissens-Wikis.
 sources: []
-timestamp: 2026-09-10T09:15:00Z
+timestamp: 2026-09-10T22:30:00Z
 ---
 
 # Wiki Index
@@ -38,11 +38,13 @@ timestamp: 2026-09-10T09:15:00Z
 * [/concepts/wochenvorschau-termine-sept-2026.md](/concepts/wochenvorschau-termine-sept-2026.md)
 
 ## Entitäten (Entities)
+* [/entities/adobe-inc.md](/entities/adobe-inc.md)
 * [/entities/apple-inc.md](/entities/apple-inc.md)
 * [/entities/inditex-sa.md](/entities/inditex-sa.md)
 * [/entities/meta-platforms-inc.md](/entities/meta-platforms-inc.md)
 * [/entities/nike-inc.md](/entities/nike-inc.md)
 * [/entities/nvidia-corp.md](/entities/nvidia-corp.md)
+* [/entities/oracle-corp.md](/entities/oracle-corp.md)
 * [/entities/richemont.md](/entities/richemont.md)
 * [/entities/tsmc.md](/entities/tsmc.md)
 
