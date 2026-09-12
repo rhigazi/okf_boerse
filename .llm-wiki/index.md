@@ -3,7 +3,7 @@ type: Index
 title: Wiki Index
 description: Hauptverzeichnis des Makro-Wissens-Wikis.
 sources: []
-timestamp: 2026-09-12T00:00:00Z
+timestamp: 2026-09-12T01:00:00Z
 ---
 
 # Wiki Index
@@ -20,6 +20,7 @@ timestamp: 2026-09-12T00:00:00Z
 * [/concepts/fomc-decision.md](/concepts/fomc-decision.md)
 * [/concepts/forward-guidance.md](/concepts/forward-guidance.md)
 * [/concepts/geopolitische-risiken.md](/concepts/geopolitische-risiken.md)
+* [/concepts/german-insolvency-trends.md](/concepts/german-insolvency-trends.md)
 * [/concepts/housing-market-indicators.md](/concepts/housing-market-indicators.md)
 * [/concepts/import-export-price-index.md](/concepts/import-export-price-index.md)
 * [/concepts/initial-jobless-claims.md](/concepts/initial-jobless-claims.md)
@@ -33,6 +34,7 @@ timestamp: 2026-09-12T00:00:00Z
 * [/concepts/real-wages-fed-policy.md](/concepts/real-wages-fed-policy.md)
 * [/concepts/regional-market-divergence-usa-europe.md](/concepts/regional-market-divergence-usa-europe.md)
 * [/concepts/retail-sales.md](/concepts/retail-sales.md)
+* [/concepts/uk-economic-indicators.md](/concepts/uk-economic-indicators.md)
 * [/concepts/us-dollar-index-dxy.md](/concepts/us-dollar-index-dxy.md)
 * [/concepts/us-treasury-yields.md](/concepts/us-treasury-yields.md)
 * [/concepts/vae-deutschland-investitionen.md](/concepts/vae-deutschland-investitionen.md)

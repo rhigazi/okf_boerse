@@ -2,8 +2,8 @@
 type: Concept
 title: University of Michigan Consumer Sentiment Index
 description: Ein wichtiger Frühindikator für das Verbrauchervertrauen und die künftigen Konsumausgaben in den USA.
-sources: []
-timestamp: 2026-09-06T05:50:00Z
+sources: [/raw/processed/offizielle_ergebnisse_wirtschaftsdaten_sept_2026.md]
+timestamp: 2026-09-11T23:30:00Z
 status: active
 ---
 
@@ -43,6 +43,11 @@ Für die Marktreaktion ist die Unterscheidung zwischen vorläufigen und endgült
 
 *Hinweis: Die größte Volatilität entsteht, wenn die vorläufigen Zahlen massiv von den Erwartungen abweichen.*
 
+## Aktuelle Daten (September 2026 - Preliminary)
+
+* **Ergebnis:** Unerwartet deutlicher Rückgang auf **47,8 Punkte** (Erwartet: 51,4; Vormonat August: 51,7).
+* **Einordnung:** Dies ist der tiefste Stand der Verbraucherstimmung seit Monaten. US-Konsumenten zeigen sich primär durch die anhaltend zähe [[concepts/consumer-price-index|Kerninflation (Core CPI)]] und gestiegene Kraftstoffpreise stark verunsichert.
+
 ## Zusammenhänge
 
 * Siehe auch: [/concepts/real-wages-fed-policy.md](/concepts/real-wages-fed-policy.md) (Zusammenhang zwischen Kaufkraft/Reallöhnen und Konsumneigung).
@@ -52,3 +57,4 @@ Für die Marktreaktion ist die Unterscheidung zwischen vorläufigen und endgült
 
 - **2026-09-06T05:45:00Z**: `kind: decision` - Seite initial erstellt zur Dokumentation des Consumer Sentiment Index als Frühindikator.
 - **2026-09-06T05:50:00Z**: `kind: decision` - Unterscheidung zwischen Preliminary und Final Daten hinzugefügt zur besseren Einschätzung der Marktvolatilität.
+- **2026-09-11T16:00:00Z**: `kind: observation` - Vorläufiger September-Wert bricht auf 47,8 Punkte ein (Tiefststand seit Monaten).

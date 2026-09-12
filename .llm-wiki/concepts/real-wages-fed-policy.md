@@ -2,8 +2,8 @@
 type: Concept
 title: Reallöhne und Fed-Geldpolitik
 description: Zusammenhang zwischen der Entwicklung der Reallöhne (Löhne nach Inflation), der Konsumkraft und der geldpolitischen Reaktion der Federal Reserve.
-sources: [/raw/real_income_market_impact.txt]
-timestamp: 2026-09-10T04:30:00Z
+sources: [/raw/real_income_market_impact.txt, /raw/processed/offizielle_ergebnisse_wirtschaftsdaten_sept_2026.md]
+timestamp: 2026-09-11T23:30:00Z
 status: active
 ---
 
@@ -21,6 +21,11 @@ Da der private Konsum rund 70 % des US-Bruttoinlandsprodukts (BIP) ausmacht, bil
 ## 2. Sinkende Reallöhne (Kaufkraftverlust & Rezessionsrisiko)
 * **Wirkung:** Preise steigen schneller als Löhne. Ausgaben werden auf lebensnotwendige Güter reduziert; Kapital fließt in defensive Sektoren (Basiskonsumgüter, Versorger).
 * **Fed-Reaktion:** Anhaltender Kaufkraftverlust drosselt die Konjunktur. Bei nachlassender Inflation schwenkt die Fed auf Zinssenkungen um, um das Wirtschaftswachstum zu stützen.
+
+## Aktuelle Entwicklung (August 2026 - Veröffentlicht 11. Sept. 2026)
+* **Reale durchschnittliche Wochenlöhne:** **+0,16 % gg. Vm**
+* **Reale durchschnittliche Stundenlöhne:** **-0,09 % gg. Vm**
+* **Einordnung:** Unterm Strich blieben die inflationsbereinigten Realeinkommen der US-Haushalte im August 2026 weitgehend stabil. Es zeigten sich weder massive Kaufkraftgewinne noch dramatischer Verfall, weshalb der Konsumdruck weder befeuert noch kollabiert ist.
 
 ## Verknüpfte Konzepte
 * [[concepts/consumer-price-index|Consumer Price Index (CPI)]]

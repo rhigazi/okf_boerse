@@ -1,5 +1,7 @@
 # Log
 
+- 2026-09-12T01:00:00Z — ingest: offizielle-ergebnisse-wirtschaftsdaten-sept-2026 (raw/processed/offizielle_ergebnisse_wirtschaftsdaten_sept_2026.md) - Erstellung von uk-economic-indicators.md & german-insolvency-trends.md; Updates für michigan-consumer-sentiment.md, real-wages-fed-policy.md & oil-price-energy-market.md.
+
 - 2026-09-12T00:00:00Z — ingest: wochenvorschau-bis-25-september-2026 (raw/processed/wochenvorschau_termine_bis_25_september_2026.md) - Update von wochenvorschau-termine-sept-2026.md um Detaillaufzeit 14.-18. September 2026.
 
 - 2026-09-11T23:30:00Z — ingest: markt-einflussfaktoren-11-sept-2026 (raw/processed/markt_einflussfaktoren_11_sept_2026.md) - Erstellung von us-treasury-yields.md, mortgage-spread-housing.md, equity-risk-premium.md & regional-market-divergence-usa-europe.md; Updates für consumer-price-index.md, us-dollar-index-dxy.md, adp-employment-report.md & initial-jobless-claims.md.
