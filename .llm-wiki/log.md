@@ -1,5 +1,7 @@
 # Log
 
+- 2026-09-11T08:00:00Z — ingest: morning-briefing-11-sept-2026 (raw/morning_briefing_11_sept_2026.md) - Erstellung von volkswagen-ag.md, flatexdegiro-ag.md & n26-se.md.
+
 - 2026-09-10T22:30:00Z — ingest: us-schluss-oracle-adobe (raw/us_schluss_oracle_adobe_10_sept_2026.md) - Erstellung von oracle-corp.md, adobe-inc.md & update producer-price-index-ppi.md.
 
 - 2026-09-10T09:15:00Z — ingest: maerkte-asien (raw/maerkte_asien_10_sept_2026.md) - Erstellung von tsmc.md und nvidia-corp.md.
