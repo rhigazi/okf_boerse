@@ -16,3 +16,8 @@ Du hast Zugriff auf das NPM-Paket `pi-llm-wiki`. Nutze die CLI-Befehle dieses Sk
 1. **Paket installieren:**
    ```bash
    npm install
+   
+## Git-Workflow
+Bevor du deine Änderungen committest und den PR erstellst, führe immer folgende Schritte aus, um Merge-Konflikte zu vermeiden:
+1. `git fetch origin main`
+2. `git rebase origin/main`
