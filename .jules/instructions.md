@@ -21,3 +21,8 @@ Du hast Zugriff auf das NPM-Paket `pi-llm-wiki`. Nutze die CLI-Befehle dieses Sk
 Bevor du deine Änderungen committest und den PR erstellst, führe immer folgende Schritte aus, um Merge-Konflikte zu vermeiden:
 1. `git fetch origin main`
 2. `git rebase origin/main`
+
+## Regeln für Metadaten in Dateien:
+- Überschreibe bestehende Quellangaben nicht.
+- Füge neue Quellen in `sources` immer als neue Liste an oder hänge sie an (Appends).
+- Aktualisiere `timestamp` nur auf das Datum der neuesten verarbeiteten Information.
