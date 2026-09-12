@@ -1,26 +1,28 @@
 ---
 type: Concept
-title: Ölpreis & Energie-Markt (Brent/WTI)
-description: Dynamik der Rohölpreise und deren Einfluss auf die globale Inflation und die US-Wirtschaft.
-sources: [raw/oil_news_sept_2026.md]
-timestamp: 2026-09-10T16:30:00Z
+title: Ölpreis & Energie-Markt (Brent / WTI & Inflation)
+description: Dynamik der Rohölpreise (Brent vs. WTI), Verknüpfung zur Inflation, US-Dollar und die Rolle des EIA-Ölberichts.
+sources: [/raw/eia_weekly_petroleum_report.txt, /raw/oil_price_inflation_connection.txt, /raw/usd_oil_correlation.txt, /raw/wti_vs_brent_comparison.txt, /raw/offizielle_daten_und_adobe_roundup_11_sept_2026.md]
+timestamp: 2026-09-11T23:00:00Z
 ---
 
-# Ölpreis & Energie-Markt (Brent/WTI)
+# Ölpreis & Energie-Markt (Brent / WTI & Inflation)
 
-Die Ölpreise sind ein kritischer makroökonomischer Faktor, da sie sowohl die Produktionskosten als auch die Inflationserwartungen direkt beeinflussen.
+Die Rohölpreise sind ein fundamentaler Treiber der weltweiten Konjunktur und der [[concepts/consumer-price-index|Inflation]].
 
-## Aktuelle Marktdynamik (September 2026)
+## Aktuelle Preis- & Marktvolatilität (Woche bis 11. Sept 2026)
+* **Brent-Schlusskurs:** **104,61 USD** pro Barrel (Wochenplus von ~9 %; Donnerstag-Zwischenhoch über 107–108 USD).
+* **WTI-Schlusskurs:** **100,05 USD** pro Barrel (Wochenplus von ~10 %; Donnerstag-Zwischenhoch über 102 USD).
+* **Kraftstoffmarkt (US-Diesel):** Aufgrund knapper Raffineriebestände (Destillate 13 % unter 5-Jahres-Schnitt) stieg der US-Dieselpreis auf ein **Allzeithoch von über 6 USD pro Gallone**.
+* **Treiber:** Nahost-Eskalation (Einnahme der jemenitischen Hafenstadt Mocha durch Houthi-Rebellen am Roten Meer).
 
-### Eskalation im Nahen Osten (09. Sept. 2026)
-Die geopolitische Lage hat die Ölpreise massiv nach oben getrieben:
-* **Preissprung:** Brent-Rohöl stieg erstmals seit Juli wieder über die Marke von **100 USD pro Fass**.
-* **Ursache:** Die Eskalation des Konflikts zwischen den USA und dem Iran um die Kontrolle der **Straße von Hormus**.
-* **Marktreaktion:** 
-    * **Energieaktien:** Unternehmen wie **Chevron** und **ExxonMobil** profitierten von diesem Anstieg (Zuwächse bis zu 2,2 %).
-    * **Standardwerte (Dow Jones):** Die steigenden Ölpreise belasteten die breiten Märkte und verstärkten die Sorgen vor einer anhaltenden Inflation.
+## Der EIA Weekly Petroleum Status Report (Daten per 10. Sept 2026)
+* **Rohöllagerbestände:** Rückgang um **0,4 Mio. Barrel** auf 424,1 Mio. Barrel (geringerer Abbau als erwartet).
+* **Benzin & Destillate:** Anstieg um +1,3 Mio. Barrel (Benzin) bzw. +2,1 Mio. Barrel (Destillate) bei hoher Raffinerieauslastung (97,8 %).
+* **US-Förderrekord:** Die US-Rohölproduktion erreichte mit **13,95 Millionen Barrel pro Tag** einen neuen wöchentlichen Allzeitreitwert.
 
 ## Verknüpfte Konzepte
-* [Inflation & CPI](/concepts/consumer-price-index.md)
-* [Fed Dual Mandate](/concepts/fed-dual-mandate.md)
-* [Geopolitische Risiken](/concepts/geopolitical-risks.md)
+* [[concepts/consumer-price-index|Consumer Price Index (CPI)]]
+* [[concepts/us-dollar-index-dxy|US Dollar Index (DXY)]]
+* [[concepts/fed-dual-mandate|Fed Dual Mandate]]
+* [[concepts/geopolitische-risiken|Geopolitische Risiken & Ölpreis-Schocks]]

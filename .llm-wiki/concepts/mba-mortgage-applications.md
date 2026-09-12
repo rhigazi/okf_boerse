@@ -1,39 +1,24 @@
 ---
 type: Concept
-title: MBA Mortgage Applications
-description: Wöchentlicher Indikator über die Anzahl der Hypothekenanträge in den USA.
-sources: [raw/mba_mortgage_applications.md]
-timestamp: 2026-09-07T10:50:00Z
+title: MBA Mortgage Applications (Hypothekenanträge)
+description: Wöchentlicher Indikator der Mortgage Bankers Association zur Messung der US-Immobilienkreditnachfrage.
+sources: [/raw/mba_mortgage_applications.md]
+timestamp: 2026-09-10T04:30:00Z
 ---
 
-# MBA Mortgage Applications
+# MBA Mortgage Applications (Hypothekenanträge)
 
-Die **MBA Mortgage Applications** sind ein wöchentlicher Wirtschaftsindikator aus den USA, der von der Mortgage Bankers Association (MBA) veröffentlicht wird. Er misst die prozentuale Veränderung der Anzahl der Anträge auf Immobilienkredite im Vergleich zur Vorwoche.
+Die **MBA Mortgage Applications** werden jeden Mittwoch um 7:00 Uhr EDT von der Mortgage Bankers Association veröffentlicht und messen die wöchentliche Veränderung der Anträge auf Immobilienkredite in den USA.
 
-## Veröffentlichungsrhythmus
-Der Bericht erscheint **wöchentlich** (jeden Mittwoch um 7:00 Uhr EDT). Er dient als schneller Indikator für die Dynamik am US-Immobilienmarkt.
+## Komponenten
+1. **Purchase Index (Kauf-Index):** Misst Kreditanträge für den Kauf von Immobilien $\rightarrow$ Wichtiger Frühindikator für die Dynamik auf dem Immobilienmarkt.
+2. **Refinance Index (Refinanzierungs-Index):** Misst Umschuldungen bestehender Hypotheken $\rightarrow$ Reagiert extrem sensibel auf Änderungen der Hypothekenzinsen.
 
-## Komponenten des Berichts
-
-Der Bericht unterteilt sich in zwei wesentliche Bereiche:
-
-1.  **Purchase Index (Kauf-Index):** Misst die Anträge für den Kauf von neuen oder bestehenden Immobilien. Er ist ein hervorragender Frühindikator für die allgemeine Dynamik des US-Immobilienmarktes.
-2.  **Refinance Index (Refinanzierungs-Index):** Misst die Anträge zur Umschuldung bestehender Hypotheken. Dieser Wert reagiert extrem sensitiv auf Zinsänderungen: Sinkende Zinsen führen meist zu einem massiven Anstieg dieses Index.
-
-## Markteinfluss und Börsenreaktion
-
-Der Bericht liefert wichtige Signale für die Konjunktur und die Zinspolitik der Fed:
-
-*   **Höher als erwartet (Starke Nachfrage):**
-    *   **Positiv für:** Zyklische Konsumaktien (z. B. Möbel, Baumärkte) und Finanzwerte (Hypothekenbanken).
-    *   **Risiko:** Zu starke Zahlen können die Sorge vor Inflation und daraus resultierenden Zinserhöhungen schüren.
-*   **Niedriger als erwartet (Abkühlung):**
-    *   **Negativ für:** Den Immobiliensektor direkt.
-    *   **Potenziell positiv für den Gesamtmarkt:** Kann die Hoffnung auf Zinssenkungen durch die US-Notenbank (Fed) stärken, was Aktienindizes wie den **S&P 500 (INDEXSP:.INX)** stützen kann.
+## Einfluss auf Märkte
+* **Höher als erwartet:** Zeigt robuste Nachfrage im Wohnungssektor. Stützt Konsum- und Finanzaktien. Kann bei Überhitzung Zinsängste auslösen.
+* **Niedriger als erwartet:** Zeigt Abkühlung durch hohe Zinsen, belastet Immobiliensektor, kann jedoch Zinssenkungserwartungen an der Börse verstärken.
 
 ## Verknüpfte Konzepte
-* [Fed Dual Mandate](/concepts/fed-dual-mandate.md)
-* [US Interest Rates (falls vorhanden)](/concepts/us-interest-rates.md)
-
-## timeline
-* [kind: decision] [2026-09-07T10:50:00Z] Neues Konzept basierend auf bereitgestellten Informationen erstellt.
+* [[concepts/housing-market-indicators|US-Immobilienmarktindikatoren]]
+* [[concepts/nahb-housing-market-index|NAHB Housing Market Index]]
+* [[concepts/existing-home-sales|Existing Home Sales]]
