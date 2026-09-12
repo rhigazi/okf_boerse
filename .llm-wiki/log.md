@@ -1,5 +1,7 @@
 # Log
 
+- 2026-09-12T00:00:00Z — ingest: wochenvorschau-bis-25-september-2026 (raw/processed/wochenvorschau_termine_bis_25_september_2026.md) - Update von wochenvorschau-termine-sept-2026.md um Detaillaufzeit 14.-18. September 2026.
+
 - 2026-09-11T23:30:00Z — ingest: markt-einflussfaktoren-11-sept-2026 (raw/processed/markt_einflussfaktoren_11_sept_2026.md) - Erstellung von us-treasury-yields.md, mortgage-spread-housing.md, equity-risk-premium.md & regional-market-divergence-usa-europe.md; Updates für consumer-price-index.md, us-dollar-index-dxy.md, adp-employment-report.md & initial-jobless-claims.md.
 
 - 2026-09-11T23:00:00Z — ingest: offizielle-daten-adobe-roundup (raw/offizielle_daten_und_adobe_roundup_11_sept_2026.md) - Updates für consumer-price-index.md, adobe-inc.md & oil-price-energy-market.md.

@@ -1,40 +1,93 @@
 ---
 type: Concept
 title: Wochenvorschau & Wirtschaftskalender Sept 2026
-description: Überblick über wichtige Unternehmens- und Konjunkturtermine sowie Markt-Events im September 2026.
-sources: [/raw/WOCHENVORSCHAU: Termine bis 18. September 2026.md, /raw/temp_source.md]
-timestamp: 2026-09-10T04:30:00Z
+description: Detaillierter Überblick über wichtige Unternehmens- und Konjunkturtermine sowie Markt-Events im September 2026.
+sources: [/raw/WOCHENVORSCHAU: Termine bis 18. September 2026.md, /raw/processed/wochenvorschau_termine_bis_25_september_2026.md]
+timestamp: 2026-09-12T00:00:00Z
 ---
 
 # Wochenvorschau & Wirtschaftskalender Sept 2026
 
-Der Wirtschaftskalender für die erste Hälfte des Septembers 2026 umfasst zentrale Zinsentscheide, Inflationsdaten und Unternehmensveranstaltungen.
+Der Wirtschaftskalender für September 2026 umfasst zentrale Zinsentscheide (Fed, EZB, Bank of England, Bank of Japan), Inflations- und Arbeitsmarktdaten sowie bedeutende Unternehmenstermine.
 
-## Wichtige Konjunktur- & Notenbanktermine (Auswahl)
+## Detaillierter Wochenkalender (14. – 18. September 2026)
 
-* **08. September 2026:**
-  * USA: [[concepts/consumer-credit|Konsumentenkredite (Consumer Credit 7/26)]] (Anstieg um 18,1 Mrd. USD).
-* **09. September 2026:**
-  * USA: [[concepts/adp-employment-report|ADP Beschäftigungsindex (8/26)]].
-  * CHN: [[concepts/consumer-price-index|Verbraucherpreise (CPI)]] & [[concepts/producer-price-index-ppi|Erzeugerpreise (PPI)]].
-  * Unternehmens-Events: Apple Special Event (Vorstellung neuer Produkte).
-* **10. September 2026:**
-  * EUR: EZB Zinsentscheid (14:15 Uhr) & Pressekonferenz (14:45 Uhr).
-  * USA: [[concepts/initial-jobless-claims|Erstanträge Arbeitslosenhilfe]], [[concepts/producer-price-index-ppi|Erzeugerpreise (PPI 8/26)]], [[concepts/oil-price-energy-market|EIA-Ölbericht]].
-* **11. September 2026:**
-  * USA: [[concepts/consumer-price-index|Verbraucherpreise (CPI 8/26)]], [[concepts/real-wages-fed-policy|Realeinkommen (8/26)]], [[concepts/michigan-consumer-sentiment|Uni Michigan Verbrauchervertrauen (9/26)]].
-* **15. September 2026:**
-  * USA: [[concepts/empire-state-manufacturing-index|Empire State Manufacturing Index (9/26)]].
-* **16. September 2026:**
-  * USA: [[concepts/mba-mortgage-applications|MBA Hypothekenanträge]], [[concepts/retail-sales|Einzelhandelsumsatz (8/26)]], [[concepts/import-export-price-index|Export- und Importpreise (8/26)]], [[concepts/nahb-housing-market-index|NAHB Wohnungsmarkt-Index]].
-  * USA: **[[concepts/fomc-decision|FOMC Zinsentscheidung (Fed Decision)]] (20:00 Uhr MESZ)** mit Dot Plot und Pressekonferenz.
-* **17. September 2026:**
-  * GBR: Bank of England Zinsentscheid.
-  * USA: Baubeginne & Baugenehmigungen, [[concepts/existing-home-sales|Hausverkäufe (Existing Home Sales)]].
-* **18. September 2026:**
-  * JPN: Bank of Japan Zinsentscheid.
+### Montag, 14. September 2026
+* **Konjunktur:**
+  * 06:30 JPN: Industrieproduktion (endg.) & Kapazitätsauslastung
+  * 07:00 FIN: [[concepts/consumer-price-index|Verbraucherpreise (CPI)]]
+  * 08:00 SWE: [[concepts/consumer-price-index|Verbraucherpreise (endg.)]]
+  * 08:30 CHE: [[concepts/producer-price-index-ppi|Erzeuger- und Importpreise]]
+  * 14:00 POL: Leistungsbilanz
+* **Sonstige Termine:**
+  * 09:30 DEU: Eröffnung 2. KI-Kongress «Brains on Silicon»
+  * IRL: EU-Ministertreffen allgemeine Angelegenheiten
+  * AUT: IAEA Generalkonferenz, Wien
+  * USA: US-Senat tagt nach Sommerpause
+
+---
+
+### Dienstag, 15. September 2026
+* **Konjunktur:**
+  * 04:00 CHN: [[concepts/retail-sales|Einzelhandelsumsatz]], Industrieproduktion, Sachinvestitionen
+  * 08:00 GBR: Arbeitsmarktdaten
+  * 08:45 FRA & 09:00 SPA: [[concepts/consumer-price-index|Verbraucherpreise (2. Schätzung)]]
+  * 10:00 ITA & 11:00 EUR: Handelsbilanz
+  * 11:00 DEU: ZEW-Index (Konjunkturerwartungen)
+  * 14:15 USA: [[concepts/adp-employment-report|ADP-Arbeitsmarktbericht]]
+  * 14:30 USA: [[concepts/empire-state-manufacturing-index|Empire-State-Manufacturing-Bericht]]
+* **Sonstige Termine:**
+  * 11:00 DEU: Online-PK DSGV «Zukunft Mittelstand»
+  * 13:00 DEU: BGA Unternehmertag mit Kanzler Merz
+  * DEU: Deutscher Apothekertag (bis 17.09.)
+
+---
+
+### Mittwoch, 16. September 2026
+* **Unternehmen:**
+  * 11:00 DEU: 40 Jahre Hexal AG
+  * USA: Salesforce (Investor Day), ON Semiconductor (Analyst Day)
+* **Konjunktur:**
+  * 01:50 JPN: Handelsbilanz
+  * 08:00 GBR: [[concepts/producer-price-index-ppi|Erzeugerpreise]] & [[concepts/consumer-price-index|Verbraucherpreise]]
+  * 10:00 ITA: [[concepts/consumer-price-index|Verbraucherpreise]]
+  * 11:00 EUR: Arbeitskosten (2. Schätzung), Industrieproduktion
+  * 13:00 USA: [[concepts/mba-mortgage-applications|MBA Hypothekenanträge]]
+  * 14:30 USA: [[concepts/retail-sales|Einzelhandelsumsatz]], [[concepts/import-export-price-index|Export-/Importpreise]]
+  * 16:00 USA: [[concepts/nahb-housing-market-index|NAHB Wohnungsmarkt-Index]], [[concepts/wholesale-inventories|Lagerbestände]]
+  * **20:00 USA: [[concepts/fomc-decision|FOMC Zinsentscheidung (Fed Decision)]]** mit Zinsentscheid, Dot Plot & Pressekonferenz
+* **Sonstige Termine:**
+  * 17:30 DEU: Bankenverband Veranstaltung
+  * DEU: BaFin Konferenz, «Big Bang KI Festival» (bis 17.09.)
+
+---
+
+### Donnerstag, 17. September 2026
+* **Unternehmen:**
+  * 08:00 GBR: Next (Halbjahreszahlen)
+  * Kapitalmarkttage / Events: Kontron, DHL, Intuit, Bechtle, Wacker Chemie, SMA Solar
+* **Konjunktur:**
+  * 11:00 EUR: [[concepts/producer-price-index-ppi|Erzeugerpreise (2. Schätzung)]]
+  * **13:00 GBR: Bank of England Notenbank-Entscheidung**
+  * 14:30 USA: [[concepts/housing-market-indicators|Baubeginne & Baugenehmigungen]], [[concepts/initial-jobless-claims|Erstanträge Arbeitslosenhilfe]]
+  * 16:00 USA: [[concepts/existing-home-sales|Existing Home Sales (Hausverkäufe)]]
+
+---
+
+### Freitag, 18. September 2026
+* **Unternehmen:**
+  * 11:00 DEU: Verbandstag Sparda-Banken
+* **Konjunktur:**
+  * 01:00 GBR: Verbrauchervertrauen
+  * 01:30 JPN: [[concepts/consumer-price-index|Verbraucherpreise]]
+  * **JPN: Bank of Japan Notenbank-Entscheidung**
 
 ## Verknüpfte Konzepte
 * [[concepts/fomc-decision|FOMC Zinsentscheidung]]
 * [[concepts/consumer-price-index|Consumer Price Index (CPI)]]
 * [[concepts/retail-sales|Retail Sales (Einzelhandelsumsätze)]]
+* [[concepts/adp-employment-report|ADP Employment Report]]
+* [[concepts/initial-jobless-claims|Initial Jobless Claims]]
+* [[concepts/empire-state-manufacturing-index|Empire State Manufacturing Index]]
+* [[concepts/existing-home-sales|Existing Home Sales]]
+* [[concepts/mba-mortgage-applications|MBA Mortgage Applications]]
