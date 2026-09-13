@@ -1,5 +1,7 @@
 # Log
 
+- 2026-09-12T02:00:00Z — ingest: podcast-transkripte-sept-2026 (raw/processed/podcast_transkripte_sept_2026.md) - Erstellung von german-lng-dependency.md, ai-mental-health-safety.md, eleco-plc.md, renalytix-plc.md, amgen-inc.md & novartis-ag.md; Updates für oracle-corp.md, apple-inc.md, us-treasury-yields.md, oil-price-energy-market.md & geopolitische-risiken.md.
+
 - 2026-09-12T01:00:00Z — ingest: offizielle-ergebnisse-wirtschaftsdaten-sept-2026 (raw/processed/offizielle_ergebnisse_wirtschaftsdaten_sept_2026.md) - Erstellung von uk-economic-indicators.md & german-insolvency-trends.md; Updates für michigan-consumer-sentiment.md, real-wages-fed-policy.md & oil-price-energy-market.md.
 
 - 2026-09-12T00:00:00Z — ingest: wochenvorschau-bis-25-september-2026 (raw/processed/wochenvorschau_termine_bis_25_september_2026.md) - Update von wochenvorschau-termine-sept-2026.md um Detaillaufzeit 14.-18. September 2026.

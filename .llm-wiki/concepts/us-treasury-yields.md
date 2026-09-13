@@ -2,8 +2,8 @@
 type: Concept
 title: US-Anleiherenditen (Treasury Yields) & Marktmechanismen
 description: Grundlagen, Einflussfaktoren und Auswirkungen von US-Staatsanleiherenditen auf Aktien, Sektoren und Kreditkosten.
-sources: [/raw/processed/markt_einflussfaktoren_11_sept_2026.md]
-timestamp: 2026-09-11T23:00:00Z
+sources: [/raw/processed/markt_einflussfaktoren_11_sept_2026.md, /raw/processed/podcast_transkripte_sept_2026.md]
+timestamp: 2026-09-12T01:00:00Z
 ---
 
 # US-Anleiherenditen (Treasury Yields) & Marktmechanismen
@@ -24,6 +24,15 @@ Nach den heißen Kerninflationsdaten (+0,3 % MoM) und vor der anstehenden Zinsen
   * *Eigenschaft:* Die weltweit wichtigste Referenzanleihe. Steht unmittelbar vor der psychologisch kritischen Marke von **5,0 %** (Höchststand seit 2023).
 * **30-jährige US-Staatsanleihe (Long-Term):** **5,36 %**
   * *Eigenschaft:* Spiegelt langfristige Inflationserwartungen und Sorgen bezüglich der US-Staatsverschuldung wider.
+
+## Europäische & Globale Rendite-Entwicklung (11. Sept 2026)
+* **Deutschland (10Y Bund):** Stieg auf **3,51 %** (Höchststand seit 2009).
+* **Frankreich (10Y OAT):** Stieg auf **4,45 %** (Finanzkrisenniveau von 2008).
+
+## Experten-Einschätzung zu Eingriffen & Fed-Dynamik (Christian Kopf, Union Investment)
+* **Bessents Rückkäufe („Taschenspielertrick“):** Die Verdreifachung des Anleiherückkaufvolumens durch US-Finanzminister Scott Bessent auf ca. 6 Mrd. USD pro Kaufoperation verpufft wirkungslos an der Grunddynamik der stark steigenden US-Staatsverschuldung.
+* **Mögliche Patt-Situation bei der Fed:** Während Fed-Chef Kevin Warsh hawkish auftritt, signalisieren Tauben wie Chris Waller (über den Kerndeflator der Konsumausgaben bei ~2,8 %) oder John Williams Ablehnung weiterer Zinsschritte.
+* **Paradoxon am Rentenmarkt:** Eine moderate Leitzinserhöhung könnte das lange Ende der Zinskurve (10Y/30Y) sogar beruhigen, da sie Inflationsängste eindämmt.
 
 ## Hauptreaktionen des Aktienmarktes bei Renditen nahe / über 5,0 %
 

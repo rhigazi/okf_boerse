@@ -3,13 +3,14 @@ type: Index
 title: Wiki Index
 description: Hauptverzeichnis des Makro-Wissens-Wikis.
 sources: []
-timestamp: 2026-09-12T01:00:00Z
+timestamp: 2026-09-12T02:00:00Z
 ---
 
 # Wiki Index
 
 ## Konzepte (Concepts)
 * [/concepts/adp-employment-report.md](/concepts/adp-employment-report.md)
+* [/concepts/ai-mental-health-safety.md](/concepts/ai-mental-health-safety.md)
 * [/concepts/consumer-credit.md](/concepts/consumer-credit.md)
 * [/concepts/consumer-price-index.md](/concepts/consumer-price-index.md)
 * [/concepts/empire-state-manufacturing-index.md](/concepts/empire-state-manufacturing-index.md)
@@ -21,6 +22,7 @@ timestamp: 2026-09-12T01:00:00Z
 * [/concepts/forward-guidance.md](/concepts/forward-guidance.md)
 * [/concepts/geopolitische-risiken.md](/concepts/geopolitische-risiken.md)
 * [/concepts/german-insolvency-trends.md](/concepts/german-insolvency-trends.md)
+* [/concepts/german-lng-dependency.md](/concepts/german-lng-dependency.md)
 * [/concepts/housing-market-indicators.md](/concepts/housing-market-indicators.md)
 * [/concepts/import-export-price-index.md](/concepts/import-export-price-index.md)
 * [/concepts/initial-jobless-claims.md](/concepts/initial-jobless-claims.md)
@@ -45,14 +47,18 @@ timestamp: 2026-09-12T01:00:00Z
 
 ## Entitäten (Entities)
 * [/entities/adobe-inc.md](/entities/adobe-inc.md)
+* [/entities/amgen-inc.md](/entities/amgen-inc.md)
 * [/entities/apple-inc.md](/entities/apple-inc.md)
+* [/entities/eleco-plc.md](/entities/eleco-plc.md)
 * [/entities/flatexdegiro-ag.md](/entities/flatexdegiro-ag.md)
 * [/entities/inditex-sa.md](/entities/inditex-sa.md)
 * [/entities/meta-platforms-inc.md](/entities/meta-platforms-inc.md)
 * [/entities/n26-se.md](/entities/n26-se.md)
 * [/entities/nike-inc.md](/entities/nike-inc.md)
+* [/entities/novartis-ag.md](/entities/novartis-ag.md)
 * [/entities/nvidia-corp.md](/entities/nvidia-corp.md)
 * [/entities/oracle-corp.md](/entities/oracle-corp.md)
+* [/entities/renalytix-plc.md](/entities/renalytix-plc.md)
 * [/entities/richemont.md](/entities/richemont.md)
 * [/entities/tsmc.md](/entities/tsmc.md)
 * [/entities/volkswagen-ag.md](/entities/volkswagen-ag.md)
