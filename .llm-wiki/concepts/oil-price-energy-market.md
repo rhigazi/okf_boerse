@@ -22,6 +22,10 @@ Die Rohölpreise sind ein fundamentaler Treiber der weltweiten Konjunktur und de
 * **Prognoseanpassung:** Die Internationale Energieagentur (IEA) korrigierte die globale Ölnachfrageprognose für 2026 leicht auf **+910.000 Barrel pro Tag** nach unten (zuvor +950.000 bpd), begründet durch die konjunkturelle Abkühlung in China.
 * **Versorgungsrisiken:** Gleichzeitig warnte die IEA vor akuten Versorgungsengpässen am Rohöl- und Dieselmarkt durch die Houthi-Aktivitäten im Hafen von Mocha (Rotes Meer).
 
+## IEA Monatsbericht (September 2026)
+* **Prognoseanpassung:** Die Internationale Energieagentur (IEA) korrigierte die globale Ölnachfrageprognose für 2026 leicht auf **+910.000 Barrel pro Tag** nach unten (zuvor +950.000 bpd), begründet durch die konjunkturelle Abkühlung in China.
+* **Versorgungsrisiken:** Gleichzeitig warnte die IEA vor akuten Versorgungsengpässen am Rohöl- und Dieselmarkt durch die Houthi-Aktivitäten im Hafen von Mocha (Rotes Meer).
+
 ## Der EIA Weekly Petroleum Status Report (Daten per 10. Sept 2026)
 * **Rohöllagerbestände:** Rückgang um **0,4 Mio. Barrel** auf 424,1 Mio. Barrel (geringerer Abbau als erwartet).
 * **Benzin & Destillate:** Anstieg um +1,3 Mio. Barrel (Benzin) bzw. +2,1 Mio. Barrel (Destillate) bei hoher Raffinerieauslastung (97,8 %).
