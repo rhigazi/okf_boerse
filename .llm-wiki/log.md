@@ -1,5 +1,7 @@
 # Log
 
+- 2026-09-14T09:45:00Z — ingest: boerse-stuttgart-morning-briefing-14-sept-2026 (raw/processed/boerse_stuttgart_morning_briefing_14_sept_2026.md) - Erstellung von bayer-ag.md & deutsche-boerse-ag.md; Updates für flatexdegiro-ag.md, oracle-corp.md, ai-mental-health-safety.md, oil-price-energy-market.md & us-treasury-yields.md.
+
 - 2026-09-12T02:00:00Z — ingest: podcast-transkripte-sept-2026 (raw/processed/podcast_transkripte_sept_2026.md) - Erstellung von german-lng-dependency.md, ai-mental-health-safety.md, eleco-plc.md, renalytix-plc.md, amgen-inc.md & novartis-ag.md; Updates für oracle-corp.md, apple-inc.md, us-treasury-yields.md, oil-price-energy-market.md & geopolitische-risiken.md.
 
 - 2026-09-12T01:00:00Z — ingest: offizielle-ergebnisse-wirtschaftsdaten-sept-2026 (raw/processed/offizielle_ergebnisse_wirtschaftsdaten_sept_2026.md) - Erstellung von uk-economic-indicators.md & german-insolvency-trends.md; Updates für michigan-consumer-sentiment.md, real-wages-fed-policy.md & oil-price-energy-market.md.

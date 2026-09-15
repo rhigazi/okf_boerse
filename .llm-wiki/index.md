@@ -3,7 +3,7 @@ type: Index
 title: Wiki Index
 description: Hauptverzeichnis des Makro-Wissens-Wikis.
 sources: []
-timestamp: 2026-09-12T02:00:00Z
+timestamp: 2026-09-14T09:45:00Z
 ---
 
 # Wiki Index
@@ -49,6 +49,8 @@ timestamp: 2026-09-12T02:00:00Z
 * [/entities/adobe-inc.md](/entities/adobe-inc.md)
 * [/entities/amgen-inc.md](/entities/amgen-inc.md)
 * [/entities/apple-inc.md](/entities/apple-inc.md)
+* [/entities/bayer-ag.md](/entities/bayer-ag.md)
+* [/entities/deutsche-boerse-ag.md](/entities/deutsche-boerse-ag.md)
 * [/entities/eleco-plc.md](/entities/eleco-plc.md)
 * [/entities/flatexdegiro-ag.md](/entities/flatexdegiro-ag.md)
 * [/entities/inditex-sa.md](/entities/inditex-sa.md)

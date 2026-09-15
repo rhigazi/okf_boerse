@@ -2,8 +2,8 @@
 type: Concept
 title: US-Anleiherenditen (Treasury Yields) & Marktmechanismen
 description: Grundlagen, Einflussfaktoren und Auswirkungen von US-Staatsanleiherenditen auf Aktien, Sektoren und Kreditkosten.
-sources: [/raw/processed/markt_einflussfaktoren_11_sept_2026.md, /raw/processed/podcast_transkripte_sept_2026.md]
-timestamp: 2026-09-12T01:00:00Z
+sources: [/raw/processed/markt_einflussfaktoren_11_sept_2026.md, /raw/processed/podcast_transkripte_sept_2026.md, /raw/processed/boerse_stuttgart_morning_briefing_14_sept_2026.md]
+timestamp: 2026-09-14T09:45:00Z
 ---
 
 # US-Anleiherenditen (Treasury Yields) & Marktmechanismen
@@ -25,9 +25,10 @@ Nach den heißen Kerninflationsdaten (+0,3 % MoM) und vor der anstehenden Zinsen
 * **30-jährige US-Staatsanleihe (Long-Term):** **5,36 %**
   * *Eigenschaft:* Spiegelt langfristige Inflationserwartungen und Sorgen bezüglich der US-Staatsverschuldung wider.
 
-## Europäische & Globale Rendite-Entwicklung (11. Sept 2026)
-* **Deutschland (10Y Bund):** Stieg auf **3,51 %** (Höchststand seit 2009).
-* **Frankreich (10Y OAT):** Stieg auf **4,45 %** (Finanzkrisenniveau von 2008).
+## Europäische & Globale Rendite-Entwicklung (Stand 14. Sept 2026)
+* **US 10-jährige Treasuries:** Stiegen weiter auf **4,97 %** (Zinserhöhungswahrscheinlichkeit für Mittwoch stieg auf **87 %** nach 70 % vor den CPI-Daten).
+* **Deutschland (10Y Bund):** Verharren bei **3,52 %** (Höchststand seit 2009).
+* **Frankreich (10Y OAT):** Notieren bei **4,45 %** (Finanzkrisenniveau von 2008).
 
 ## Experten-Einschätzung zu Eingriffen & Fed-Dynamik (Christian Kopf, Union Investment)
 * **Bessents Rückkäufe („Taschenspielertrick“):** Die Verdreifachung des Anleiherückkaufvolumens durch US-Finanzminister Scott Bessent auf ca. 6 Mrd. USD pro Kaufoperation verpufft wirkungslos an der Grunddynamik der stark steigenden US-Staatsverschuldung.
