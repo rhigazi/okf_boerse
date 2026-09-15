@@ -2,13 +2,18 @@
 type: Concept
 title: US Dollar Index (DXY)
 description: Barometer für den Wert des US-Dollars gegenüber einem Korb wichtiger Weltwährungen und seine Auswirkungen auf weltweite Finanz- und Rohstoffmärkte.
-sources: [/raw/dxy_impact_markets.txt, /raw/usd_oil_correlation.txt]
-timestamp: 2026-09-10T04:30:00Z
+sources: [/raw/dxy_impact_markets.txt, /raw/usd_oil_correlation.txt, /raw/processed/markt_einflussfaktoren_11_sept_2026.md]
+timestamp: 2026-09-11T23:00:00Z
 ---
 
 # US Dollar Index (DXY)
 
 Der **US Dollar Index (DXY)** misst die Stärke des US-Dollars im Vergleich zu einem Korb wichtiger internationaler Währungen (mit Schwergewicht auf dem Euro). Da der US-Dollar die unangefochtene Weltleitwährung ist, bewegt sich der DXY historisch meist invers zu globalen Aktienmärkten.
+
+## Aktuelle Entwicklung (Stand 11. September 2026)
+* **Status:** Starker US-Dollar (negativ für globale Aktienmärkte und US-Exportunternehmen).
+* **Treiber:** Der DXY profitierte spürbar von der im Monatsvergleich heißeren Kerninflation (+0,3 %) sowie den stark gestiegenen [[concepts/us-treasury-yields|US-Anleiherenditen]].
+* **Zinsvorteil:** Durch die Erwartung einer Zinserhöhung der Federal Reserve um >85 % baute der US-Dollar seine Zinsvorteile gegenüber anderen Währungen (z. B. Euro, Yen) weiter aus. Dies hält den Aufwärtsdruck bei exportorientierten US-Konzernen aufrecht.
 
 ## Übertragungskanäle auf die Märkte
 
@@ -31,4 +36,5 @@ Der **US Dollar Index (DXY)** misst die Stärke des US-Dollars im Vergleich zu e
 * [[concepts/fed-dual-mandate|Fed Dual Mandate]]
 * [[concepts/oil-price-energy-market|Ölpreis & Energie-Markt]]
 * [[concepts/consumer-price-index|Consumer Price Index (CPI)]]
+* [[concepts/us-treasury-yields|US-Anleiherenditen (Treasury Yields)]]
 * [[concepts/fomc-decision|FOMC Zinsentscheidung]]
