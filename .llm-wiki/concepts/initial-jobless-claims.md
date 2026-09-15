@@ -2,8 +2,8 @@
 type: Concept
 title: Initial Jobless Claims
 description: Wöchentliche Erstanträge auf Arbeitslosenhilfe in den USA als Hochfrequenz-Indikator.
-sources: []
-timestamp: 2026-09-10T15:00:00Z
+sources: [/raw/processed/markt_einflussfaktoren_11_sept_2026.md]
+timestamp: 2026-09-11T23:00:00Z
 ---
 
 # Initial Jobless Claims
@@ -33,7 +33,7 @@ Die Daten zeigen einen weiterhin stabilen Arbeitsmarkt im sogenannten **"Slow-Hi
 * **4-Wochen-Schnitt:** Leichte Zunahme um 1.500 auf **207.250**.
 * **Fortlaufende Anträge (Continuing Claims):** Anstieg um 8.000 auf **1,779 Millionen**.
 
-**Einordnung:** Trotz des leichten Anstiegs der Neuanträge verharren die Werte auf einem historisch niedrigen Niveau. Unternehmen halten Personal eher zurück, als massiv zu entlassen, was auf eine hohe Resilienz hindeutet.
+**Einordnung:** Trotz des leichten Anstiegs der Neuanträge verharren die Werte auf einem historisch niedrigen Niveau. Unternehmen halten Personal eher zurück, als massiv zu entlassen, was auf eine hohe Resilienz hindeutet. Im Zusammenspiel mit den schwachen ADP-Daten (+38k) ergibt sich am 11. September 2026 ein unklares bis leicht restriktives Gesamtbild für den Arbeitsmarkt.
 
 ## Verknüpfte Konzepte
 * [Fed Dual Mandate](/concepts/fed-dual-mandate.md)
@@ -42,3 +42,4 @@ Die Daten zeigen einen weiterhin stabilen Arbeitsmarkt im sogenannten **"Slow-Hi
 
 ## timeline
 * [kind: observation] [2026-09-10T15:00:00Z] Berichtswoche bis 29. Aug.: Erstanträge leicht über Erwartung (206k), aber historisch niedrig ("Slow-Hire, Slow-Fire").
+* [kind: observation] [2026-09-11T12:00:00Z] Zusammen mit ADP-Daten (38k) bestätigt: Arbeitsmarkt bleibt widerstandsfähig bei niedrigen Entlassungszahlen.
