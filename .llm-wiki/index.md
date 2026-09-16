@@ -3,7 +3,7 @@ type: Index
 title: Wiki Index
 description: Hauptverzeichnis des Makro-Wissens-Wikis.
 sources: []
-timestamp: 2026-09-14T09:45:00Z
+timestamp: 2026-09-15T08:00:00Z
 ---
 
 # Wiki Index
@@ -11,6 +11,7 @@ timestamp: 2026-09-14T09:45:00Z
 ## Konzepte (Concepts)
 * [/concepts/adp-employment-report.md](/concepts/adp-employment-report.md)
 * [/concepts/ai-mental-health-safety.md](/concepts/ai-mental-health-safety.md)
+* [/concepts/china-economic-indicators.md](/concepts/china-economic-indicators.md)
 * [/concepts/consumer-credit.md](/concepts/consumer-credit.md)
 * [/concepts/consumer-price-index.md](/concepts/consumer-price-index.md)
 * [/concepts/empire-state-manufacturing-index.md](/concepts/empire-state-manufacturing-index.md)

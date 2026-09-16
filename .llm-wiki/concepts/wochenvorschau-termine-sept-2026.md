@@ -2,8 +2,8 @@
 type: Concept
 title: Wochenvorschau & Wirtschaftskalender Sept 2026
 description: Detaillierter Überblick über wichtige Unternehmens- und Konjunkturtermine sowie Markt-Events im September 2026.
-sources: [/raw/WOCHENVORSCHAU: Termine bis 18. September 2026.md, /raw/processed/wochenvorschau_termine_bis_25_september_2026.md]
-timestamp: 2026-09-12T00:00:00Z
+sources: [/raw/WOCHENVORSCHAU: Termine bis 18. September 2026.md, /raw/processed/wochenvorschau_termine_bis_25_september_2026.md, /raw/processed/markt_und_konjunkturdaten_15_sept_2026.md]
+timestamp: 2026-09-15T08:00:00Z
 ---
 
 # Wochenvorschau & Wirtschaftskalender Sept 2026
@@ -28,17 +28,16 @@ Der Wirtschaftskalender für September 2026 umfasst zentrale Zinsentscheide (Fed
 ---
 
 ### Dienstag, 15. September 2026
-* **Konjunktur:**
-  * 04:00 CHN: [[concepts/retail-sales|Einzelhandelsumsatz]], Industrieproduktion, Sachinvestitionen
-  * 08:00 GBR: Arbeitsmarktdaten
-  * 08:45 FRA & 09:00 SPA: [[concepts/consumer-price-index|Verbraucherpreise (2. Schätzung)]]
-  * 10:00 ITA & 11:00 EUR: Handelsbilanz
-  * 11:00 DEU: ZEW-Index (Konjunkturerwartungen)
-  * 14:15 USA: [[concepts/adp-employment-report|ADP-Arbeitsmarktbericht]]
-  * 14:30 USA: [[concepts/empire-state-manufacturing-index|Empire-State-Manufacturing-Bericht]]
+* **Konjunktur (Konsensprognosen & Daten):**
+  * 04:00 CHN: Industrieproduktion (+4,5 % YoY vs. +4,7 % exp.) & [[concepts/retail-sales|Einzelhandelsumsatz]] (+0,6 % vs. +0,7 % exp.) verfehlten Erwartungen leicht.
+  * 08:00 GBR: [[concepts/uk-economic-indicators|Arbeitsmarktdaten]] (ILO-Quote 4,1 % erwartet; Lohnwachstum Abkühlung von 5,4 % auf 5,1 % exp.).
+  * 08:45 FRA & 09:00 SPA: [[concepts/consumer-price-index|Verbraucherpreise]] (Bestätigung 2,2 % FRA / 2,4 % SPA exp.).
+  * 11:00 DEU: ZEW-Index Konjunkturerwartungen (Anstieg auf 40,0 Punkte erwartet nach 34,2 im August).
+  * 14:15 USA: [[concepts/adp-employment-report|ADP-Arbeitsmarktbericht]] (~140.000 neue Stellen erwartet).
+  * 14:30 USA: [[concepts/empire-state-manufacturing-index|Empire State Manufacturing Index]] (-3,5 Punkte erwartet nach -4,7).
 * **Sonstige Termine:**
   * 11:00 DEU: Online-PK DSGV «Zukunft Mittelstand»
-  * 13:00 DEU: BGA Unternehmertag mit Kanzler Merz
+  * 13:00 DEU: BGA Unternehmertag mit Rede von Bundeskanzler Friedrich Merz
   * DEU: Deutscher Apothekertag (bis 17.09.)
 
 ---
