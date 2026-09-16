@@ -24,6 +24,9 @@ Er gilt als einer der wichtigsten Frühindikatoren für die offiziellen **Non-Fa
 
 ## Aktuelle Daten (September 2026)
 
+### Einordnung Stand 11. September 2026 (Unklar bis leicht restriktiv)
+Die am Mittwoch, 9. September 2026, näher beleuchteten ADP-Daten fielen mit **+38.000 Stellen in der Privatwirtschaft** überraschend schwach aus, was Hoffnungen auf eine taubenhaftere Notenbank schürte. Allerdings zeigten sich die Erstanträge auf Arbeitslosenhilfe mit 206.000 weiterhin auf einem historisch niedrigen und robusten Niveau, was einer schnellen Abkühlung des Arbeitsmarktes widerspricht.
+
 ### August-Bericht (veröffentlicht am 02. Sept. 2026)
 Der monatliche Bericht für August zeigte eine deutliche Abschwächung der Beschäftigungsdynamik:
 
@@ -45,3 +48,4 @@ Obwohl kein neuer Monatsbericht vorlag, lieferte der **ADP National Employment R
 ## timeline
 * [kind: observation] [2026-09-02T09:00:00Z] August-Bericht veröffentlicht: Deutliche Schwäche mit nur 38k neuen Jobs.
 * [kind: observation] [2026-09-09T10:00:00Z] Wöchentlicher Pulse-Bericht zeigt leichte Beschleunigung (+12k/Woche).
+* [kind: observation] [2026-09-11T12:00:00Z] Synthese mit Erstanträgen: Arbeitsmarkt-Status als "Unklar bis leicht restriktiv" eingestuft.
