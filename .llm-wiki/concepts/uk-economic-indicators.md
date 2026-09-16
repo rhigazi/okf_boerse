@@ -2,8 +2,8 @@
 type: Concept
 title: UK Wirtschaftsindikatoren (BIP, Industrieproduktion, Handelsbilanz)
 description: Analyse der britischen Konjunkturdaten für Juli 2026 (BIP-Rückgang -0,1 %, Industrieproduktion -0,6 %, Handelsbilanzdefizit -21,9 Mrd. GBP).
-sources: [/raw/processed/offizielle_ergebnisse_wirtschaftsdaten_sept_2026.md]
-timestamp: 2026-09-11T23:30:00Z
+sources: [/raw/processed/offizielle_ergebnisse_wirtschaftsdaten_sept_2026.md, /raw/processed/konjunktur_und_boerse_16_sept_2026.md]
+timestamp: 2026-09-16T08:00:00Z
 ---
 
 # UK Wirtschaftsindikatoren (Juli 2026)
@@ -24,6 +24,10 @@ Die Wirtschaftsdaten für Großbritannien zeigten im Juli 2026 ein überraschend
 ## 3. Handelsbilanz
 * **Außenhandelsdefizit (Juli 2026):** **-21,9 Mrd. GBP** (Erwartung: -22,4 Mrd. GBP; Vormonat: -23,0 Mrd. GBP).
 * **Einordnung:** Das Defizit verringerte sich leicht stärker als befürchtet, begünstigt durch rückläufige Energieimporte.
+
+## 4. Arbeitsmarktdaten (3 Monate bis Juli / August 2026)
+* **ILO-Arbeitslosenquote:** **4,9 %** (unverändert gegenüber Vormonat; Erwartung: 5,0 %).
+* **Erwerbstätigkeit (PAYE August 2026):** Rückgang um **-26.000 Stellen** nach Lohnsteuerabzug.
 
 ## Geldpolitische Implikationen
 Die schwachen Konjunktur- und Industriedaten erhöhen den Druck auf die **Bank of England (BoE)** vor der anstehenden Zinsentscheidung (17. September 2026), zwischen Inflationsbekämpfung und Konjunkturstützung abzuwägen.

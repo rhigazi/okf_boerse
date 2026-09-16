@@ -2,8 +2,8 @@
 type: Concept
 title: KI-Sicherheit & AI Mental Health Tools
 description: Sicherheitsdebatte um generative KI, unabhängige Audits nach Hugging-Face-Inzidenzen, Klagen gegen OpenAI/Character AI und der Vormarsch von Mental-Health-Chatbots.
-sources: [/raw/processed/podcast_transkripte_sept_2026.md, /raw/processed/boerse_stuttgart_morning_briefing_14_sept_2026.md]
-timestamp: 2026-09-14T09:45:00Z
+sources: [/raw/processed/podcast_transkripte_sept_2026.md, /raw/processed/boerse_stuttgart_morning_briefing_14_sept_2026.md, /raw/processed/konjunktur_und_boerse_16_sept_2026.md]
+timestamp: 2026-09-16T08:00:00Z
 ---
 
 # KI-Sicherheit & AI Mental Health Tools
@@ -14,6 +14,8 @@ Die Debatte um die Sicherheit künstlicher Intelligenz (*AI Safety*) hat im Sept
 * **Forscher-Rücktritte & Zivilisationsrisiko:** Der Forscher Jacob Coxon trat bei Anthropic zurück und warnte öffentlich, dass Entwickler sich des Risikos einer Zivilisationsauslöschung bewusst seien, es im Modell-Rennen jedoch in Kauf nähmen.
 * **Aufruf zur Entwicklungsbremse:** Anthropic-CEO Dario Amodei forderte in einem Blogbeitrag eine Verlangsamung der KI-Modell-Entwicklung. Elon Musk und OpenAI-CEO Sam Altman stimmten der Initiative zu.
 * **Absage des OpenAI-Börsengangs (14. Sept 2026):** Sam Altman stellte klar, dass OpenAI angesichts der drängenden Sicherheitsanforderungen im Jahr 2026 definitiv nicht an die Börse gehen wird.
+* **Haftungs-Aussagen von US-Finanzminister Bessent:** Scott Bessent stellte vor dem Repräsentantenhaus klar, dass KI-Entwickler keine rechtlichen Haftungsfreistellungen erhalten dürfen ("Creators are liable for what they build"). Börsenkandidaten müssen KI-Haftungsrisiken detailliert in S-1 Prospekten ausweisen.
+* **Politische Reaktionen (Trump & Sanders/Bannon):** Während Donald Trump auf dem *All-In Summit* KI-Übernahme-Ängste als "Hoax" abtat ("The robots will not be taking over"), schlossen sich Bernie Sanders und Steve Bannon in Washington zusammen, um exekutive Entwicklungsstopps für KI zu fordern.
 
 ## 2. Auswirkungen auf die Aktienmärkte (14. September 2026)
 * **Einbruch im Halbleiter- & Hardwaresektor:** Die Aussicht auf eine gedrosselte KI-Entwicklung belaste Chip-Aktien schwer: Softbank Group (-11,8 %), SK Hynix (-6,6 %), Kioxia (-6,4 %), TSMC (-1,2 %), ASML und Infineon (-6 % bis -10 %).
