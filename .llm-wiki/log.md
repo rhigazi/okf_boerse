@@ -1,5 +1,21 @@
 # Log
 
+- 2026-09-16T22:00:00Z — ingest: fomc-zinsentscheid-und-marktdaten-16-sept-2026 (raw/processed/fomc_zinsentscheid_und_marktdaten_16_sept_2026.md) - Updates für fomc-decision.md, us-treasury-yields.md, uk-economic-indicators.md & retail-sales.md.
+
+- 2026-09-16T08:00:00Z — ingest: konjunktur-und-boerse-16-sept-2026 (raw/processed/konjunktur_und_boerse_16_sept_2026.md) - Erstellung von hvivo-plc.md; Updates für china-economic-indicators.md, ai-mental-health-safety.md, uk-economic-indicators.md, fomc-decision.md & nvidia-corp.md.
+
+- 2026-09-15T08:00:00Z — ingest: markt-und-konjunkturdaten-15-sept-2026 (raw/processed/markt_und_konjunkturdaten_15_sept_2026.md) - Erstellung von china-economic-indicators.md; Updates für bayer-ag.md & wochenvorschau-termine-sept-2026.md.
+
+- 2026-09-14T09:45:00Z — ingest: boerse-stuttgart-morning-briefing-14-sept-2026 (raw/processed/boerse_stuttgart_morning_briefing_14_sept_2026.md) - Erstellung von bayer-ag.md & deutsche-boerse-ag.md; Updates für flatexdegiro-ag.md, oracle-corp.md, ai-mental-health-safety.md, oil-price-energy-market.md & us-treasury-yields.md.
+
+- 2026-09-12T02:00:00Z — ingest: podcast-transkripte-sept-2026 (raw/processed/podcast_transkripte_sept_2026.md) - Erstellung von german-lng-dependency.md, ai-mental-health-safety.md, eleco-plc.md, renalytix-plc.md, amgen-inc.md & novartis-ag.md; Updates für oracle-corp.md, apple-inc.md, us-treasury-yields.md, oil-price-energy-market.md & geopolitische-risiken.md.
+
+- 2026-09-12T01:00:00Z — ingest: offizielle-ergebnisse-wirtschaftsdaten-sept-2026 (raw/processed/offizielle_ergebnisse_wirtschaftsdaten_sept_2026.md) - Erstellung von uk-economic-indicators.md & german-insolvency-trends.md; Updates für michigan-consumer-sentiment.md, real-wages-fed-policy.md & oil-price-energy-market.md.
+
+- 2026-09-12T00:00:00Z — ingest: wochenvorschau-bis-25-september-2026 (raw/processed/wochenvorschau_termine_bis_25_september_2026.md) - Update von wochenvorschau-termine-sept-2026.md um Detaillaufzeit 14.-18. September 2026.
+
+- 2026-09-11T23:30:00Z — ingest: markt-einflussfaktoren-11-sept-2026 (raw/processed/markt_einflussfaktoren_11_sept_2026.md) - Erstellung von us-treasury-yields.md, mortgage-spread-housing.md, equity-risk-premium.md & regional-market-divergence-usa-europe.md; Updates für consumer-price-index.md, us-dollar-index-dxy.md, adp-employment-report.md & initial-jobless-claims.md.
+
 - 2026-09-11T23:00:00Z — ingest: offizielle-daten-adobe-roundup (raw/offizielle_daten_und_adobe_roundup_11_sept_2026.md) - Updates für consumer-price-index.md, adobe-inc.md & oil-price-energy-market.md.
 
 - 2026-09-11T08:00:00Z — ingest: morning-briefing-11-sept-2026 (raw/morning_briefing_11_sept_2026.md) - Erstellung von volkswagen-ag.md, flatexdegiro-ag.md & n26-se.md.
