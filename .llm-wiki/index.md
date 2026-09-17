@@ -3,7 +3,7 @@ type: Index
 title: Wiki Index
 description: Hauptverzeichnis des Makro-Wissens-Wikis.
 sources: []
-timestamp: 2026-09-16T08:00:00Z
+timestamp: 2026-09-16T22:00:00Z
 ---
 
 # Wiki Index

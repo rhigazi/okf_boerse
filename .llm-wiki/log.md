@@ -1,5 +1,7 @@
 # Log
 
+- 2026-09-16T22:00:00Z — ingest: fomc-zinsentscheid-und-marktdaten-16-sept-2026 (raw/processed/fomc_zinsentscheid_und_marktdaten_16_sept_2026.md) - Updates für fomc-decision.md, us-treasury-yields.md, uk-economic-indicators.md & retail-sales.md.
+
 - 2026-09-16T08:00:00Z — ingest: konjunktur-und-boerse-16-sept-2026 (raw/processed/konjunktur_und_boerse_16_sept_2026.md) - Erstellung von hvivo-plc.md; Updates für china-economic-indicators.md, ai-mental-health-safety.md, uk-economic-indicators.md, fomc-decision.md & nvidia-corp.md.
 
 - 2026-09-15T08:00:00Z — ingest: markt-und-konjunkturdaten-15-sept-2026 (raw/processed/markt_und_konjunkturdaten_15_sept_2026.md) - Erstellung von china-economic-indicators.md; Updates für bayer-ag.md & wochenvorschau-termine-sept-2026.md.
