@@ -26,7 +26,7 @@ Um das strukturelle Ungleichgewicht zwischen Produktion und Konsum zu beheben, n
 3. **Soziale Absicherung & Kaufkraft:** Erhöhung von Mindestlöhnen und Abbau lokaler Pkw-Kaufbeschränkungen.
 4. **Börsenreaktion:** Nach anfänglichen Kursgewinnen bei E-Auto-Herstellern (Nio) schlossen die Märkte am 15. September im Plus verhalten (Shanghai Composite -0,54 %, ChiNext -1,15 %, Hang Seng -0,4 %), da Zweifel an der nachhaltigen Wirkung der Prämien überwiegen.
 
-## 2. Übertragungskanäle auf den DAX
+## 3. Übertragungskanäle auf den DAX
 
 1. **Belastung für zyklische Automobil- & Chemiewerte:**
    * *Autobauer:* Konzerne wie Mercedes-Benz Group und Volkswagen leiden unter der Kaufzurückhaltung chinesischer Konsumenten und dem Absatzeinbruch im klassischen Verbrennergeschäft vor Ort.

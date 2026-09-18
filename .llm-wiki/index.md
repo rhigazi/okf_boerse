@@ -3,7 +3,7 @@ type: Index
 title: Wiki Index
 description: Hauptverzeichnis des Makro-Wissens-Wikis.
 sources: []
-timestamp: 2026-09-16T22:00:00Z
+timestamp: 2026-09-16T22:30:00Z
 ---
 
 # Wiki Index
@@ -16,6 +16,7 @@ timestamp: 2026-09-16T22:00:00Z
 * [/concepts/consumer-price-index.md](/concepts/consumer-price-index.md)
 * [/concepts/empire-state-manufacturing-index.md](/concepts/empire-state-manufacturing-index.md)
 * [/concepts/equity-risk-premium.md](/concepts/equity-risk-premium.md)
+* [/concepts/eu-canada-partnership.md](/concepts/eu-canada-partnership.md)
 * [/concepts/existing-home-sales.md](/concepts/existing-home-sales.md)
 * [/concepts/fed-dual-mandate.md](/concepts/fed-dual-mandate.md)
 * [/concepts/finanzbildungsstrategie.md](/concepts/finanzbildungsstrategie.md)
@@ -27,6 +28,7 @@ timestamp: 2026-09-16T22:00:00Z
 * [/concepts/housing-market-indicators.md](/concepts/housing-market-indicators.md)
 * [/concepts/import-export-price-index.md](/concepts/import-export-price-index.md)
 * [/concepts/initial-jobless-claims.md](/concepts/initial-jobless-claims.md)
+* [/concepts/japanese-monetary-policy-carry-trade.md](/concepts/japanese-monetary-policy-carry-trade.md)
 * [/concepts/mba-mortgage-applications.md](/concepts/mba-mortgage-applications.md)
 * [/concepts/michigan-consumer-sentiment.md](/concepts/michigan-consumer-sentiment.md)
 * [/concepts/mortgage-spread-housing.md](/concepts/mortgage-spread-housing.md)
@@ -63,6 +65,7 @@ timestamp: 2026-09-16T22:00:00Z
 * [/entities/nvidia-corp.md](/entities/nvidia-corp.md)
 * [/entities/oracle-corp.md](/entities/oracle-corp.md)
 * [/entities/renalytix-plc.md](/entities/renalytix-plc.md)
+* [/entities/rheinmetall-ag.md](/entities/rheinmetall-ag.md)
 * [/entities/richemont.md](/entities/richemont.md)
 * [/entities/tsmc.md](/entities/tsmc.md)
 * [/entities/volkswagen-ag.md](/entities/volkswagen-ag.md)

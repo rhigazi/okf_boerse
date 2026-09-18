@@ -2,8 +2,8 @@
 type: Concept
 title: Aktienrisikoprämie (Equity Risk Premium - ERP)
 description: Definition, mathematische Berechnungsmodelle (DDM, FCFE, Earnings Yield) und historische Kompression im September 2026.
-sources: [/raw/processed/markt_einflussfaktoren_11_sept_2026.md]
-timestamp: 2026-09-11T23:00:00Z
+sources: [/raw/processed/markt_einflussfaktoren_11_sept_2026.md, /raw/processed/handelsblatt_today_16_sept_2026_kanada_anleihen.md]
+timestamp: 2026-09-16T22:30:00Z
 ---
 
 # Aktienrisikoprämie (Equity Risk Premium - ERP)
@@ -50,6 +50,7 @@ Aufgrund der auf **4,96 %** gestiegenen 10-jährigen US-Rendite bei gleichzeitig
 ## Wirtschaftliche Konsequenzen der niedrigen Prämie
 1. **Asset Allocation / Kapitalumschichtung:** Institutionelle Anleger reduzieren Aktienquoten und schichten in risikofreie Anleihen um, da das Risiko bei Aktien unzureichend vergütet wird.
 2. **Druck auf Unternehmensbewertungen:** Um die ERP wieder auf ein attraktives Niveau anzuheben, müssen entweder die Aktienkurse sinken (KGV fällt) oder die Unternehmensgewinne stark wachsen.
+3. **Versorgungswerke & 60/40 Portfolio:** Reicht der Rechnungszins von 3,0 % bei Pensionskassen aus, macht der Abstand zwischen Aktien und Anleihen risikofreie Staatsanleihen (3,5 % Bunds / 5,0 % Treasuries) deutlich attraktiver.
 
 ## Verknüpfte Konzepte
 * [[concepts/us-treasury-yields|US-Anleiherenditen (Treasury Yields)]]

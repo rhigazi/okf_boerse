@@ -2,8 +2,8 @@
 type: Concept
 title: US-Anleiherenditen (Treasury Yields) & Marktmechanismen
 description: Grundlagen, Einflussfaktoren und Auswirkungen von US-Staatsanleiherenditen auf Aktien, Sektoren und Kreditkosten.
-sources: [/raw/processed/markt_einflussfaktoren_11_sept_2026.md, /raw/processed/podcast_transkripte_sept_2026.md, /raw/processed/boerse_stuttgart_morning_briefing_14_sept_2026.md, /raw/processed/fomc_zinsentscheid_und_marktdaten_16_sept_2026.md]
-timestamp: 2026-09-16T22:00:00Z
+sources: [/raw/processed/markt_einflussfaktoren_11_sept_2026.md, /raw/processed/podcast_transkripte_sept_2026.md, /raw/processed/boerse_stuttgart_morning_briefing_14_sept_2026.md, /raw/processed/fomc_zinsentscheid_und_marktdaten_16_sept_2026.md, /raw/processed/handelsblatt_today_16_sept_2026_kanada_anleihen.md]
+timestamp: 2026-09-16T22:30:00Z
 ---
 
 # US-Anleiherenditen (Treasury Yields) & Marktmechanismen
@@ -37,6 +37,11 @@ Nach den heißen Kerninflationsdaten (+0,3 % MoM) und vor der anstehenden Zinsen
 * **Bessents Rückkäufe („Taschenspielertrick“):** Die Verdreifachung des Anleiherückkaufvolumens durch US-Finanzminister Scott Bessent auf ca. 6 Mrd. USD pro Kaufoperation verpufft wirkungslos an der Grunddynamik der stark steigenden US-Staatsverschuldung.
 * **Mögliche Patt-Situation bei der Fed:** Während Fed-Chef Kevin Warsh hawkish auftritt, signalisieren Tauben wie Chris Waller (über den Kerndeflator der Konsumausgaben bei ~2,8 %) oder John Williams Ablehnung weiterer Zinsschritte.
 * **Paradoxon am Rentenmarkt:** Eine moderate Leitzinserhöhung könnte das lange Ende der Zinskurve (10Y/30Y) sogar beruhigen, da sie Inflationsängste eindämmt.
+
+## Anleihen als direkte Konkurrenz für Aktien (September 2026)
+* **Rechnungszins bei Versorgungswerken:** Viele Pensionskassen müssen einen festgelegten Rechnungszins von ca. **3,0 %** erwirtschaften. Da risikofreie deutsche Bundesanleihen bereits **3,5 %** und US Treasuries **>5,0 %** bieten, können institutionelle Großanleger ihre Verpflichtungen ohne Aktienrisiko bedienen.
+* **Comeback des 60/40-Portfolios:** Die Aufteilung in 60 % Aktien und 40 % Anleihen erlebt als langfristige Strategie eine Renaissance.
+* **Schwellenwert der Societe Generale:** Anlagestrategen der SocGen nennen eine Rendite von **5,5 %** bei 10-jährigen US-Treasuries als die kritische Marke, ab der dem Aktienmarkt eine massive Umschichtungswelle droht.
 
 ## Hauptreaktionen des Aktienmarktes bei Renditen nahe / über 5,0 %
 

@@ -21,12 +21,12 @@ Die Debatte um die Sicherheit künstlicher Intelligenz (*AI Safety*) hat im Sept
 * **Einbruch im Halbleiter- & Hardwaresektor:** Die Aussicht auf eine gedrosselte KI-Entwicklung belaste Chip-Aktien schwer: Softbank Group (-11,8 %), SK Hynix (-6,6 %), Kioxia (-6,4 %), TSMC (-1,2 %), ASML und Infineon (-6 % bis -10 %).
 * **Erholung im Softwaresektor:** Software-Konzernaktien, die monatelang unter Sorgen vor KI-Disruption litten, erholten sich spürbar: SAP (+4,9 %), Nemetschek (+4,9 %), Sage (+6,3 %).
 
-## 2. Der Boom von KI-Mental-Health-Bots
+## 3. Der Boom von KI-Mental-Health-Bots
 Angesichts eines weltweiten Mangels an Psychotherapeuten gewinnt die Nutzung von KI-Chatbots für mentale Gesundheit drastisch an Bedeutung:
 * **Spezialisierte Startups:** Unternehmen wie **Slingshot AI** (Anbieter des KI-Therapeuten *Ash*, VC-Finanzierung 93 Mio. USD) bieten 24/7 erreichbare Sprach- und Text-Assistenten.
 * **Nutzung allgemeiner Modelle:** Über 75 % der Psychotherapeuten berichten, dass Patienten bereits allgemeine Chatbots (ChatGPT, Claude, Gemini) zur emotionalen Unterstützung nutzen.
 
-## 3. Haftungsrisiken & rechtliche Grauzonen
+## 4. Haftungsrisiken & rechtliche Grauzonen
 * **Fehlende Aufsicht & Regulierung:** KI-Tools unterliegen nicht den rechtlichen Vorschriften für zugelassene Therapeuten (*Mandated Reporters*).
 * **Klagewelle:** Bundesstaaten (z. B. Florida) und betroffene Familien reichten Klagen gegen OpenAI und Character AI wegen psychischer Krisen und Suizid-Fällen ein.
 
