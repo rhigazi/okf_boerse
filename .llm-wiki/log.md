@@ -1,5 +1,7 @@
 # Log
 
+- 2026-09-26T00:00:00Z — ingest: gesamt.txt (raw/processed/gesamt.txt) - Erstellung von eu-verbraucherkreditrichtlinie-ccd-ii.md, schifffahrt-containermarkt-feeder.md, herbstgutachten-deutsche-konjunktur.md, ernst-russ-ag.md, pollen-street-group-plc.md, mercia-asset-management-plc.md, ashtead-technology-holdings-plc.md, harworth-group-plc.md, raspberry-pi-holdings-plc.md, kooth-plc.md, warpaint-london-plc.md, craneware-plc.md, xp-factory-plc.md, frasers-group-jd-sports.md, kingfisher-plc.md, seeing-machines-aurrigo.md, fonix-mobile-luceco.md, asos-vistry.md; Updates für us-treasury-yields.md, japanese-monetary-policy-carry-trade.md & ai-mental-health-safety.md.
+
 - 2026-09-16T22:30:00Z — ingest: handelsblatt-today-16-sept-2026 (raw/processed/handelsblatt_today_16_sept_2026_kanada_anleihen.md) - Erstellung von eu-canada-partnership.md, japanese-monetary-policy-carry-trade.md & rheinmetall-ag.md; Updates für us-treasury-yields.md & equity-risk-premium.md.
 
 - 2026-09-16T22:00:00Z — ingest: fomc-zinsentscheid-und-marktdaten-16-sept-2026 (raw/processed/fomc_zinsentscheid_und_marktdaten_16_sept_2026.md) - Updates für fomc-decision.md, us-treasury-yields.md, uk-economic-indicators.md & retail-sales.md.
