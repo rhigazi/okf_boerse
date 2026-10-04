@@ -1,32 +1,19 @@
 ---
 type: Concept
-title: Ölpreis & Energie-Markt (Brent / WTI & Inflation)
-description: Dynamik der Rohölpreise (Brent vs. WTI), Verknüpfung zur Inflation, US-Dollar und die Rolle des EIA-Ölberichts.
-sources: [/raw/eia_weekly_petroleum_report.txt, /raw/oil_price_inflation_connection.txt, /raw/usd_oil_correlation.txt, /raw/wti_vs_brent_comparison.txt, /raw/offizielle_daten_und_adobe_roundup_11_sept_2026.md, /raw/processed/offizielle_ergebnisse_wirtschaftsdaten_sept_2026.md, /raw/processed/podcast_transkripte_sept_2026.md, /raw/processed/boerse_stuttgart_morning_briefing_14_sept_2026.md]
-timestamp: 2026-09-14T09:45:00Z
+title: Ölpreis & Energie-Markt (Brent / WTI, Diesel & Inflation)
+description: Dynamik der Rohölpreise (Brent vs. WTI), G7-Freigabe von 100 Mio. Barrel Diesel/Rohöl, Verknüpfung zur Inflation.
+sources: [/raw/eia_weekly_petroleum_report.txt, /raw/oil_price_inflation_connection.txt, /raw/usd_oil_correlation.txt, /raw/wti_vs_brent_comparison.txt, /raw/offizielle_daten_und_adobe_roundup_11_sept_2026.md, /raw/processed/offizielle_ergebnisse_wirtschaftsdaten_sept_2026.md, /raw/processed/podcast_transkripte_sept_2026.md, /raw/processed/boerse_stuttgart_morning_briefing_14_sept_2026.md, /raw/processed/ergaenzung_2_oktober_2026.txt]
+timestamp: 2026-10-02T00:00:00Z
 ---
 
 # Ölpreis & Energie-Markt (Brent / WTI & Inflation)
 
-Die Rohölpreise sind ein fundamentaler Treiber der weltweiten Konjunktur und der [[concepts/consumer-price-index|Inflation]].
+Die Rohöl- und Dieselpreise sind ein fundamentaler Treiber der weltweiten Konjunktur und der [[concepts/consumer-price-index|Inflation]].
 
-## Aktuelle Preis- & Marktvolatilität (Woche bis 11. Sept 2026)
-* **Brent-Schlusskurs:** **104,61 USD** pro Barrel am Freitag, kletterte am Montag (14. Sept) erneut um **+2,9 % auf 107,30 USD**.
-* **WTI-Schlusskurs:** **100,05 USD** pro Barrel am Freitag, kletterte am Montag um **+3,0 % auf 103,01 USD**.
-* **Gescheiterte Verhandlungen:** Die Verschiebung von Oman vermittelten Gesprächen zwischen Iran und Golfstaaten zur Straße von Hormus heizte die Versorgungssorgen zu Wochenbeginn erneut an.
-* **Kraftstoffmarkt (US-Diesel):** Aufgrund knapper Raffineriebestände (Destillate 13 % unter 5-Jahres-Schnitt) stieg der US-Dieselpreis auf ein **Allzeithoch von über 6 USD pro Gallone** (Kalifornien nahe 8 USD).
-* **Treiber & Infrastruktur-Schocks:**
-  * **Schließung der Saudi East-West-Pipeline:** Nach Drohnen-Angriffen musste Saudi-Arabien die Pipeline (Kapazität: **5 Millionen Barrel/Tag**), die zur Umgehung der Straße von Hormus dient, vorübergehend abschalten.
-  * **Houthi-Invasion am Bab al-Mandeb:** Houthi-Milizen eroberten Perim Island, Dhabab und den Hafen von Mocha, wodurch die wichtigste Ausweichroute am Roten Meer unter feindliche Kontrolle gerät.
-
-## IEA Monatsbericht (September 2026)
-* **Prognoseanpassung:** Die Internationale Energieagentur (IEA) korrigierte die globale Ölnachfrageprognose für 2026 leicht auf **+910.000 Barrel pro Tag** nach unten (zuvor +950.000 bpd), begründet durch die konjunkturelle Abkühlung in China.
-* **Versorgungsrisiken:** Gleichzeitig warnte die IEA vor akuten Versorgungsengpässen am Rohöl- und Dieselmarkt durch die Houthi-Aktivitäten im Hafen von Mocha (Rotes Meer).
-
-## Der EIA Weekly Petroleum Status Report (Daten per 10. Sept 2026)
-* **Rohöllagerbestände:** Rückgang um **0,4 Mio. Barrel** auf 424,1 Mio. Barrel (geringerer Abbau als erwartet).
-* **Benzin & Destillate:** Anstieg um +1,3 Mio. Barrel (Benzin) bzw. +2,1 Mio. Barrel (Destillate) bei hoher Raffinerieauslastung (97,8 %).
-* **US-Förderrekord:** Die US-Rohölproduktion erreichte mit **13,95 Millionen Barrel pro Tag** einen neuen wöchentlichen Allzeitreitwert.
+## Aktuelle Preis- & Marktvolatilität (Anfang Oktober 2026)
+* **Brent-Rohöl:** Notiert anhaltend hoch bei über **102 bis 105 USD pro Barrel**, getrieben durch den US-Iran-Konflikt und Huthi-Angriffe auf saudi-arabische Infrastruktur.
+* **G7-Notfallfreigabe:** Die G7-Staaten und die Internationale Energieagentur (IEA) beschlossen die koordinierte Freigabe von **100 Millionen Barrel Diesel und Rohöl** aus den strategischen Notreserven (davon 50 Mio. Barrel Diesel von EU-Mitgliedsstallten auf Vorschlag Frankreichs), um die Rekordpreise am Treibstoffmarkt abzufedern.
+* **US-Diesellage:** US-Präsident Trump erwog zeitweise ein DieseleXportverbot, um inländische Preise vor den Midterm-Wahlen zu senken.
 
 ## Verknüpfte Konzepte
 * [[concepts/consumer-price-index|Consumer Price Index (CPI)]]
