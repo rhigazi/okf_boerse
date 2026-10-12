@@ -1,19 +1,25 @@
 ---
-type: Entity
-title: Bayer AG (ETR: BAYN)
-description: Deutscher Chemie- und Pharmakonzerne mit Schwerpunkten in Pflanzenschutz (Crop Science) und Pharmaceuticals.
-sources: [/raw/processed/boerse_stuttgart_morning_briefing_14_sept_2026.md, /raw/processed/markt_und_konjunkturdaten_15_sept_2026.md]
-timestamp: 2026-09-15T08:00:00Z
+title: "Bayer AG"
+type: "entity"
+tags:
+  - pharma
+  - agrarchemie
+  - dax
+  - bayer
+  - us-investitionen
+updated: "2026-10-11"
 ---
 
-# Bayer AG (ETR: BAYN)
+# Bayer AG
 
-**Bayer AG** ist ein führender deutscher Chemie- und Pharmakonzerne mit Hauptsitz in Leverkusen.
+Die **Bayer AG** ist ein deutscher Leverkusen-basierter Chemie- und Pharmakonzern, im DAX notiert.
 
-## Roundup-Sammelvergleich (September 2026)
-* **Gerichtsanhörung in St. Louis:** Am 14. September 2026 fand vor Richter Timothy Boyer in St. Louis die entscheidende Anhörung zur finalen Genehmigung des **7,25 Milliarden USD** schweren Sammelvergleichs für rund 65.000 Kläger statt.
-* **Prozessverlauf:** Zuvor hatte der *Eighth Circuit Court of Appeals* Ende August verfahrenstechnische Einsprüche von Kritikern abgewiesen. Richter Boyer hörte Befürworter (Planungssicherheit) und Gegner (Kritik an Abfindungssumme) an; eine finale Entscheidung wird in den kommenden Wochen erwartet.
-* **Marktreaktion:** Die Aussicht auf Beilegung der Rechtsstreitigkeiten stützte die Bayer-Aktie zu Wochenbeginn mit einem Plus von **+4,5 %**.
+## Großinvestition in den USA (Oktober 2026)
+- **Neues Pharmawerk in Ohio:** Bayer kündigte den Bau einer hochmodernen pharmazeutischen Fertigungsanlage im US-Bundesstaat Ohio an.
+- **Investitionsvolumen:** **2,2 Milliarden US-Dollar**.
+- **Arbeitsplätze:** Es sollen rund 600 neue Arbeitsplätze vor Ort entstehen.
+- **Strategie:** Bayer-CEO Bill Anderson betonte, dass die USA das primäre Innovations- und Produktionszentrum für das Pharmageschäft darstellen. In den vergangenen fünf Jahren hat Bayer bereits über 7 Milliarden USD in US-Forschung und -Produktion investiert, während der Pharmastandort Europa wegen hoher Energiekosten und bürokratischer Hürden zunehmend unter Druck gerät.
 
-## Verknüpfte Konzepte
-* [[concepts/regional-market-divergence-usa-europe|Regionale Markt-Divergenz USA vs. Europa]]
+## Verwandte Konzepte & Entitäten
+- [[Herbstgutachten & Deutsche Konjunktur]]
+- [[Eli Lilly]]

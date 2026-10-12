@@ -1,32 +1,32 @@
 ---
 type: Concept
 title: US-Anleiherenditen (Treasury Yields) & Duration-Risiko
-description: Grundlagen, Einflussfaktoren und Auswirkungen von US-Staatsanleiherenditen auf Aktien, Sektoren, Duration-Risiko und Kreditkosten.
-sources: [/raw/processed/markt_einflussfaktoren_11_sept_2026.md, /raw/processed/podcast_transkripte_sept_2026.md, /raw/processed/boerse_stuttgart_morning_briefing_14_sept_2026.md, /raw/processed/fomc_zinsentscheid_und_marktdaten_16_sept_2026.md, /raw/processed/handelsblatt_today_16_sept_2026_kanada_anleihen.md, /raw/processed/gesamt.txt]
-timestamp: 2026-09-25T00:00:00Z
+description: Grundlagen, Anstieg der 10Y US-Rendite auf 5,28 %, Intraday-Reversal nach schwachen NFP-Arbeitsmarktdaten und Duration-Risiko.
+sources: [/raw/processed/markt_einflussfaktoren_11_sept_2026.md, /raw/processed/podcast_transkripte_sept_2026.md, /raw/processed/boerse_stuttgart_morning_briefing_14_sept_2026.md, /raw/processed/fomc_zinsentscheid_und_marktdaten_16_sept_2026.md, /raw/processed/handelsblatt_today_16_sept_2026_kanada_anleihen.md, /raw/processed/gesamt.txt, /raw/processed/ergaenzung_2_oktober_2026.txt]
+timestamp: 2026-10-02T00:00:00Z
 ---
 
 # US-Anleiherenditen (Treasury Yields) & Duration-Risiko
 
 **US-Staatsanleihen (Treasuries)** sind Schuldtitel, die vom US-Finanzministerium ausgegeben werden. Die **Rendite (Yield)** bezeichnet den tatsächlichen Jahresertrag für Anleger und bewegt sich invers zum Anleihekurs. Sie dient weltweit als Maßstab für den „risikofreien Zins“ (*Risk-Free Rate*).
 
-## Anstieg auf Mehrjahreshöchststände (Ende September 2026)
-* **10-jährige Treasuries:** Kletterten Ende September 2026 auf **über 5,12 % bis 5,18 %** (Höchststand seit 19 Jahren / Finanzkrise).
-* **30-jährige Treasuries:** Sprangen auf ein 22-Jahres-Hoch von rund **5,39 %**.
-* **Treiber:** Robuste US-Einkaufsmanagerindizes (Dienstleistungen 58,7), hartnäckige Inflation/Ölpreise, aggressive Fed-Politik (Leitzinskorridor 3,75–4,00 %) sowie Sorgen um die US-Staatsschulden.
+## Höchststände & Intraday-Reversal (2. Oktober 2026)
+* **Reaktion auf US-Arbeitsmarktbericht:** Die überraschend schwachen Non-Farm Payrolls (+29.000 Stellen statt erwarteten +84.000) führten zunächst zu einem abrupten Renditeeinbruch (-6 Bp).
+* **Intraday-Reversal:** Im Tagesverlauf überwogen jedoch Gewinnsicherungen und Sorgen über das hohe US-Haushaltsdefizit sowie die Energiekrise.
+* **Tagesschlusskurse (02.10.2026):**
+  * **10-jährige US-Treasuries:** Kletterten per Saldo auf **5,281 %** (nahe dem 24-Jahres-Hoch).
+  * **30-jährige US-Treasuries:** Notierten bei **5,629 %** (Höchststand seit 2002).
+  * **2-jährige US-Treasuries:** Erholten sich auf **4,80 %**.
 
-## Duration-Risiko (Kapitalbindungsdauer)
-* Das **Duration-Risiko** beschreibt das Verlustrisiko bei steigenden Marktzinsen:
-  * Je länger die Laufzeit einer Anleihe, desto höher die Duration und desto empfindlicher reagiert der Kurs.
-  * Beispiel: Bei einer 30-jährigen Staatsanleihe mit einer Duration von 15 Jahren führt ein Zinsanstieg um +1,0 % rein rechnerisch zu einem Kursverfall von ca. 15 %.
+## Implikationen für die Fed-Politik
+* **Zinspause im Oktober zementiert:** Die schwachen Stellendaten und die nach unten revidierten Vormonate drückten die Marktwahrscheinlichkeit für eine Zinserhöhung auf der Fed-Sitzung Ende Oktober auf unter 20 % (Zinspause zu >80 % eingepreist).
+* **Ausblick Dezember:** Eine finale Zinsanhebung im Dezember 2026 bleibt datenabhängig möglich.
 
-## Auswirkungen auf Aktien & den Technologie-Sektor
-1. **Barwert-Effekt (DCF):** Zukünftige Gewinne von Wachstumsunternehmen werden mit einem höheren Diskontierungssatz abgezinst, was den fairen Wert mathematisch drückt.
-2. **Attraktive Kapital-Alternative:** Risikofreie Anleihen mit >5,1 % Rendite veranlassen institutionelle Investoren zur Umschichtung aus Aktien in Rentenpapiere.
-3. **Steigende Kapitalkosten:** Kredite und Anleiheemissionen verteuern sich für Unternehmen deutlich.
+## Duration-Risiko & Bewertungseffekte
+* **Duration-Risiko:** Misst die Kurssensitivität von Anleihen gegenüber Zinsänderungen. Langläufer erleiden bei steigenden Renditen prozentual hohe Kursverluste.
+* **Druck auf Tech- & Growth-Aktien:** Höhere Abzinsungsfaktoren reduzieren den Barwert zukünftiger Gewinne (*Discounted Cash Flow*).
 
 ## Verknüpfte Konzepte
 * [[concepts/consumer-price-index|Consumer Price Index (CPI)]]
-* [[concepts/equity-risk-premium|Aktienrisikoprämie (ERP)]]
 * [[concepts/japanese-monetary-policy-carry-trade|Japanische Geldpolitik & Yen Carry Trades]]
 * [[concepts/fomc-decision|FOMC Zinsentscheidung]]
