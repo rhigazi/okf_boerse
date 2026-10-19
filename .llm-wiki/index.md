@@ -1,75 +1,130 @@
+# Knowledge Base Index
+
+> **Wissensnetzwerk zur Wirtschaft, Geldpolitik & Märkten** (Stand: Oktober 2026)
+> *Struktur:* OKF-Stil (Oberkochen-Framework) mit verknüpften Konzepten und Entitäten.
+
 ---
-type: Index
-title: Wiki Index
-description: Hauptverzeichnis des Makro-Wissens-Wikis.
-sources: []
-timestamp: 2026-09-16T22:30:00Z
+
+## 1. Konzepte ()
+
+- [[adp-employment-report]]
+- [[ai-mental-health-safety]]
+- [[altersvorsorge-depot]]
+- [[china-economic-indicators]]
+- [[consumer-credit]]
+- [[consumer-price-index]]
+- [[dienstleistungsinflation-ezb-geldpolitik]]
+- [[empire-state-manufacturing-index]]
+- [[equity-risk-premium]]
+- [[eu-autopakt-verbrenneraus-2035]]
+- [[eu-canada-partnership]]
+- [[eu-verbraucherkreditrichtlinie-ccd-ii]]
+- [[existing-home-sales]]
+- [[fed-dual-mandate]]
+- [[finanzbildungsstrategie]]
+- [[fomc-decision]]
+- [[forward-guidance]]
+- [[geopolitische-risiken]]
+- [[german-insolvency-trends]]
+- [[german-lng-dependency]]
+- [[herbstgutachten-deutsche-konjunktur]]
+- [[housing-market-indicators]]
+- [[import-export-price-index]]
+- [[initial-jobless-claims]]
+- [[japanese-monetary-policy-carry-trade]]
+- [[ki-agenten-unternehmenseinkauf]]
+- [[ki-infrastruktur-schuldenkrise-coreweave]]
+- [[mba-mortgage-applications]]
+- [[michigan-consumer-sentiment]]
+- [[mortgage-spread-housing]]
+- [[nahb-housing-market-index]]
+- [[oil-price-energy-market]]
+- [[philadelphia-fed-manufacturing-index]]
+- [[physische-ki-robotik]]
+- [[producer-price-index-ppi]]
+- [[real-wages-fed-policy]]
+- [[regional-market-divergence-usa-europe]]
+- [[retail-sales]]
+- [[schifffahrt-containermarkt-feeder]]
+- [[strategiewandel-emobilitaet-porsche35]]
+- [[terafab-musk-chip-initiative]]
+- [[uk-economic-indicators]]
+- [[us-diesel-deal-energie-waffenruhe]]
+- [[us-dollar-index-dxy]]
+- [[us-geldpolitik-zinskurve]]
+- [[us-inflation-erzeugerpreise-oktober-2026]]
+- [[us-treasury-yields]]
+- [[vae-deutschland-investitionen]]
+- [[vergleich-regional-indizes]]
+- [[wage-price-spiral]]
+- [[wholesale-inventories]]
+- [[wirtschaftsnobelpreis-2026-mikrofundierung]]
+- [[wochenvorschau-termine-sept-2026]]
+
 ---
 
-# Wiki Index
+## 2. Entitäten ()
 
-## Konzepte (Concepts)
-* [/concepts/adp-employment-report.md](/concepts/adp-employment-report.md)
-* [/concepts/ai-mental-health-safety.md](/concepts/ai-mental-health-safety.md)
-* [/concepts/china-economic-indicators.md](/concepts/china-economic-indicators.md)
-* [/concepts/consumer-credit.md](/concepts/consumer-credit.md)
-* [/concepts/consumer-price-index.md](/concepts/consumer-price-index.md)
-* [/concepts/empire-state-manufacturing-index.md](/concepts/empire-state-manufacturing-index.md)
-* [/concepts/equity-risk-premium.md](/concepts/equity-risk-premium.md)
-* [/concepts/eu-canada-partnership.md](/concepts/eu-canada-partnership.md)
-* [/concepts/existing-home-sales.md](/concepts/existing-home-sales.md)
-* [/concepts/fed-dual-mandate.md](/concepts/fed-dual-mandate.md)
-* [/concepts/finanzbildungsstrategie.md](/concepts/finanzbildungsstrategie.md)
-* [/concepts/fomc-decision.md](/concepts/fomc-decision.md)
-* [/concepts/forward-guidance.md](/concepts/forward-guidance.md)
-* [/concepts/geopolitische-risiken.md](/concepts/geopolitische-risiken.md)
-* [/concepts/german-insolvency-trends.md](/concepts/german-insolvency-trends.md)
-* [/concepts/german-lng-dependency.md](/concepts/german-lng-dependency.md)
-* [/concepts/housing-market-indicators.md](/concepts/housing-market-indicators.md)
-* [/concepts/import-export-price-index.md](/concepts/import-export-price-index.md)
-* [/concepts/initial-jobless-claims.md](/concepts/initial-jobless-claims.md)
-* [/concepts/japanese-monetary-policy-carry-trade.md](/concepts/japanese-monetary-policy-carry-trade.md)
-* [/concepts/mba-mortgage-applications.md](/concepts/mba-mortgage-applications.md)
-* [/concepts/michigan-consumer-sentiment.md](/concepts/michigan-consumer-sentiment.md)
-* [/concepts/mortgage-spread-housing.md](/concepts/mortgage-spread-housing.md)
-* [/concepts/nahb-housing-market-index.md](/concepts/nahb-housing-market-index.md)
-* [/concepts/oil-price-energy-market.md](/concepts/oil-price-energy-market.md)
-* [/concepts/philadelphia-fed-manufacturing-index.md](/concepts/philadelphia-fed-manufacturing-index.md)
-* [/concepts/producer-price-index-ppi.md](/concepts/producer-price-index-ppi.md)
-* [/concepts/real-wages-fed-policy.md](/concepts/real-wages-fed-policy.md)
-* [/concepts/regional-market-divergence-usa-europe.md](/concepts/regional-market-divergence-usa-europe.md)
-* [/concepts/retail-sales.md](/concepts/retail-sales.md)
-* [/concepts/uk-economic-indicators.md](/concepts/uk-economic-indicators.md)
-* [/concepts/us-dollar-index-dxy.md](/concepts/us-dollar-index-dxy.md)
-* [/concepts/us-treasury-yields.md](/concepts/us-treasury-yields.md)
-* [/concepts/vae-deutschland-investitionen.md](/concepts/vae-deutschland-investitionen.md)
-* [/concepts/vergleich-regional-indizes.md](/concepts/vergleich-regional-indizes.md)
-* [/concepts/wage-price-spiral.md](/concepts/wage-price-spiral.md)
-* [/concepts/wholesale-inventories.md](/concepts/wholesale-inventories.md)
-* [/concepts/wochenvorschau-termine-sept-2026.md](/concepts/wochenvorschau-termine-sept-2026.md)
-
-## Entitäten (Entities)
-* [/entities/adobe-inc.md](/entities/adobe-inc.md)
-* [/entities/amgen-inc.md](/entities/amgen-inc.md)
-* [/entities/apple-inc.md](/entities/apple-inc.md)
-* [/entities/bayer-ag.md](/entities/bayer-ag.md)
-* [/entities/deutsche-boerse-ag.md](/entities/deutsche-boerse-ag.md)
-* [/entities/eleco-plc.md](/entities/eleco-plc.md)
-* [/entities/flatexdegiro-ag.md](/entities/flatexdegiro-ag.md)
-* [/entities/hvivo-plc.md](/entities/hvivo-plc.md)
-* [/entities/inditex-sa.md](/entities/inditex-sa.md)
-* [/entities/meta-platforms-inc.md](/entities/meta-platforms-inc.md)
-* [/entities/n26-se.md](/entities/n26-se.md)
-* [/entities/nike-inc.md](/entities/nike-inc.md)
-* [/entities/novartis-ag.md](/entities/novartis-ag.md)
-* [/entities/nvidia-corp.md](/entities/nvidia-corp.md)
-* [/entities/oracle-corp.md](/entities/oracle-corp.md)
-* [/entities/renalytix-plc.md](/entities/renalytix-plc.md)
-* [/entities/rheinmetall-ag.md](/entities/rheinmetall-ag.md)
-* [/entities/richemont.md](/entities/richemont.md)
-* [/entities/tsmc.md](/entities/tsmc.md)
-* [/entities/volkswagen-ag.md](/entities/volkswagen-ag.md)
-
-## Notizen (Notes)
-* [/notes/trading-risk-calendar-sept-2026.md](/notes/trading-risk-calendar-sept-2026.md)
-* [/notes/macro-correlation-matrix.md](/notes/macro-correlation-matrix.md)
+- [[adobe-inc]]
+- [[amgen-inc]]
+- [[anthropic]]
+- [[apple-inc]]
+- [[ashtead-technology-holdings-plc]]
+- [[asos-vistry]]
+- [[bango-brave-bison]]
+- [[bayer-ag]]
+- [[bmw-ag]]
+- [[burford-capital]]
+- [[card-factory-tt-electronics]]
+- [[coreweave]]
+- [[craneware-plc]]
+- [[decart-inc]]
+- [[deutsche-boerse-ag]]
+- [[dutch-bros]]
+- [[eleco-plc]]
+- [[ernst-russ-ag]]
+- [[flatexdegiro-ag]]
+- [[fonix-mobile-luceco]]
+- [[frasers-group-jd-sports]]
+- [[groupe-seb-wmf]]
+- [[grupa-kenty-metra]]
+- [[harworth-group-plc]]
+- [[helsing-gmbh]]
+- [[hvivo-plc]]
+- [[ig-group-plc]]
+- [[inditex-sa]]
+- [[kingfisher-plc]]
+- [[kooth-plc]]
+- [[mercia-asset-management-plc]]
+- [[meta-platforms-inc]]
+- [[mongodb-inc]]
+- [[n26-se]]
+- [[nike-inc]]
+- [[nordex-se]]
+- [[novartis-ag]]
+- [[nvidia-corp]]
+- [[oracle-corp]]
+- [[otis-worldwide]]
+- [[oura-health]]
+- [[pollen-street-group-plc]]
+- [[raspberry-pi-holdings-plc]]
+- [[reflection-ai]]
+- [[renalytix-plc]]
+- [[rheinmetall-ag]]
+- [[richemont]]
+- [[saga-springfield-tortilla]]
+- [[schneider-electric-ptc]]
+- [[seeing-machines-aurrigo]]
+- [[sefe-gmbh]]
+- [[spacex]]
+- [[starbucks-chipotle]]
+- [[tribal-rm-group]]
+- [[tsmc]]
+- [[tsmc-taiwan-semiconductor]]
+- [[uk-small-caps-october-2026]]
+- [[unicredit-commerzbank]]
+- [[urban-outfitters-nuuly]]
+- [[vesuvius-plc]]
+- [[volkswagen-ag]]
+- [[warpaint-london-plc]]
+- [[xp-factory-plc]]

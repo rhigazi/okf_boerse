@@ -1,66 +1,32 @@
 ---
 type: Concept
-title: US-Anleiherenditen (Treasury Yields) & Marktmechanismen
-description: Grundlagen, Einflussfaktoren und Auswirkungen von US-Staatsanleiherenditen auf Aktien, Sektoren und Kreditkosten.
-sources: [/raw/processed/markt_einflussfaktoren_11_sept_2026.md, /raw/processed/podcast_transkripte_sept_2026.md, /raw/processed/boerse_stuttgart_morning_briefing_14_sept_2026.md, /raw/processed/fomc_zinsentscheid_und_marktdaten_16_sept_2026.md, /raw/processed/handelsblatt_today_16_sept_2026_kanada_anleihen.md]
-timestamp: 2026-09-16T22:30:00Z
+title: US-Anleiherenditen (Treasury Yields) & Duration-Risiko
+description: Grundlagen, Anstieg der 10Y US-Rendite auf 5,28 %, Intraday-Reversal nach schwachen NFP-Arbeitsmarktdaten und Duration-Risiko.
+sources: [/raw/processed/markt_einflussfaktoren_11_sept_2026.md, /raw/processed/podcast_transkripte_sept_2026.md, /raw/processed/boerse_stuttgart_morning_briefing_14_sept_2026.md, /raw/processed/fomc_zinsentscheid_und_marktdaten_16_sept_2026.md, /raw/processed/handelsblatt_today_16_sept_2026_kanada_anleihen.md, /raw/processed/gesamt.txt, /raw/processed/ergaenzung_2_oktober_2026.txt]
+timestamp: 2026-10-02T00:00:00Z
 ---
 
-# US-Anleiherenditen (Treasury Yields) & Marktmechanismen
+# US-Anleiherenditen (Treasury Yields) & Duration-Risiko
 
 **US-Staatsanleihen (Treasuries)** sind Schuldtitel, die vom US-Finanzministerium ausgegeben werden. Die **Rendite (Yield)** bezeichnet den tatsächlichen Jahresertrag für Anleger und bewegt sich invers zum Anleihekurs. Sie dient weltweit als Maßstab für den „risikofreien Zins“ (*Risk-Free Rate*).
 
-## Zusammenhang zwischen Kerninflation und Renditen
-1. **Notenbank-Reaktion:** Eine hartnäckige oder überraschend hohe [[concepts/consumer-price-index|Kerninflation (Core CPI)]] zwingt die [[concepts/fed-dual-mandate|Federal Reserve]], Zinsen länger hoch zu halten oder weiter anzuheben.
-2. **Anpassung am Rentenmarkt:** Erwarten Investoren höhere Leitzinsen, verkaufen sie bestehende Festzinsanleihen. Durch den Kursverfall steigen die Renditen für Neuemissionen und Umlauftitel.
-3. **Auswirkung auf Aktien:** Steigende Renditen erhöhen die Diskontierungsfaktoren in Bewertungsmodellen und steigern die Opportunitätskosten für risikobehaftete Eigenkapitalanlagen.
+## Höchststände & Intraday-Reversal (2. Oktober 2026)
+* **Reaktion auf US-Arbeitsmarktbericht:** Die überraschend schwachen Non-Farm Payrolls (+29.000 Stellen statt erwarteten +84.000) führten zunächst zu einem abrupten Renditeeinbruch (-6 Bp).
+* **Intraday-Reversal:** Im Tagesverlauf überwogen jedoch Gewinnsicherungen und Sorgen über das hohe US-Haushaltsdefizit sowie die Energiekrise.
+* **Tagesschlusskurse (02.10.2026):**
+  * **10-jährige US-Treasuries:** Kletterten per Saldo auf **5,281 %** (nahe dem 24-Jahres-Hoch).
+  * **30-jährige US-Treasuries:** Notierten bei **5,629 %** (Höchststand seit 2002).
+  * **2-jährige US-Treasuries:** Erholten sich auf **4,80 %**.
 
-## Aktueller Stand (11. September 2026)
-Nach den heißen Kerninflationsdaten (+0,3 % MoM) und vor der anstehenden Zinsentscheidung stehen die US-Renditen auf Mehrmonats- bzw. Mehrjahreshöchstständen:
+## Implikationen für die Fed-Politik
+* **Zinspause im Oktober zementiert:** Die schwachen Stellendaten und die nach unten revidierten Vormonate drückten die Marktwahrscheinlichkeit für eine Zinserhöhung auf der Fed-Sitzung Ende Oktober auf unter 20 % (Zinspause zu >80 % eingepreist).
+* **Ausblick Dezember:** Eine finale Zinsanhebung im Dezember 2026 bleibt datenabhängig möglich.
 
-* **2-jährige US-Staatsanleihe (Short-Term):** **4,63 %**
-  * *Eigenschaft:* Hochsensibel gegenüber kurzfristigen Leitzinserwartungen der Fed. Höchster Stand seit Juli 2024.
-* **10-jährige US-Staatsanleihe (Benchmark):** **4,96 %**
-  * *Eigenschaft:* Die weltweit wichtigste Referenzanleihe. Steht unmittelbar vor der psychologisch kritischen Marke von **5,0 %** (Höchststand seit 2023).
-* **30-jährige US-Staatsanleihe (Long-Term):** **5,36 %**
-  * *Eigenschaft:* Spiegelt langfristige Inflationserwartungen und Sorgen bezüglich der US-Staatsverschuldung wider.
-
-## Entwicklungen nach der Fed-Zinserhöhung (16. September 2026)
-* **2-jährige US-Treasuries:** Sprangen nach Warshs hawkish Äußerungen um 7 Bp auf **4,73 %** nach oben (Höchststand seit Juli 2024).
-* **10-jährige US-Treasuries:** Kletterten auf den höchsten Schlussstand seit 2007 bei **5,003 %**, ehe am Donnerstagmorgen leichte Käufe einsetzten und die Rendite auf **4,99 %** drückten.
-* **Warshs 3 Erklärungen für hohe Langfrist-Renditen:**
-  1. *Wirtschaftsstärke:* Robuste US-Konjunktur (BIP-Prognose +2,3 %).
-  2. *Hyperscaler KI-CapEx & Crowding-Out:* Massive Unternehmensanleihe-Emissionen von Microsoft, Alphabet & Amazon konkurrieren direkt mit Treasuries um Kapital und treiben Zinsen.
-  3. *Geopolitik:* Dauerhaft höhere Kreditkosten durch globale Konflikte.
-
-## Experten-Einschätzung zu Eingriffen & Fed-Dynamik (Christian Kopf, Union Investment)
-* **Bessents Rückkäufe („Taschenspielertrick“):** Die Verdreifachung des Anleiherückkaufvolumens durch US-Finanzminister Scott Bessent auf ca. 6 Mrd. USD pro Kaufoperation verpufft wirkungslos an der Grunddynamik der stark steigenden US-Staatsverschuldung.
-* **Mögliche Patt-Situation bei der Fed:** Während Fed-Chef Kevin Warsh hawkish auftritt, signalisieren Tauben wie Chris Waller (über den Kerndeflator der Konsumausgaben bei ~2,8 %) oder John Williams Ablehnung weiterer Zinsschritte.
-* **Paradoxon am Rentenmarkt:** Eine moderate Leitzinserhöhung könnte das lange Ende der Zinskurve (10Y/30Y) sogar beruhigen, da sie Inflationsängste eindämmt.
-
-## Anleihen als direkte Konkurrenz für Aktien (September 2026)
-* **Rechnungszins bei Versorgungswerken:** Viele Pensionskassen müssen einen festgelegten Rechnungszins von ca. **3,0 %** erwirtschaften. Da risikofreie deutsche Bundesanleihen bereits **3,5 %** und US Treasuries **>5,0 %** bieten, können institutionelle Großanleger ihre Verpflichtungen ohne Aktienrisiko bedienen.
-* **Comeback des 60/40-Portfolios:** Die Aufteilung in 60 % Aktien und 40 % Anleihen erlebt als langfristige Strategie eine Renaissance.
-* **Schwellenwert der Societe Generale:** Anlagestrategen der SocGen nennen eine Rendite von **5,5 %** bei 10-jährigen US-Treasuries als die kritische Marke, ab der dem Aktienmarkt eine massive Umschichtungswelle droht.
-
-## Hauptreaktionen des Aktienmarktes bei Renditen nahe / über 5,0 %
-
-1. **Umschichtung von Kapital (Asset Allocation):**
-   * Bei garantierten risikofreien Renditen von >5 % sinkt der Anreiz für risikoreiche Aktien. Institutionelle Investoren schichten Kapital von Aktien in Anleihen um.
-2. **Druck auf Growth- & Tech-Aktien:**
-   * *Barwertproblem:* Zukünftige Gewinne werden mit höheren Abzinsungsfaktoren abgezinst, was die heutigen fairen Werte drückt.
-   * *Kapitalkosten:* Höhere Zinsen verteuern die Wachstumsfinanzierung.
-3. **Anstieg allgemeiner Kreditkosten:**
-   * Die 10-jährige Rendite steuert Konsumentenkredite und US-Bauzinsen, was den Konsum und den Häusermarkt bremst.
-4. **Gewinner & defensive Gewinner im Hochzinsumfeld:**
-   * **Finanzsektor & Großbanken:** Höhere Nettozinsmargen (Kreditzinsen steigen schneller als Einlagenzinsen).
-   * **Versicherungen:** Höhere Neuanlage-Renditen für den Anlage-Float.
-   * **Net-Cash-Unternehmen:** Hohe Bargeldreserven verzinsen sich lukrativ in kurzfristigen Staatsanleihen (T-Bills).
-   * **Defensive Substanzwerte (Utilities, Staples):** Relativ stabiler Cashflow als sicherer Hafen.
+## Duration-Risiko & Bewertungseffekte
+* **Duration-Risiko:** Misst die Kurssensitivität von Anleihen gegenüber Zinsänderungen. Langläufer erleiden bei steigenden Renditen prozentual hohe Kursverluste.
+* **Druck auf Tech- & Growth-Aktien:** Höhere Abzinsungsfaktoren reduzieren den Barwert zukünftiger Gewinne (*Discounted Cash Flow*).
 
 ## Verknüpfte Konzepte
 * [[concepts/consumer-price-index|Consumer Price Index (CPI)]]
-* [[concepts/equity-risk-premium|Aktienrisikoprämie (ERP)]]
-* [[concepts/mortgage-spread-housing|Mortgage-Spread & US-Immobilienmarkt]]
+* [[concepts/japanese-monetary-policy-carry-trade|Japanische Geldpolitik & Yen Carry Trades]]
 * [[concepts/fomc-decision|FOMC Zinsentscheidung]]
-* [[concepts/us-dollar-index-dxy|US Dollar Index (DXY)]]

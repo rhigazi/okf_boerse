@@ -1,5 +1,11 @@
 # Log
 
+- 2026-10-11T00:00:00Z — ingest: wochenbericht_05_11_oktober_2026.txt (raw/processed/wochenbericht_05_11_oktober_2026.txt) - Erstellung von terafab-musk-chip-initiative.md, strategiewandel-emobilitaet-porsche35.md, us-geldpolitik-zinskurve.md, dienstleistungsinflation-ezb-geldpolitik.md, sefe-gmbh.md, schneider-electric-ptc.md, volkswagen-ag.md, bayer-ag.md, spacex.md, groupe-seb-wmf.md, otis-worldwide.md, dutch-bros.md, starbucks-chipotle.md, urban-outfitters-nuuly.md & uk-small-caps-october-2026.md; Update von index.md.
+
+- 2026-10-02T00:00:00Z — ingest: ergaenzung_2_oktober_2026.txt (raw/processed/ergaenzung_2_oktober_2026.txt) - Erstellung von altersvorsorge-depot.md, physische-ki-robotik.md, burford-capital.md, mongodb-inc.md, bango-brave-bison.md, ig-group-plc.md, vesuvius-plc.md, tribal-rm-group.md, card-factory-tt-electronics.md, saga-springfield-tortilla.md, grupa-kenty-metra.md; Updates für japanese-monetary-policy-carry-trade.md, us-treasury-yields.md, oil-price-energy-market.md, meta-platforms-inc.md, nike-inc.md & ai-mental-health-safety.md.
+
+- 2026-09-26T00:00:00Z — ingest: gesamt.txt (raw/processed/gesamt.txt) - Erstellung von eu-verbraucherkreditrichtlinie-ccd-ii.md, schifffahrt-containermarkt-feeder.md, herbstgutachten-deutsche-konjunktur.md, ernst-russ-ag.md, pollen-street-group-plc.md, mercia-asset-management-plc.md, ashtead-technology-holdings-plc.md, harworth-group-plc.md, raspberry-pi-holdings-plc.md, kooth-plc.md, warpaint-london-plc.md, craneware-plc.md, xp-factory-plc.md, frasers-group-jd-sports.md, kingfisher-plc.md, seeing-machines-aurrigo.md, fonix-mobile-luceco.md, asos-vistry.md; Updates für us-treasury-yields.md, japanese-monetary-policy-carry-trade.md & ai-mental-health-safety.md.
+
 - 2026-09-16T22:30:00Z — ingest: handelsblatt-today-16-sept-2026 (raw/processed/handelsblatt_today_16_sept_2026_kanada_anleihen.md) - Erstellung von eu-canada-partnership.md, japanese-monetary-policy-carry-trade.md & rheinmetall-ag.md; Updates für us-treasury-yields.md & equity-risk-premium.md.
 
 - 2026-09-16T22:00:00Z — ingest: fomc-zinsentscheid-und-marktdaten-16-sept-2026 (raw/processed/fomc_zinsentscheid_und_marktdaten_16_sept_2026.md) - Updates für fomc-decision.md, us-treasury-yields.md, uk-economic-indicators.md & retail-sales.md.
@@ -79,3 +85,22 @@
 - 2026-09-06T04:22:30Z — ingest: wochenvorschau-termine-bis-18-september-2026 (raw/temp_source.md)
 
 - 2026-09-06T04:11:40Z — bundle initialized.
+
+## [2026-10-18] - Ingest: Wochenbericht 12.–18. Oktober 2026
+
+### Verarbeitete Rohdaten
+- `.llm-wiki/raw/processed/wochenbericht_12_18_oktober_2026.txt`
+
+### Erstellte & Aktualisierte Konzepte (`/concepts/`)
+- [[KI-Infrastruktur-Schuldenkrise-CoreWeave]] – Analyse der Neocloud-Verschuldung ($52 Mrd. bei CoreWeave), Gartner-Prognose (80% Konsolidierung bis 2030) und Kapazitätsgarantien von Nvidia.
+- [[EU-Autopakt-VerbrennerAus-2035]] – Kompromiss Merz/Macron, 70% Made-in-Europe-Vorgabe, Verzicht auf verbleibende CO2/Stahl-Kompensationen.
+- [[US-Diesel-Deal-Energie-Waffenruhe]] – US-Russland-Dieselabkommen zur Spritpreisdeckelung vor Midterms, Spannungen mit Ukraine/EU.
+- [[US-Inflation-Erzeugerpreise-Oktober-2026]] – US-CPI (3,7% YoY) und PPI (+1,3% MoM) September 2026, Treiber Benzin/Treibstoffe, Fed-Zinserwartungen.
+
+### Erstellte & Aktualisierte Entitäten (`/entities/`)
+- [[CoreWeave]] – KI-Cloud-Anbieter, Schuldenstruktur, Backlog ($104,2 Mrd.) und Nvidia-Beziehung.
+- [[TSMC-Taiwan-Semiconductor]] – Q3-Rekordgewinn (+68,7%), 2nm-Hochlauf und Auswirkung von Auslandswerken auf die Bruttomarge.
+- [[Anthropic]] – Q3-Umsatz von $16,8 Mrd. (+45% QoQ), IPO-Vorbereitungen und Sicherheitsvorfälle mit autonomem Modellverhalten.
+- [[UniCredit-Commerzbank]] – EZB-Genehmigung zur Überschreitung der 30%-Schwelle und Aufstockung auf knapp 50% Stimmrechte.
+- [[Nordex-SE]] – Q3-Auftragseingang (+29,5% auf 2.810 MW) und Anhebung der EBITDA-Marge auf 11,5–12,5%.
+- [[Oura-Health]] – Gestoppter Börsengang, $1 Mrd. Umsatz, Hardware- vs. Plattform-Bewertung.

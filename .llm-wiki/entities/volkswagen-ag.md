@@ -1,24 +1,31 @@
 ---
-type: Entity
-title: Volkswagen AG (ETR: VOW3)
-description: Deutscher Automobilkonzern, einer der weltweit größten Fahrzeughersteller (VW, Audi, Porsche, Skoda, SEAT u.a.).
-sources: [/raw/morning_briefing_11_sept_2026.md]
-timestamp: 2026-09-11T07:52:05Z
+type: "entity"
+title: "Volkswagen AG"
+description: Informationen und Kennzahlen zu "Volkswagen AG".
+timestamp: 2026-10-18T00:00:00Z
 ---
 
-# Volkswagen AG (ETR: VOW3)
+# Volkswagen AG (VW Group)
 
-**Volkswagen AG** ist Europas größter Automobilhersteller.
+Die **Volkswagen AG** ist der größte europäische Automobilhersteller mit Sitz in Wolfsburg und Dachkonzern der Marken VW, Audi, Škoda, SEAT, Cupra, Porsche, Bentley und Lamborghini.
 
-## Umfassender Sanierungsplan (September 2026)
-* **Werkschließungen & Kapazitätsabbau:** Geplante Einstellung der Automobilproduktion in 4 deutschen Werken:
-  * Zwickau & Emden (geplant bis 2031; Kosten ca. 2 Mrd. Euro).
-  * Hannover (VW Nutzfahrzeuge, bis 2032; ca. 2 Mrd. Euro).
-  * Neckarsulm (Audi, bis 2034; ca. 2 Mrd. Euro).
-* **Stellenabbau:** Abbau von rund 60.000 Stellen bis 2030 (etwa die Hälfte davon in Deutschland) über Altersteilzeit, Abfindungen und Sozialpläne.
-* **Gesamtkosten Sanierung:** Gesamtaufwand für den Personal- und Werksumbau auf ca. 16 Milliarden Euro veranschlagt.
-* **Immobilien-Verkauf:** Prüfung des Verkaufs von Teilen des betrieblichen Immobilienportfolios mit einem Buchwert von 35 Milliarden Euro zur Stärkung der Bilanz.
+## Entwicklungen im Oktober 2026
 
-## Verknüpfte Entitäten & Konzepte
-* [[concepts/real-wages-fed-policy|Reallöhne und Fed-Geldpolitik]]
-* [[concepts/retail-sales|Retail Sales (Einzelhandelsumsätze)]]
+### 1. Millionenrückruf wegen Lenkgetriebe-Defekt
+- **Umfang:** Weltweit **4,64 Millionen Fahrzeuge** der Marken Volkswagen, Audi, Škoda und SEAT potenziell betroffen.
+- **Ursache:** Korrodierte Befestigungsschrauben am Lenkgetriebe. Erste Fälle wurden bereits im Oktober 2024 untersucht; im September 2026 erfolgte die Einstufung als sicherheitsrelevant. Bis dato wurden keine Personenschäden gemeldet.
+
+### 2. BaFin-Geldbuße wegen Ad-hoc-Verstoß
+- **Strafe:** Die Finanzaufsicht BaFin erließ einen Bußgeldbescheid über **1,2 Millionen Euro** wegen eines Verstoßes gegen die Marktmissbrauchsverordnung im März 2023.
+- **Grund:** Der optimistische Jahresausblick lag deutlich über den Markterwartungen und hätte unverzüglich als Ad-hoc-Mitteilung (Insiderinformation) statt nur per regulärer Pressemitteilung veröffentlicht werden müssen.
+
+### 3. Rückstellungen in Großbritannien (UK-Autokredite)
+- **Rückstellung:** Die Tochtergesellschaft Volkswagen UK bildete Rückstellungen in Höhe von **725 Millionen GBP (855 Mio. EUR)** wegen des britischen Skandals um überteuert verkaufte Autokredite. VW UK rutschte dadurch in die Verlustzone.
+
+### 4. Audi-Krise & Zukunftsvereinbarungen
+- Audi-CEO Gernot Döllner und VW-Konzernchef Oliver Blume kündigten Nachverhandlungen zum "Zukunftspakt" an den Audi-Standorten (z. B. Neckarsulm) an, da Kostendruck und Absatzeinbrüche (insbesondere bei Elektroautos und in China) neue tiefgreifende Einsparungen erzwingen.
+
+## Verwandte Konzepte & Entitäten
+- [[Strategiewandel E-Mobilität & Porsche '35]]
+- [[Porsche AG]]
+- [[Mercedes-Benz Group]]
