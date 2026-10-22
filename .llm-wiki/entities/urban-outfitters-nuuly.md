@@ -1,13 +1,8 @@
 ---
-title: "Urban Outfitters & Nuuly"
 type: "entity"
-tags:
-  - einzelhandel
-  - mode
-  - miet-abo
-  - urban-outfitters
-  - nuuly
-updated: "2026-10-11"
+title: "Urban Outfitters & Nuuly"
+description: Informationen und Kennzahlen zu "Urban Outfitters & Nuuly".
+timestamp: 2026-10-18T00:00:00Z
 ---
 
 # Urban Outfitters & Nuuly

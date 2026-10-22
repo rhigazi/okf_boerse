@@ -1,14 +1,8 @@
 ---
-title: "Strategiewandel E-Mobilität & Porsche '35"
 type: "concept"
-tags:
-  - automobilindustrie
-  - e-mobilitaet
-  - verbrennungsmotor
-  - hybrid
-  - porsche
-  - volkswagen
-updated: "2026-10-11"
+title: "Strategiewandel E-Mobilität & Porsche '35"
+description: Informationen und Kennzahlen zu "Strategiewandel E-Mobilität & Porsche '35".
+timestamp: 2026-10-18T00:00:00Z
 ---
 
 # Strategiewandel E-Mobilität & Porsche '35
@@ -27,7 +21,7 @@ Auf ihrem Kapitalmarkttag im Oktober 2026 verkündete die [[Porsche AG]] die neu
 
 ## Verwandte Konzepte & Entitäten
 - [[Porsche AG]]
-- [[Volkswagen AG]]
+- [[volkswagen-ag]]
 - [[Mercedes-Benz Group]]
 - [[BMW Group]]
 - [[BorgWarner]]

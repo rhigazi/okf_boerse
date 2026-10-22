@@ -1,19 +1,14 @@
 ---
-title: "Starbucks & Chipotle Mexican Grill"
 type: "entity"
-tags:
-  - gastronomie
-  - systemgastronomie
-  - m-and-a
-  - starbucks
-  - chipotle
-updated: "2026-10-11"
+title: "Starbucks & Chipotle Mexican Grill"
+description: Informationen und Kennzahlen zu "Starbucks & Chipotle Mexican Grill".
+timestamp: 2026-10-18T00:00:00Z
 ---
 
 # Starbucks & Chipotle Mexican Grill
 
 ## Übernahmegerüchte im Oktober 2026
-Im Oktober 2026 berichtete die *Financial Times*, dass die weltgrößte Kaffeekette **[[Starbucks]]** (Marktkapitalisierung ~100 Mrd. USD, ~41.000 Filialen) mit Beratern die Möglichkeit eines Übernahmeangebots für die Schnellrestaurantkette **[[Chipotle Mexican Grill]]** (Marktkapitalisierung ~40 Mrd. USD, ~4.200 Filialen) geprüft hat.
+Im Oktober 2026 berichtete die *Financial Times*, dass die weltgrößte Kaffeekette **[[Starbucks]]** (Marktkapitalisierung ~100 Mrd. USD, ~41.000 Filialen) mit Beratern die Möglichkeit eines Übernahmeangebots für die Schnellrestaurantkette **[[starbucks-chipotle]]** (Marktkapitalisierung ~40 Mrd. USD, ~4.200 Filialen) geprüft hat.
 
 ### Personelle Verflechtung
 - Starbucks-CEO Brian Niccol war zuvor über sechs Jahre lang erfolgreicher CEO von Chipotle und hatte die Kette nach einer E.-Coli-Krise saniert.

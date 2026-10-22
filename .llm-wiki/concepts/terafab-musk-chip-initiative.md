@@ -1,19 +1,13 @@
 ---
-title: "Terafab (Musk Chip-Initiative)"
 type: "concept"
-tags:
-  - halbleiter
-  - ki-infrastruktur
-  - tesla
-  - spacex
-  - xai
-  - elon-musk
-updated: "2026-10-11"
+title: "Terafab (Musk Chip-Initiative)"
+description: Informationen und Kennzahlen zu "Terafab (Musk Chip-Initiative)".
+timestamp: 2026-10-18T00:00:00Z
 ---
 
 # Terafab (Musk Chip-Initiative)
 
-**Terafab** ist ein hochambitioniertes, vertikal integriertes Halbleiter-Großprojekt in Grimes County bei Austin, Texas. Das Projekt wird als Joint Venture zwischen [[Tesla Inc.]], [[SpaceX]] und [[xAI]] unter der Leitung von [[Elon Musk]] umgesetzt.
+**Terafab** ist ein hochambitioniertes, vertikal integriertes Halbleiter-Großprojekt in Grimes County bei Austin, Texas. Das Projekt wird als Joint Venture zwischen [[tesla-inc]], [[SpaceX]] und [[xAI]] unter der Leitung von [[Elon Musk]] umgesetzt.
 
 ## Zielsetzung und Kapazität
 - **Ziel:** Erreichung von über **1 Terawatt (1 Billion Watt)** an KI-Rechenkapazität pro Jahr.
@@ -40,6 +34,6 @@ Die Terafab bündelt den gesamten Fertigungsprozess an einem Standort:
 
 ## Verwandte Konzepte & Entitäten
 - [[SpaceX]]
-- [[Tesla Inc.]]
+- [[tesla-inc]]
 - [[Physische KI & Robotik]]
-- [[US Treasury Yields & Fed Policy]]
+- [[us-treasury-yields]]

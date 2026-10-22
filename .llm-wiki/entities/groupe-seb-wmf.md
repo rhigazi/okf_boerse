@@ -1,14 +1,8 @@
 ---
-title: "Groupe SEB & WMF"
 type: "entity"
-tags:
-  - konsumgueter
-  - haushaltsgeraete
-  - kaffeemaschinen
-  - wmf
-  - tefal
-  - krups
-updated: "2026-10-11"
+title: "Groupe SEB & WMF"
+description: Informationen und Kennzahlen zu "Groupe SEB & WMF".
+timestamp: 2026-10-18T00:00:00Z
 ---
 
 # Groupe SEB & WMF
@@ -29,4 +23,4 @@ Die **Groupe SEB** (*Société d'emboutissage de Bourgogne*) ist ein börsennoti
 - **Konkurrenz:** Konkurrenz entsteht durch US-Anbieter wie *SharkNinja* (Heißluftfritteusen, Staubsauger).
 
 ## Verwandte Konzepte & Entitäten
-- [[Dienstleistungsinflation & EZB-Geldpolitik]]
+- [[dienstleistungsinflation-ezb-geldpolitik]]

@@ -1,14 +1,8 @@
 ---
-title: "Schneider Electric & PTC Inc."
 type: "entity"
-tags:
-  - technologie
-  - software
-  - industrieautomation
-  - ma
-  - schneider-electric
-  - ptc
-updated: "2026-10-11"
+title: "Schneider Electric & PTC Inc."
+description: Informationen und Kennzahlen zu "Schneider Electric & PTC Inc.".
+timestamp: 2026-10-18T00:00:00Z
 ---
 
 # Schneider Electric & PTC Inc.
@@ -23,5 +17,5 @@ updated: "2026-10-11"
 - **M&A-Offensive:** Schneider übernimmt zudem den bulgarischen Smart-Home-Spezialisten Shelly Group (über 1 Mrd. EUR) und den KI-Datenanbieter Cognite (3 Mrd. USD).
 
 ## Verwandte Konzepte & Entitäten
-- [[Terafab (Musk Chip-Initiative)]]
-- [[Shelly Group]]
+- [[terafab-musk-chip-initiative]]
+- [[schneider-electric-ptc]]

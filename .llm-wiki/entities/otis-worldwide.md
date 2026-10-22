@@ -1,12 +1,8 @@
 ---
-title: "Otis Worldwide Corp."
 type: "entity"
-tags:
-  - industrie
-  - aufzuege
-  - gebaeudetechnik
-  - otis
-updated: "2026-10-11"
+title: "Otis Worldwide Corp."
+description: Informationen und Kennzahlen zu "Otis Worldwide Corp.".
+timestamp: 2026-10-18T00:00:00Z
 ---
 
 # Otis Worldwide Corp.
@@ -24,4 +20,4 @@ updated: "2026-10-11"
 - **Modernisierungswelle als Katalysator:** Von weltweit 22 Millionen Aufzügen sind über 9 Millionen älter als 20 Jahre. Modernisierungen ermöglichen es Otis, verloren gegangene Wartungsverträge von freien Anbietern zurückzuholen, da moderne Steuerungssysteme herstellereigene Diagnosesoftware erfordern.
 
 ## Verwandte Konzepte & Entitäten
-- [[Dienstleistungsinflation & EZB-Geldpolitik]]
+- [[dienstleistungsinflation-ezb-geldpolitik]]

@@ -85,3 +85,22 @@
 - 2026-09-06T04:22:30Z — ingest: wochenvorschau-termine-bis-18-september-2026 (raw/temp_source.md)
 
 - 2026-09-06T04:11:40Z — bundle initialized.
+
+## [2026-10-18] - Ingest: Wochenbericht 12.–18. Oktober 2026
+
+### Verarbeitete Rohdaten
+- `.llm-wiki/raw/processed/wochenbericht_12_18_oktober_2026.txt`
+
+### Erstellte & Aktualisierte Konzepte (`/concepts/`)
+- [[KI-Infrastruktur-Schuldenkrise-CoreWeave]] – Analyse der Neocloud-Verschuldung ($52 Mrd. bei CoreWeave), Gartner-Prognose (80% Konsolidierung bis 2030) und Kapazitätsgarantien von Nvidia.
+- [[EU-Autopakt-VerbrennerAus-2035]] – Kompromiss Merz/Macron, 70% Made-in-Europe-Vorgabe, Verzicht auf verbleibende CO2/Stahl-Kompensationen.
+- [[US-Diesel-Deal-Energie-Waffenruhe]] – US-Russland-Dieselabkommen zur Spritpreisdeckelung vor Midterms, Spannungen mit Ukraine/EU.
+- [[US-Inflation-Erzeugerpreise-Oktober-2026]] – US-CPI (3,7% YoY) und PPI (+1,3% MoM) September 2026, Treiber Benzin/Treibstoffe, Fed-Zinserwartungen.
+
+### Erstellte & Aktualisierte Entitäten (`/entities/`)
+- [[CoreWeave]] – KI-Cloud-Anbieter, Schuldenstruktur, Backlog ($104,2 Mrd.) und Nvidia-Beziehung.
+- [[TSMC-Taiwan-Semiconductor]] – Q3-Rekordgewinn (+68,7%), 2nm-Hochlauf und Auswirkung von Auslandswerken auf die Bruttomarge.
+- [[Anthropic]] – Q3-Umsatz von $16,8 Mrd. (+45% QoQ), IPO-Vorbereitungen und Sicherheitsvorfälle mit autonomem Modellverhalten.
+- [[UniCredit-Commerzbank]] – EZB-Genehmigung zur Überschreitung der 30%-Schwelle und Aufstockung auf knapp 50% Stimmrechte.
+- [[Nordex-SE]] – Q3-Auftragseingang (+29,5% auf 2.810 MW) und Anhebung der EBITDA-Marge auf 11,5–12,5%.
+- [[Oura-Health]] – Gestoppter Börsengang, $1 Mrd. Umsatz, Hardware- vs. Plattform-Bewertung.

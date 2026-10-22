@@ -1,12 +1,8 @@
 ---
-title: "Dutch Bros Inc."
 type: "entity"
-tags:
-  - gastronomie
-  - kaffee
-  - drive-thru
-  - dutch-bros
-updated: "2026-10-11"
+title: "Dutch Bros Inc."
+description: Informationen und Kennzahlen zu "Dutch Bros Inc.".
+timestamp: 2026-10-18T00:00:00Z
 ---
 
 # Dutch Bros Inc.
@@ -24,4 +20,4 @@ updated: "2026-10-11"
 
 ## Verwandte Konzepte & Entitäten
 - [[Starbucks]]
-- [[Chipotle Mexican Grill]]
+- [[starbucks-chipotle]]

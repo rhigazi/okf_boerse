@@ -1,13 +1,8 @@
 ---
-title: "US-Anleiherenditen (Treasury Yields) & Fed-Geldpolitik"
 type: "concept"
-tags:
-  - staatsanleihen
-  - us-treasuries
-  - fed
-  - zinskurve
-  - geldpolitik
-updated: "2026-10-11"
+title: "US-Anleiherenditen (Treasury Yields) & Fed-Geldpolitik"
+description: Informationen und Kennzahlen zu "US-Anleiherenditen (Treasury Yields) & Fed-Geldpolitik".
+timestamp: 2026-10-18T00:00:00Z
 ---
 
 # US-Anleiherenditen (Treasury Yields) & Fed-Geldpolitik
@@ -31,5 +26,5 @@ updated: "2026-10-11"
 
 ## Verwandte Konzepte & Entitäten
 * [[Federal Reserve (Fed)]]
-* [[Dienstleistungsinflation & EZB-Geldpolitik]]
-* [[Terafab (Musk Chip-Initiative)]]
+* [[dienstleistungsinflation-ezb-geldpolitik]]
+* [[terafab-musk-chip-initiative]]

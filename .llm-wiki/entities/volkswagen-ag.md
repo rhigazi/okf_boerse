@@ -1,14 +1,8 @@
 ---
-title: "Volkswagen AG"
 type: "entity"
-tags:
-  - automobilhersteller
-  - dax
-  - volkswagen
-  - audi
-  - skoda
-  - seat
-updated: "2026-10-11"
+title: "Volkswagen AG"
+description: Informationen und Kennzahlen zu "Volkswagen AG".
+timestamp: 2026-10-18T00:00:00Z
 ---
 
 # Volkswagen AG (VW Group)

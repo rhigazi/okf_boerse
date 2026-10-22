@@ -1,14 +1,8 @@
 ---
-title: "UK Small-Caps & M&A Updates (Oktober 2026)"
 type: "entity"
-tags:
-  - uk-small-caps
-  - ma
-  - vesuvius
-  - tribal
-  - rm-group
-  - card-factory
-updated: "2026-10-11"
+title: "UK Small-Caps & M&A Updates (Oktober 2026)"
+description: Informationen und Kennzahlen zu "UK Small-Caps & M&A Updates (Oktober 2026)".
+timestamp: 2026-10-18T00:00:00Z
 ---
 
 # UK Small-Caps & M&A Updates (Oktober 2026)

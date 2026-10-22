@@ -1,13 +1,8 @@
 ---
-title: "Dienstleistungsinflation & EZB-Geldpolitik"
 type: "concept"
-tags:
-  - ezb
-  - euro-krise
-  - inflationsrate
-  - dienstleistungen
-  - lohnentwicklung
-updated: "2026-10-11"
+title: "Dienstleistungsinflation & EZB-Geldpolitik"
+description: Informationen und Kennzahlen zu "Dienstleistungsinflation & EZB-Geldpolitik".
+timestamp: 2026-10-18T00:00:00Z
 ---
 
 # Dienstleistungsinflation & EZB-Geldpolitik

@@ -1,13 +1,8 @@
 ---
-title: "Bayer AG"
 type: "entity"
-tags:
-  - pharma
-  - agrarchemie
-  - dax
-  - bayer
-  - us-investitionen
-updated: "2026-10-11"
+title: "Bayer AG"
+description: Informationen und Kennzahlen zu "Bayer AG".
+timestamp: 2026-10-18T00:00:00Z
 ---
 
 # Bayer AG

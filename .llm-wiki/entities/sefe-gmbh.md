@@ -1,13 +1,8 @@
 ---
-title: "SEFE GmbH"
 type: "entity"
-tags:
-  - energie
-  - gasversorgung
-  - privatisierung
-  - verstaatlichung
-  - kfw
-updated: "2026-10-11"
+title: "SEFE GmbH"
+description: Informationen und Kennzahlen zu "SEFE GmbH".
+timestamp: 2026-10-18T00:00:00Z
 ---
 
 # SEFE GmbH (Securing Energy for Europe)
