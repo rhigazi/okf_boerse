@@ -1,30 +1,33 @@
 ---
-type: "entity"
-title: "SpaceX (Space Exploration Technologies Corp.)"
-description: Informationen und Kennzahlen zu "SpaceX (Space Exploration Technologies Corp.)".
-timestamp: 2026-10-18T00:00:00Z
+type: Entity
+title: SpaceX (Space Exploration Technologies Corp.)
+description: Raumfahrt-, KI-Infrastruktur- und Satellitenkommunikationskonzern unter der Leitung von Elon Musk; erstes profitables Quartal als Börsennotiertes Unternehmen im Oktober 2026.
+sources: [/raw/processed/wochenbericht_12_18_oktober_2026.txt, /raw/processed/gesamt_23_24_oktober_2026.md]
+timestamp: 2026-10-23T00:00:00Z
 ---
 
 # SpaceX (Space Exploration Technologies Corp.)
 
-**SpaceX** ist ein US-amerikanisches Luft- und Raumfahrt- sowie Satellitenkommunikationsunternehmen unter der Leitung von [[Elon Musk]].
+**SpaceX** ist ein führendes Raumfahrt-, KI-Infrastruktur- und Satellitenkommunikationsunternehmen unter der Leitung von **Elon Musk**.
 
-## Entwicklungen im Oktober 2026
+---
 
-### 1. 40-Milliarden-Dollar-Finanzierungsrunde für Nvidia-Chips
-- **Finanzierungsstruktur:** Unter Führung von *Apollo Global Management* nimmt SpaceX im Oktober 2026 **40 Milliarden US-Dollar** an Kapital auf (10 Mrd. USD Bankkredite, 30 Mrd. USD Anleihen).
-- **Zweck:** Kauf von [[nvidia-corp]] KI-Chips zur Ausrüstung von solarbetriebenen KI-Satellitenschwärmen und bodengestützten Rechenzentren im Rahmen des [[terafab-musk-chip-initiative]]-Projekts.
+## 1. Finanzielle & Strategische Meilensteine (Oktober 2026)
 
-### 2. Einstieg in den US-Mobilfunkmarkt
-- **Spektrumskauf:** SpaceX schloss eine Vereinbarung zum Kauf von 800-MHz-Mobilfunkspektrum-Lizenzen von der Investmentfirma *Grain Management* für ca. **8 Milliarden US-Dollar** in bar.
-- **Strategie:** Ergänzung des weltweiten [[Starlink]]-Satelliten-Breitbanddienstes um direkte Direct-to-Cell-Mobilfunkdienste zur Konkurrenzierung von AT&T und Verizon.
+* **Erstes profitables Quartal als Aktiengesellschaft:**
+  - Im Oktober 2026 wies SpaceX sein erstes profitables Quartal seit dem Gang an die öffentlichen Märkte aus.
+* **Mögliche Konsolidierung mit Tesla & xAI:**
+  - Elon Musk stellte Überlegungen für eine Fusion oder tiefere Integration zwischen **SpaceX**, **Tesla Inc.**, **xAI** und der Plattform **X** in Aussicht, um ein integriertes KI-, Datenzentrum- und Mobilitäts-Ökosystem zu schaffen.
+* **Geopolitische Rolle von Starlink / Starshield:**
+  - Berichte über Drosselungen des militärischen Satellitennetzes *Starshield* in der Ukraine verdeutlichten die geopolitische Schlüsselrolle des Unternehmens und führten zu Diskussionen über staatliche Anfragen der US-Regierung zur Steuerung des Dienstes im Nahen Osten und Osteuropa.
+* **40-Milliarden-USD-Infrastrukturfinanzierung:**
+  - Aufnahme von 40 Mrd. USD Fremdkapital zum Kauf von Nvidia-KI-Chips für solarbetriebene Orbit-Rechenzentren im Rahmen des [[terafab-musk-chip-initiative]]-Projekts.
 
-### 3. Operative Meilensteine
-- Erste erfolgreiche Orbitalfahrt des *Starship* in den Erdorbit.
-- Astronautentransport zur ISS in Rekordzeit (< 8 Stunden ab Start).
-- Start des ersten Test-Satelliten mit KI-Rechenzentrumschips für [[Alphabet Inc. (Google)]] ins All.
+---
 
-## Verwandte Konzepte & Entitäten
+## 2. Relevante Querverweise
+
 - [[terafab-musk-chip-initiative]]
-- [[tesla-inc]]
 - [[nvidia-corp]]
+- [[coreweave]]
+- [[geopolitische-risiken]]
