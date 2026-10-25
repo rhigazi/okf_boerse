@@ -1,29 +1,40 @@
 ---
 type: Entity
 title: Apple Inc. (NASDAQ: AAPL)
-description: US-Technologiekonzern, Entwickler des iPhone, iPad, Mac und führender Anbieter von Konsum-Hardware und KI-Ökosystemen.
-sources: [/raw/apple_event_roundup_10_sept_2026.md, /raw/processed/podcast_transkripte_sept_2026.md]
-timestamp: 2026-09-12T00:00:00Z
+description: US-Technologiekonzern, Entwickler von iPhone, iPad, Mac, HomeView und Inhaber der 5-Billionen-Dollar-Börsenbewertung.
+sources: [/raw/apple_event_roundup_10_sept_2026.md, /raw/processed/podcast_transkripte_sept_2026.md, /raw/processed/gesamt_23_24_oktober_2026.md]
+timestamp: 2026-10-23T00:00:00Z
 ---
 
 # Apple Inc. (NASDAQ: AAPL)
 
-**Apple Inc.** ist einer der wertvollsten Technologiekonzerne der Welt.
+**Apple Inc.** ist ein US-amerikanischer Technologiekonzern und das zweite Unternehmen der Weltgeschichte (nach [[nvidia-corp]]), das eine Börsenbewertung von **5 Billionen US-Dollar** überschritten hat.
 
-## Führungswechsel & Innovation (September 2026)
-* **CEO:** John Ternus (Nachfolger von Tim Cook, zuvor langjähriger Hardware-Chef).
+---
+
+## 1. Neueste Entwicklungen & Meilensteine (Oktober 2026)
+
+* **5-Billionen-USD-Marktkapitalisierung:**
+  - Am 14. Oktober 2026 schloss die Apple-Aktie erstmals nachhaltig oberhalb der Marke von 5 Billionen US-Dollar Market Cap.
 * **iPhone Duo (Erstes Falt-Smartphone):**
-  * Einstieg in Klapp-Smartphones ab **1.999 USD** / 2.299 Euro (Spitzenmodell 3.799 Euro mit 2 TB).
-  * Erstes Falt-Handy von Apple seit dem Ur-iPhone 2007.
-  * *Markterwartung:* IDC prognostiziert, dass Apple trotz des späten Starts im Jahr 2026 rund **44 % des weltweiten Falt-Smartphone-Umsatzes** erobern wird.
-  * *Aktienreaktion:* Nach anfänglicher Skepsis stiegen Apple-Aktien in der Event-Woche um knapp **+4 %**, während der Zulieferer Skyworks um +19 % zulegte.
-* **iPhone 18 Pro / Pro Max:**
-  * Vorstellung mit variabler physischer Blende und **Apple Reference Image** (Echtheitsnachweis gegen KI-Fakes).
-  * Preisanstieg um 150 Euro (ab 1.449 Euro) aufgrund hoher Speicherkosten im KI-Boom.
-* **KI-Strategie:**
-  * On-Device-KI mit starkem Fokus auf Datenschutz anstelle externer Cloud-Zentren.
-  * Apple Watch Series 12 & Ultra 4 bieten automatisches Zusammenfassen von Tagesgesprächen.
+  - Vorbestellungsstart des Falt-Smartphones ab **1.999 USD**. Aufgrund hoher Nachfrage verschoben sich die Auslieferungstermine rasch bis Ende Januar 2027.
+* **HomeView (Smart Home Hub mit Siri AI):**
+  - Vorstellung von *HomeView*, einem dedicated Smart Home Display (7-Zoll-Bildschirm) zur Steuerung von HomeKit-Infrastruktur.
+  - Datenschutz-Architektur: Erfordert Multi-Faktor-Authentifizierung (FaceID-Scan, entsperrtes iPhone im selben Netzwerk), um persönliche Daten (Kalender, iMessage) auf dem Gemeinschaftsbildschirm anzuzeigen.
+* **Siri AI & Datenschutz-Strategie:**
+  - CEO John Ternus betont On-Device-Verschlüsselung und Private Cloud Compute. Apple verzichtet auf uneingeschränkten KI-Datenzugriff, um Risiken von "Ausrutschern" autonomer Agenten zu vermeiden.
 
-## Verknüpfte Konzepte
-* [[concepts/consumer-price-index|Consumer Price Index (CPI)]]
-* [[concepts/retail-sales|Retail Sales (Einzelhandelsumsätze)]]
+---
+
+## 2. Führung & Strategie
+
+* **CEO:** John Ternus (Nachfolger von Tim Cook).
+* **Ausrichtung:** Hohe Kapitaleffizienz, Kombination aus eigener Hardware und abgesicherten KI-Funktionen (Google Gemini Partnerschaft für Siri AI Foundation Models).
+
+---
+
+## 3. Relevante Querverweise
+
+- [[nvidia-corp]]
+- [[ki-software-disintermediation-agentic-ai]]
+- [[consumer-price-index]]
