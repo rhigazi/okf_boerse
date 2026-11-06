@@ -1,5 +1,7 @@
 # Log
 
+- 2026-11-06T06:00:00Z — ingest: gesamt_06_november_2026.txt (raw/processed/gesamt_06_november_2026.txt) - Erstellung von us-midterms-2026-kongress-ki-regulierung.md, eurozone-erzeugerpreise-energie-preisschock.md, deutsche-industrie-auftragseingang-stabilisierung.md, palantir-technologies.md, deutsche-telekom-ag.md, dhl-group.md, hensoldt-ag.md, qualcomm-inc.md & evonik-industries-ag.md; Updates für apple-inc.md, bmw-ag.md, rheinmetall-ag.md, bayer-ag.md, basf-se.md, nordex-se.md, unicredit-commerzbank.md, oil-price-energy-market.md, geopolitische-risiken.md & us-treasury-yields.md; Update von index.md & sources/gesamt-06-november-2026.md.
+
 - 2026-10-23T00:00:00Z — ingest: gesamt.md (raw/processed/gesamt_23_24_oktober_2026.md) - Erstellung von einkaufsmanagerindizes-oktober-2026.md, japan-geldpolitik-inflation-oktober-2026.md, ki-software-disintermediation-agentic-ai.md, volvo-group.md, eni-spa.md, holcim-ltd.md, tonies-se.md, activeops-plc.md & basf-se.md; Updates für oil-price-energy-market.md, apple-inc.md & spacex.md; Update von index.md.
 
 - 2026-10-11T00:00:00Z — ingest: wochenbericht_05_11_oktober_2026.txt (raw/processed/wochenbericht_05_11_oktober_2026.txt) - Erstellung von terafab-musk-chip-initiative.md, strategiewandel-emobilitaet-porsche35.md, us-geldpolitik-zinskurve.md, dienstleistungsinflation-ezb-geldpolitik.md, sefe-gmbh.md, schneider-electric-ptc.md, volkswagen-ag.md, bayer-ag.md, spacex.md, groupe-seb-wmf.md, otis-worldwide.md, dutch-bros.md, starbucks-chipotle.md, urban-outfitters-nuuly.md & uk-small-caps-october-2026.md; Update von index.md.
@@ -87,6 +89,36 @@
 - 2026-09-06T04:22:30Z — ingest: wochenvorschau-termine-bis-18-september-2026 (raw/temp_source.md)
 
 - 2026-09-06T04:11:40Z — bundle initialized.
+
+## [2026-11-06] - Ingest: Newscheck Gesamtausgabe 02.–06. November 2026
+
+### Verarbeitete Rohdaten
+- `.llm-wiki/raw/processed/gesamt_06_november_2026.txt`
+
+### Erstellte Konzepte (`/concepts/`)
+- [[us-midterms-2026-kongress-ki-regulierung]] – US-Midterms vom 3. Nov 2026: Wahlsieg der Demokraten in Repräsentantenhaus und Senat, Bürgerwiderstand gegen Energie- und Wasserverbrauch von KI-Rechenzentren, Moratoriumsforderung in Texas, massiver Tech-Ausverkauf am 5. Nov 2026 (Nasdaq -6,4 %, Nvidia -9,3 %, Speicherchiphersteller bis -22 %) und Flucht in Treasuries.
+- [[eurozone-erzeugerpreise-energie-preisschock]] – Eurozone Erzeugerpreise (PPI) im September 2026 bei +11,1 % YoY (+2,5 % MoM) infolge Nahost-Krieg und Energiepreisexplosion (+30,8 % YoY); Transmission auf Verbraucherpreise (CPI 4,0 %), Zinskanal der EZB stützt Euro (EUR/USD > 1,09).
+- [[deutsche-industrie-auftragseingang-stabilisierung]] – Reale Industrieaufträge im September 2026 erholen sich um +4,4 % MoM (Automobilsektor +10,5 %); Dienstleistungsumsätze +0,9 %; deutsche Arbeitskosten bei 44,32 €/h; KBA-Zulassungssprung bei reinen E-Autos (BEV) um +79,5 % YoY auf 37 % Marktanteil.
+
+### Erstellte Entitäten (`/entities/`)
+- [[palantir-technologies]] – Q3 2026 Rekordumsatz ($2,31 Mrd., +96 % YoY), US-Kommerzgeschäft explodiert um +148 % YoY durch AIP.
+- [[deutsche-telekom-ag]] – Q3 2026 Nettogewinn +13,8 % auf 2,76 Mrd. EUR, Anhebung der Jahresprognose für bereinigtes EBITDA AL auf ~47,6 Mrd. EUR.
+- [[dhl-group]] – Q3 2026 EBIT +16,2 % auf 1,72 Mrd. EUR, zweite Anhebung der EBIT-Jahresprognose 2026 auf >7,0 Mrd. EUR.
+- [[hensoldt-ag]] – 9M 2026 Auftragseingang +76,8 % auf 3,56 Mrd. EUR, Auftragsbestand auf Rekord von 10,37 Mrd. EUR, Anhebung Umsatzziel auf ~2,8 Mrd. EUR.
+- [[qualcomm-inc]] – Q4 FY26 Umsatz $10,32 Mrd., Automobilchips +89 %, SpaceX-Partnerschaft für Mobilfunk-Starlink und Rechenzentren-Hochlauf für FY27.
+- [[evonik-industries-ag]] – Erhöhtes 11,2 Mrd. EUR Übernahmeangebot durch BASF und parallele Prüfung der Übernahme des US-Spezialchemiekonzerns Ashland.
+
+### Aktualisierte Konzepte & Entitäten
+- [[apple-inc]] – Q4 FY26 Zahlen (Umsatz $114,5 Mrd., EPS $2,10), John Ternus erstmals als alleiniger CEO auf der Bilanzpressekonferenz, Start von iPhone Duo ($1.999), Margendruck im Weihnachtsquartal wegen Speicherchipkosten und App-Store-Regulierung.
+- [[bmw-ag]] – Gewinnwarnung 2026: Auto-EBIT-Marge auf -0,5 % bis +0,5 % gesenkt wegen erweiterter Struktur- und Portfoliomaßnahmen, beschleunigter Abbau von Managementebenen.
+- [[rheinmetall-ag]] – Starkes Q3 2026 (Umsatz +36 %, EBIT +62 % auf 553 Mio. EUR), aber leichte Rücknahme der Jahresprognose wegen Verzögerungen beim Boxer-Projekt 'Arminius' und Artilleriemunition.
+- [[bayer-ag]] – Jury-Sieg in St. Louis im ersten Glyphosat-Prozess nach dem Supreme-Court-Urteil; Pharma-Hoffnungsträger Nubeqa, Kerendia und Asundexian-Erstzulassung in China.
+- [[basf-se]] – Details zur auf 11,2 Mrd. EUR erhöhten Offerte für Evonik und Marktreaktion auf Evoniks Ashland-Prüfung.
+- [[nordex-se]] – Bestätigte Q3 2026 Zahlen (Umsatz +28,2 % auf 2,2 Mrd. EUR, EBITDA verdoppelt auf 278 Mio. EUR, Margenprognose 11,5–12,5 %).
+- [[unicredit-commerzbank]] – Commerzbank Q3 2026 Standalone-Zahlen: Nettogewinn springt um +45,2 % auf 859 Mio. EUR, operative Ertragskraft stärkt Übernahmeabwehr.
+- [[oil-price-energy-market]] – Volatilität im November (Brent zwischen 103 und 117 USD), US-Angriffe auf Gheschm, Rohölerzeugnisse +51,3 % YoY, gegenläufige Rallye bei Airline-Aktien.
+- [[geopolitische-risiken]] – Militärische Angriffe auf die Straße von Hormus / Gheschm, Einfluss der Treibstoffpreise auf US-Midterm-Wahlergebnisse.
+- [[us-treasury-yields]] – Flight-to-Safety aus Tech-Aktien in US-Staatsanleihen nach dem Kursrutsch vom 5. November 2026.
 
 ## [2026-10-18] - Ingest: Wochenbericht 12.–18. Oktober 2026
 

@@ -1,23 +1,48 @@
 ---
 type: Concept
-title: Geopolitische Risiken & Ölpreis-Schocks
-description: Auswirkungen geopolitischer Konflikte (z.B. Nahost / Straße von Hormus) auf Rohstoffpreise, Inflation und sichere Häfen.
-sources: [/raw/morning_briefing_10_sept_2026.md, /raw/oil_price_inflation_connection.txt, /raw/processed/podcast_transkripte_sept_2026.md]
-timestamp: 2026-09-12T01:00:00Z
+title: "Geopolitische Risiken & Ölpreis-Schocks"
+description: "Auswirkungen militärischer Konflikte (Nahost, Straße von Hormus, Insel Gheschm) auf Rohstoffpreise, Wahlen (US-Midterms) und Finanzmärkte."
+sources:
+  - /raw/morning_briefing_10_sept_2026.md
+  - /raw/oil_price_inflation_connection.txt
+  - /raw/processed/podcast_transkripte_sept_2026.md
+  - /raw/processed/gesamt_06_november_2026.txt
+timestamp: 2026-11-06T06:00:00Z
 ---
 
 # Geopolitische Risiken & Ölpreis-Schocks
 
-Geopolitische Spannungen in Schlüsselregionen (wie dem Nahen Osten oder der Straße von Hormus) gehören zu den stärksten exogenen Schocks für die Weltwirtschaft.
+Geopolitische Spannungen in Schlüsselregionen (insbesondere im Nahen Osten und an maritimen Nadelöhren wie der Straße von Hormus und dem Bab al-Mandeb) gehören zu den stärksten exogenen Schockquellen für die Weltwirtschaft.
 
-## Markt-Kanäle & Auswirkungen
-1. **Ölpreis-Eskalation:** Blockaden oder Angriffe auf Tankerinfrastruktur treiben Brent-Rohöl über die Marke von 100 USD/Barrel, was unmittelbare [[concepts/consumer-price-index|Inflationssorgen]] schürt.
-   * *Entwicklung Sept. 2026:* Nachdem der Schiffsverkehr durch die Straße von Hormus durch Iran weitgehend zum Erliegen kam, besetzten Houthi-Milizen die Insel Perim, Dhabab und die Hafenstadt Mocha am Bab al-Mandeb. Damit gerät auch die wichtigste Ausweichroute am Roten Meer unter feindliche Kontrolle.
-   * *Infrastrukturausfall:* Saudi-Arabien musste die 5 Mio. bpd fassende East-West-Pipeline nach Luftangriffen vorübergehend stilllegen.
-2. **Flucht in sichere Häfen (Safe Haven):** Kapital fließt aus Aktien in [[concepts/us-dollar-index-dxy|US-Dollar]] und Gold (welches auf Rekordmarken über 4.400 USD stieg).
-3. **Zinsdruck:** Anhaltend hohe Energiepreise erschweren Zentralbanken ([[concepts/fed-dual-mandate|Fed]], Bank of Japan) Zinssenkungen und treiben Anleiherenditen nach oben (10-jährige US-Treasuries auf 4,84 %).
+---
 
-## Verknüpfte Konzepte
-* [[concepts/oil-price-energy-market|Ölpreis & Energie-Markt]]
-* [[concepts/consumer-price-index|Consumer Price Index (CPI)]]
-* [[concepts/us-dollar-index-dxy|US Dollar Index (DXY)]]
+## 1. Brennpunkte & Eskalation (November 2026)
+
+* **Angriffe in der Straße von Hormus:**
+  - Am 3. November 2026 flog das US-Militär koordinierte Luftangriffe auf Stellungen der iranischen Revolutionsgarden auf der **Insel Gheschm** in der Straße von Hormus, nachdem von dort Raketen auf ein US-Aufklärungsflugzeug abgefeuert worden waren.
+  - Zuvor hatte der oberste iranische Führer Modschtaba Chamenei Gesprächsbereitschaft signalisiert, was jedoch durch militärische Zwischenfälle torpediert wurde.
+* **Folgen für Rohstoffmärkte:**
+  - Der Preis für Brent-Rohöl sprang unmittelbar wieder von 103 auf über **106 USD/Barrel**.
+  - Frachtraten und Kriegsrisiko-Versicherungsprämien für Tankerpassagen im Persischen Golf verharren auf extrem hohen Niveaus.
+
+---
+
+## 2. Markt-Kanäle & Politische Schockwellen
+
+1. **Wahlergebnisse & politische Destabilisierung:**
+   - Die durch den Nahost-Konflikt explodierten Kraftstoff- und Heizölpreise (Mineralölerzeugnisse +51,3 % YoY) waren der entscheidende Katalysator für die schwere Wahlniederlage der Republikaner bei den US-Zwischenwahlen am 3. November 2026 ([[us-midterms-2026-kongress-ki-regulierung]]).
+2. **Kosteninflation in der Realwirtschaft:**
+   - Gewerbliche Erzeugerpreise in Europa stiegen um +11,1 % YoY ([[eurozone-erzeugerpreise-energie-preisschock]]), was die Industrieproduktion in Frankreich (-0,5 % MoM) und Deutschland dämpft.
+3. **Flucht in sichere Häfen (Safe Haven):**
+   - Bei jeder Eskalationsstufe kommt es zu Umschichtungen in Gold, US-Staatsanleihen und den US-Dollar.
+
+---
+
+## 3. Relevante Querverweise
+
+- [[oil-price-energy-market]]
+- [[eurozone-erzeugerpreise-energie-preisschock]]
+- [[us-midterms-2026-kongress-ki-regulierung]]
+- [[consumer-price-index]]
+- [[rheinmetall-ag]]
+- [[hensoldt-ag]]

@@ -1,6 +1,6 @@
 # Knowledge Base Index
 
-> **Wissensnetzwerk zur Wirtschaft, Geldpolitik & Märkten** (Stand: Oktober 2026)
+> **Wissensnetzwerk zur Wirtschaft, Geldpolitik & Märkten** (Stand: November 2026)
 > *Struktur:* OKF-Stil (Oberkochen-Framework) mit verknüpften Konzepten und Entitäten.
 
 ---
@@ -13,6 +13,7 @@
 - [[china-economic-indicators]]
 - [[consumer-credit]]
 - [[consumer-price-index]]
+- [[deutsche-industrie-auftragseingang-stabilisierung]]
 - [[dienstleistungsinflation-ezb-geldpolitik]]
 - [[einkaufsmanagerindizes-oktober-2026]]
 - [[empire-state-manufacturing-index]]
@@ -20,6 +21,7 @@
 - [[eu-autopakt-verbrenneraus-2035]]
 - [[eu-canada-partnership]]
 - [[eu-verbraucherkreditrichtlinie-ccd-ii]]
+- [[eurozone-erzeugerpreise-energie-preisschock]]
 - [[existing-home-sales]]
 - [[fed-dual-mandate]]
 - [[finanzbildungsstrategie]]
@@ -56,6 +58,7 @@
 - [[us-dollar-index-dxy]]
 - [[us-geldpolitik-zinskurve]]
 - [[us-inflation-erzeugerpreise-oktober-2026]]
+- [[us-midterms-2026-kongress-ki-regulierung]]
 - [[us-treasury-yields]]
 - [[vae-deutschland-investitionen]]
 - [[vergleich-regional-indizes]]
@@ -85,10 +88,13 @@
 - [[craneware-plc]]
 - [[decart-inc]]
 - [[deutsche-boerse-ag]]
+- [[deutsche-telekom-ag]]
+- [[dhl-group]]
 - [[dutch-bros]]
 - [[eleco-plc]]
 - [[eni-spa]]
 - [[ernst-russ-ag]]
+- [[evonik-industries-ag]]
 - [[flatexdegiro-ag]]
 - [[fonix-mobile-luceco]]
 - [[frasers-group-jd-sports]]
@@ -96,6 +102,7 @@
 - [[grupa-kenty-metra]]
 - [[harworth-group-plc]]
 - [[helsing-gmbh]]
+- [[hensoldt-ag]]
 - [[holcim-ltd]]
 - [[hvivo-plc]]
 - [[ig-group-plc]]
@@ -113,7 +120,9 @@
 - [[oracle-corp]]
 - [[otis-worldwide]]
 - [[oura-health]]
+- [[palantir-technologies]]
 - [[pollen-street-group-plc]]
+- [[qualcomm-inc]]
 - [[raspberry-pi-holdings-plc]]
 - [[reflection-ai]]
 - [[renalytix-plc]]

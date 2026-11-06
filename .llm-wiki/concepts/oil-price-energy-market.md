@@ -1,9 +1,16 @@
 ---
 type: Concept
-title: Ölpreis & Energie-Markt (Brent / WTI, Diesel & Inflation)
-description: Dynamik der Rohölpreise (Brent vs. WTI), Houthi-Angriffe auf Saudi-Arabien (Brent bei 115 $), Verknüpfung zur Inflation, Leitzinsen und Branchenauswirkungen.
-sources: [/raw/eia_weekly_petroleum_report.txt, /raw/oil_price_inflation_connection.txt, /raw/usd_oil_correlation.txt, /raw/wti_vs_brent_comparison.txt, /raw/processed/ergaenzung_2_oktober_2026.txt, /raw/processed/gesamt_23_24_oktober_2026.md]
-timestamp: 2026-10-23T00:00:00Z
+title: "Ölpreis & Energie-Markt (Brent / WTI, Treibstoffe & Inflation)"
+description: "Dynamik der Rohölpreise (Brent bei 103–117 USD), US-Angriffe auf Gheschm/Straße von Hormus, Preisexplosion bei Mineralölprodukten (+51,3 %) und Durchreichen auf PPI und CPI."
+sources:
+  - /raw/eia_weekly_petroleum_report.txt
+  - /raw/oil_price_inflation_connection.txt
+  - /raw/usd_oil_correlation.txt
+  - /raw/wti_vs_brent_comparison.txt
+  - /raw/processed/ergaenzung_2_oktober_2026.txt
+  - /raw/processed/gesamt_23_24_oktober_2026.md
+  - /raw/processed/gesamt_06_november_2026.txt
+timestamp: 2026-11-06T06:00:00Z
 ---
 
 # Ölpreis & Energie-Markt (Brent / WTI & Inflation)
@@ -12,42 +19,43 @@ Die Rohöl- und Dieselpreise sind ein fundamentaler Treiber der weltweiten Konju
 
 ---
 
-## 1. Aktuelle Marktdynamik (Ende Oktober 2026)
+## 1. Aktuelle Marktdynamik (November 2026)
 
-* **Brent-Rohöl-Sprung:** Der Preis für ein Barrel der Rohölsorte Brent kletterte am 23. Oktober 2026 um **+1,8 % auf 115 USD pro Barrel** – den höchsten Stand seit Mai 2026 und nahe an den Jahreshöchstständen.
-* **Geopolitischer Auslöser:** Bekennerschreiben der vom Iran unterstützten Houthi-Miliz zu erneuten gezielten Angriffen auf saudi-arabische Ölinfrastruktur und Raffinerien.
-* **G7-Notfallfreigabe & US-Diesellage:** Die im Oktober beschlossene Freigabe von **100 Millionen Barrel Diesel und Rohöl** aus den G7-Strategiereserven linderte den Preisdruck nur temporär, da die physische Logistik durch Angriffe auf den Seeweg im Roten Meer beeinträchtigt bleibt.
+* **Volatilität bei Brent-Rohöl:**
+  - Nach Spitzenwerten von knapp **117 USD pro Barrel** fiel der Brent-Preis Anfang November nach Verhandlungssignalen aus Teheran kurzzeitig auf **103,28 USD**.
+  - Am 3. November sprangen die Notierungen infolge erneuter US-Luftangriffe auf Stellungen der iranischen Revolutionsgarden auf der Insel Gheschm (Straße von Hormus) wieder auf **106,12 USD**.
+* **Massiver Preissprung bei Veredelungsprodukten:**
+  - Die Erzeugerpreise für **Mineralölerzeugnisse lagen im September 2026 um +51,3 %** über Vorjahr; **leichtes Heizöl verteuerte sich um +91,8 % YoY**.
+  - Dieser Preisschub trieb den Eurozone-Erzeugerpreisindex (PPI) auf einen Rekordanstieg von **+11,1 % YoY**.
 
 ---
 
 ## 2. Ursache-Wirkungsketten & "Zahnräder der Wirtschaft"
 
 ```
-Houthi-Angriffe auf Saudi-Arabien -> Brent steigt auf 115 USD/Barrel
-  ├─► Treiber für Teuerung: EZB-Verbraucherumfrage zeigt Anstieg der 1J-Inflationserwartung auf 3,1 %
-  ├─► Gewinner (Upstream-Öl & Raffinerien): Eni SpA verdoppelt EBIT auf ~6 Mrd. € & zahlt 1,3 Mrd. € Sonderdividende
-  └─► Verlierer (Spezialchemie & Konsum): Margendruck zwingt chemische Industrie zu Konsolidierung (BASF-Übernahmeangebot für Evonik)
+Militärische Eskalation USA/Iran (Straße von Hormus)
+  ├─► Brent-Öl schwankt volatil zwischen 103 und 117 USD/Barrel
+  ├─► Veredelte Treibstoffe schießen nach oben (Heizöl +91,8 %, Mineralöl +51,3 %)
+  ├─► Eurozone-PPI springt auf +11,1 % YoY -> Eurozone-CPI klettert auf 4,0 %
+  └─► Verzögerung von EZB-Zinssenkungen stützt EUR/USD über 1,09
 ```
 
 ---
 
 ## 3. Handlungswissen & Brancheneffekte
 
-* **Integrierte Energiekonzerne (Upstream & Midstream):**
-  - **Handlung:** Übergewichten. Konzerne mit hoher Eigenförderung und starken Raffineriemargen (z. B. [[eni-spa]]) verzeichnen Rekordcashflows, erhöhen Dividenden und erweitern Aktienrückkäufe.
-* **Chemie- & Spezialchemiesektor:**
-  - **Handlung:** Selektive Zukäufe bei Konsolidierern; Meidung rein europäischer Standardchemie. Hohe Rohstoff- und Energiepreise treiben M&A-Wellen an (z. B. [[basf-se]] bietet 11,2 Mrd. € für Evonik, Evonik prüft Zukauf von Ashland in den USA).
-* **Geldpolitik & Anleihen:**
-  - **Handlung:** Höhere Energiepreise bremsen den Zinssenkungsspielraum der Zentralbanken (z. B. nötigt die BoJ in Japan zu weiteren Zinsschritten im Dezember 2026).
+* **Fluggesellschaften & Transport:** Extrem hohe inverse Korrelation zum Ölpreis. Beim kurzen Rücksetzer von Brent auf 103 USD erholten sich Airline-Aktien unmittelbar (Cathay Pacific +3,2 %, Qantas +6,4 %, Air China +2,9 %).
+* **Spezialchemie:** Anhaltend hohe Vorproduktpreise beschleunigen M&A-Wellen und Abwehrkämpfe (z. B. Übernahmeangebot von [[basf-se]] für [[evonik-industries-ag]]).
+* **Upstream-Konzerne:** Integrierte Öl- und Gasförderer (z. B. [[eni-spa]]) profitieren von überdurchschnittlichen Raffineriemargen und solidem Cashflow.
 
 ---
 
 ## 4. Relevante Querverweise
 
+- [[eurozone-erzeugerpreise-energie-preisschock]]
+- [[geopolitische-risiken]]
 - [[consumer-price-index]]
 - [[us-dollar-index-dxy]]
-- [[fed-dual-mandate]]
-- [[geopolitische-risiken]]
-- [[eni-spa]]
 - [[basf-se]]
-- [[japan-geldpolitik-inflation-oktober-2026]]
+- [[evonik-industries-ag]]
+- [[eni-spa]]

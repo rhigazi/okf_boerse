@@ -1,40 +1,49 @@
 ---
 type: Entity
-title: Nordex SE
-description: Deutscher Hersteller von Windkraftanlagen mit starkem Wachstum im Projekt- und Servicegeschäft.
+title: "Nordex SE (ETR: NDX1)"
+description: "Deutscher Hersteller von Windkraftanlagen an Land; starkes 3. Quartal 2026 mit Umsatzsprung auf 2,2 Mrd. EUR (+28,2 %) und Margenverdopplung auf 12,7 %."
 tags:
   - entitaet
   - nordex
   - windenergie
   - erneuerbare-energien
-timestamp: 2026-10-18T00:00:00Z
+  - dax
+  - mdax
+sources:
+  - /raw/processed/gesamt_06_november_2026.txt
+timestamp: 2026-11-06T06:00:00Z
 ---
 
-# Nordex SE
+# Nordex SE (ETR: NDX1)
 
 Die **Nordex SE** (XETR: NDX1) ist ein führender deutscher Hersteller von Windkraftanlagen an Land (Onshore-Windturbinen) mit Sitz in Hamburg.
 
 ---
 
-## 1. Q3 2026 Ergebnisse & Prognoseanhebung
+## 1. Quartalsergebnisse Q3 2026 & Margenverdopplung
 
-Im Oktober 2026 vermeldete Nordex starke Geschäftszahlen für das 3. Quartal 2026:
-- **Auftragseingang Q3:** Steigerung im Geschäftssegment Projekte um **+29,5 % auf 2.810 MW** (Vorjahr: 2.170 MW).
-- **Stärkste Einzelmärkte:** Türkei, Deutschland und die USA.
-- **EBITDA-Marge:** Verdopplung des operativen Gewinns (EBITDA Q3: 278 Mio. EUR nach 136 Mio. EUR im Vorjahr).
-- **Prognoseerhöhung 2026:** Nordex hob die Jahresspanne für die **EBITDA-Marge von 8–11 % auf 11,5 bis 12,5 %** an.
-- **Jahresumsatz:** Bestätigt bei **8,2 bis 9,0 Milliarden EUR**.
+Am 5. November 2026 bestätigte Nordex eine dynamische operative Beschleunigung im 3. Quartal 2026:
+
+| Kennzahl | Q3 2026 Berichtet | Vorjahr (Q3 2025) / Veränderung | Anmerkung / Einordnung |
+| :--- | :--- | :--- | :--- |
+| **Konzernumsatz** | **2,2 Mrd. EUR** | **+28,2 % YoY** | Zügige Abarbeitung des Auftragsbestands |
+| **EBITDA** | **278 Mio. EUR** | 136 Mio. EUR (**mehr als verdoppelt**) | Hohe operative Skaleneffekte |
+| **EBITDA-Marge** | **12,7 %** | Signifikant gestiegen | Profitiert von margenstarkem Service |
+| **EBITDA-Margenprognose 2026** | **11,5 % bis 12,5 %** | Zuvor 8 % bis 11 % | Angehoben an das obere Spannenende |
+| **Umsatzziel 2026** | **8,2 bis 9,0 Mrd. EUR** | Bestätigt | Planmäßiger Jahresverlauf |
 
 ---
 
-## 2. Erfolgsfaktoren
+## 2. Erfolgsfaktoren & Auftragstrends
 
-- Höhere Margen im margenstarken Servicegeschäft.
-- Fortschritte bei der Internationalisierung und eine verbesserte Preisgestaltung bei Neuaufträgen.
+- **Servicegeschäft als Renditetreiber:** Langfristige Wartungsverträge mit hoher Verfügbarkeitsgarantie liefern berechenbare, zweistellige Margen.
+- **Geografische Diversifizierung:** Solide Neuaufträge in Schlüsselmärkten wie Deutschland, der Türkei und Nordamerika.
+- **Preisstabilität:** Erfolgreiche Weitergabe von Komponenten- und Logistikkosten bei Neuverträgen.
 
 ---
 
 ## 3. Relevante Querverweise
 
-- [[nordex-se]]
-- [[Herbstgutachten-Deutsche-Konjunktur]]
+- [[deutsche-industrie-auftragseingang-stabilisierung]]
+- [[herbstgutachten-deutsche-konjunktur]]
+- [[eurozone-erzeugerpreise-energie-preisschock]]

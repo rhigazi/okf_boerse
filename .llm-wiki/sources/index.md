@@ -1,7 +1,7 @@
 ---
 type: Index
 title: Sources
-timestamp: 2026-09-06T04:11:40Z
+timestamp: 2026-11-06T06:00:00Z
 ---
 
 # Sources
@@ -12,6 +12,8 @@ timestamp: 2026-09-06T04:11:40Z
 - [CPI and Market Impact](/sources/cpi-market-impact.md)
 - [EIA Weekly Petroleum Status Report](/sources/eia-petroleum-report.md)
 - [Existing Home Sales](/sources/existing-home-sales.md)
+- [Gesamtausgabe Newscheck (02.–06. November 2026)](/sources/gesamt-06-november-2026.md)
+- [Gesamtausgabe Newscheck (Oktober 2026)](/sources/gesamt.md)
 - [Impact of USD Index (DXY) on Global Markets](/sources/dxy-market-impact.md)
 - [Oil Price and Inflation Connection](/sources/oil-price-inflation-connection.md)
 - [Real Income and Market Impact](/sources/real-income-market-impact.md)
